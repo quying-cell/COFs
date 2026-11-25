@@ -1,0 +1,1066 @@
+doi,name,dat,FE,MT,BET,PS,TEM,UT,TF,pH,TC,NM,EL,PT,J,CN,SC,FG,CM,CT,BB1,BB2,PLD,PD,COM,CB
+CO-TTCOF,10.1038/s41467-019-14237-4,1,28,unmodified,481,2.98,293,20,237,7.2,h-type cell,0.5,KHCO3,-0.5,-0.34,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,81,unmodified,481,5,293,20,237,7.2,h-type cell,0.5,KHCO3,-0.6,-1.41,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,91.3,unmodified,481,5,293,20,237,7.2,h-type cell,0.5,KHCO3,-0.7,-1.73,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,82,unmodified,481,5,293,20,237,7.2,h-type cell,0.5,KHCO3,-0.8,-2.95,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,59,unmodified,481,5,293,20,237,7.2,h-type cell,0.5,KHCO3,-0.9,-4.24,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,27.9,unmodified,481,2.98,293,20,237,6.8,h-type cell,0.5,KHCO3,-0.5,-0.514,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,80.49,unmodified,481,5,293,20,237,6.8,h-type cell,0.5,KHCO3,-0.6,-2.192,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,91.41,unmodified,481,5,293,20,237,6.8,h-type cell,0.5,KHCO3,-0.7,-3.764,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,81.27,unmodified,481,5,293,20,237,6.8,h-type cell,0.5,KHCO3,-0.8,-2.192,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,59.02,unmodified,481,5,293,20,237,6.8,h-type cell,0.5,KHCO3,-0.9,-1.96,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,31.8,unmodified,481,2.98,293,20,237,5.8,h-type cell,0.5,KHCO3,-0.5,-0.514,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,36.1,unmodified,481,4.5,293,20,237,5.8,h-type cell,0.5,KHCO3,-0.6,-0.606,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,35.71,unmodified,481,4.5,293,20,237,5.8,h-type cell,0.5,KHCO3,-0.7,-0.606,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,36.59,unmodified,481,4.5,293,20,237,5.8,h-type cell,0.5,KHCO3,-0.8,-0.606,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,49.95,unmodified,481,4.5,293,20,237,5.8,h-type cell,0.5,KHCO3,-0.9,-1.434,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,5.27,unmodified,481,1.2,293,20,237,4.8,h-type cell,0.5,KHCO3,-0.5,-12.844,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,10.15,unmodified,481,1.2,293,20,237,4.8,h-type cell,0.5,KHCO3,-0.6,-0.514,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,19.71,unmodified,481,2.22,293,20,237,4.8,h-type cell,0.5,KHCO3,-0.7,-0.514,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,29.27,unmodified,481,2.98,293,20,237,4.8,h-type cell,0.5,KHCO3,-0.8,-0.514,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+CO-TTCOF,,1,30.34,unmodified,481,2.98,293,20,237,4.8,h-type cell,0.5,KHCO3,-0.9,-0.514,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,0.85,CO,0,Co-N
+Co-TTCOF nanosheets,,1,71.55,composited,456.8,5,298,21.4,237,7.2,h-type cell,0.5,KHCO3,-0.5,3.858,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,5,CO,0,Co-N
+Co-TTCOF nanosheets,,1,92.15,composited,1391.2,5,298,22.8,237,7.2,h-type cell,0.5,KHCO3,-0.6,9.23,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,5,CO,0,Co-N
+Co-TTCOF nanosheets,,1,93.72,composited,1391.2,5,298,24.2,237,7.2,h-type cell,0.5,KHCO3,-0.7,11.656,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,5,CO,0,Co-N
+Co-TTCOF nanosheets,,1,99.69,composited,736,5,298,24.2,237,7.2,h-type cell,0.5,KHCO3,-0.8,8.666,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,5,CO,0,Co-N
+Co-TTCOF nanosheets,,1,79.18,composited,784.4,5,298,20,237,7.2,h-type cell,0.5,KHCO3,-0.9,37.012,4,2,formyl¡¢aminophenyl,Co,3.4,MTAPP,4-formyl-TTF,5,CO,0,Co-N
+Ni-TTCOF,,1,21,unmodified,531,2.56,293,21,629,7.2,h-type cell,0.5,KHCO3,-0.5,-0.57,4,2,formyl¡¢aminophenyl,Ni,3.17,MTAPP,4-formyl-TTF,0.89,CO,0,Ni-N
+Ni-TTCOF,,1,16.7,unmodified,531,2.56,293,21,629,7.2,h-type cell,0.5,KHCO3,-0.6,-0.7,4,2,formyl¡¢aminophenyl,Ni,3.17,MTAPP,4-formyl-TTF,0.89,CO,0,Ni-N
+Ni-TTCOF,,1,20.9,unmodified,531,2.56,293,21,629,7.2,h-type cell,0.5,KHCO3,-0.7,-1,4,2,formyl¡¢aminophenyl,Ni,3.17,MTAPP,4-formyl-TTF,0.89,CO,0,Ni-N
+Ni-TTCOF,,1,16.9,unmodified,531,2.56,293,21,629,7.2,h-type cell,0.5,KHCO3,-0.8,-1.3,4,2,formyl¡¢aminophenyl,Ni,3.17,MTAPP,4-formyl-TTF,0.89,CO,0,Ni-N
+Ni-TTCOF,,1,13.4,unmodified,531,2.56,293,21,629,7.2,h-type cell,0.5,KHCO3,-0.9,-2.22,4,2,formyl¡¢aminophenyl,Ni,3.17,MTAPP,4-formyl-TTF,0.89,CO,0,Ni-N
+H2-TTCOF,,1,0,unmodified,675,2.36,293,11,433,7.2,h-type cell,0.5,KHCO3,-0.5,-1.28,4,2,formyl¡¢aminophenyl,0,0,MTAPP,4-formyl-TTF,0.66,CO,0,C=N
+H2-TTCOF,,1,0.43,unmodified,675,2.36,293,11,433,7.2,h-type cell,0.5,KHCO3,-0.6,-1.5,4,2,formyl¡¢aminophenyl,0,0,MTAPP,4-formyl-TTF,0.66,CO,0,C=N
+H2-TTCOF,,1,4.22,unmodified,675,2.36,293,11,433,7.2,h-type cell,0.5,KHCO3,-0.7,-1.79,4,2,formyl¡¢aminophenyl,0,0,MTAPP,4-formyl-TTF,0.66,CO,0,C=N
+H2-TTCOF,,1,1.09,unmodified,675,2.36,293,11,433,7.2,h-type cell,0.5,KHCO3,-0.8,-2.04,4,2,formyl¡¢aminophenyl,0,0,MTAPP,4-formyl-TTF,0.66,CO,0,C=N
+H2-TTCOF,,1,0,unmodified,675,2.36,293,11,433,7.2,h-type cell,0.5,KHCO3,-0.9,-2.63,4,2,formyl¡¢aminophenyl,0,0,MTAPP,4-formyl-TTF,0.66,CO,0,C=N
+COF-366-Co@CNT,10.1021/acsami.0c06537,2,88.4,composited,563.772,0.908,298,22.408,235,7.2,h-type cell,0.5,KHCO3,-0.48,-0.63,4,2,aminophenyl¡¢H,Co,0.38,MTAPP,BDA,2.736,CO,CNT,Co-N
+COF-366-Co@CNT,,2,91.5,composited,561.716,0.908,298,22.832,235,7.2,h-type cell,0.5,KHCO3,-0.58,-2.25,4,2,aminophenyl¡¢H,Co,0.38,MTAPP,BDA,0.964,CO,CNT,Co-N
+COF-366-Co@CNT,,2,93.6,composited,447.372,0.908,298,22.408,235,7.2,h-type cell,0.5,KHCO3,-0.68,-7.25,4,2,aminophenyl¡¢H,Co,0.38,MTAPP,BDA,0.936,CO,CNT,Co-N
+COF-366-Co@CNT,,2,91.2,composited,333.028,0.908,298,21.984,235,7.2,h-type cell,0.5,KHCO3,-0.78,-10.48,4,2,aminophenyl¡¢H,Co,0.38,MTAPP,BDA,0.908,CO,CNT,Co-N
+COF-366-Co@CNT,,2,89.89,composited,563.772,0.908,298,21.984,235,7.2,h-type cell,0.5,KHCO3,-0.88,-15.33,4,2,aminophenyl¡¢H,Co,0.38,MTAPP,BDA,2.736,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,88.6,functionalized&composited,196,2.32,298,32.466,190,7.2,h-type cell,0.5,KHCO3,-0.48,-0.64,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,92.3,functionalized&composited,196,2.32,298,32.466,190,7.2,h-type cell,0.5,KHCO3,-0.58,-2.27,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,93.6,functionalized&composited,196,2.14,298,27.346,190,7.2,h-type cell,0.5,KHCO3,-0.68,-7.27,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,92.5,functionalized&composited,196,2.14,298,27.346,190,7.2,h-type cell,0.5,KHCO3,-0.78,-10.47,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,91.5,functionalized&composited,196,2.14,298,27.346,190,7.2,h-type cell,0.5,KHCO3,-0.88,-15.3,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,81.14,functionalized&composited,196,1.8,298,23.746,190,7.2,h-type cell,0.5,KHCO3,-0.48,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,89.57,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.58,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,90.71,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.68,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,90.26,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.78,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,87.43,functionalized&composited,196,1.52,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.88,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,88.9,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.48,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,92.43,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.58,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,94.05,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.68,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,92.68,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.78,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,91.74,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.88,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,82.31,functionalized&composited,196,1.8,298,18.626,190,7.2,h-type cell,0.5,KHCO3,-0.48,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,90.38,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.58,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,92.04,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.68,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,91.27,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.78,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,88.98,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.88,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,80.61,functionalized&composited,196,1.98,298,23.746,190,7.2,h-type cell,0.5,KHCO3,-0.48,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,87.96,functionalized&composited,196,1.52,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.58,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,89.4,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.68,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,89.24,functionalized&composited,196,1.78,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.78,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Co@CNT,,2,87.15,functionalized&composited,196,1.52,298,17.106,190,7.2,h-type cell,0.5,KHCO3,-0.88,-7.19,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,0.9,CO,CNT,Co-N
+COF-366-(OMe)2-Fe@CNT,,2,61.47,functionalized&composited,196,2.32,298,30.172,190,7.2,h-type cell,0.5,KHCO3,-0.78,-1.05,4,2,aminophenyl¡¢methoxy,Fe,5.02,MTAPP,BDA,0.9,CO,CNT,Fe-N
+COF-366-(OMe)2-Fe@CNT,,2,33.06,functionalized&composited,196,1.4,298,9.946,190,7.2,h-type cell,0.5,KHCO3,-0.88,-1.43,4,2,aminophenyl¡¢methoxy,Fe,0,MTAPP,BDA,1.112,CO,CNT,Fe-N
+COF-366-(OMe)2-Co,,2,16.96,functionalized,867,1.4,298,14.66,402.444,7.2,h-type cell,0.5,KHCO3,-0.48,0,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,8,CO,0,Co-N
+COF-366-(OMe)2-Co,,2,27.72,functionalized,867,1.3,298,15.52,441.132,7.2,h-type cell,0.5,KHCO3,-0.58,0,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,8,CO,0,Co-N
+COF-366-(OMe)2-Co,,2,29.58,functionalized,867,1.3,298,15.52,441.132,7.2,h-type cell,0.5,KHCO3,-0.68,-0.06,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,8,CO,0,Co-N
+COF-366-(OMe)2-Co,,2,26.98,functionalized,867,1.3,298,15.52,441.132,7.2,h-type cell,0.5,KHCO3,-0.78,-0.12,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,8,CO,0,Co-N
+COF-366-(OMe)2-Co,,2,23.39,functionalized,867,1.3,298,15.52,441.132,7.2,h-type cell,0.5,KHCO3,-0.88,-0.22,4,2,aminophenyl¡¢methoxy,Co,0.37,MTAPP,BDA,8,CO,0,Co-N
+COF-366-(OMe)2@CNT,,2,24.88,functionalized&composited,867,1.834,298,20.68,237,7.2,h-type cell,0.5,KHCO3,-0.48,0.04,4,2,aminophenyl¡¢methoxy,0,0,MTAPP,BDA,8,CO,CNT,C=N
+COF-366-(OMe)2@CNT,,2,33.42,functionalized&composited,899.4,2.074,298,20.68,227.6,7.2,h-type cell,0.5,KHCO3,-0.58,-0.1,4,2,aminophenyl¡¢methoxy,0,0,MTAPP,BDA,6.97,CO,CNT,C=N
+COF-366-(OMe)2@CNT,,2,42.08,functionalized&composited,708.72036,2.194,298,20.68,308.354,7.2,h-type cell,0.5,KHCO3,-0.68,-0.42,4,2,aminophenyl¡¢methoxy,0,0,MTAPP,BDA,2.764,CO,CNT,C=N
+COF-366-(OMe)2@CNT,,2,38.74,functionalized&composited,802,1.914,298,20.68,227.6,7.2,h-type cell,0.5,KHCO3,-0.78,-0.78,4,2,aminophenyl¡¢methoxy,0,0,MTAPP,BDA,4.11,CO,CNT,C=N
+COF-366-(OMe)2@CNT,,2,36.51,functionalized&composited,879.2,2.114,298,20.68,227.6,7.2,h-type cell,0.5,KHCO3,-0.88,-1.39,4,2,aminophenyl¡¢methoxy,0,0,MTAPP,BDA,5.54,CO,CNT,C=N
+MWCNT-Por-COF-Co,10.1016/j.apcatb.2021.120897,3,85.1,composited&metal doping,1821.4,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.5,-1.71,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,99.24,composited&metal doping,1892.4,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.6,-4.24,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,93.38,composited&metal doping,1892.4,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.7,-6.6,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,95.29,composited&metal doping,1892.4,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.8,-11.28,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,90.32,composited&metal doping,1892.4,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.9,-16.02,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,78.85,composited&metal doping,1644.8,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-1,-18.78,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,71.34,composited&metal doping,1631.2,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.5,-29.318,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,80.38,composited&metal doping,1610.2,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.6,-8.258,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,85.48,composited&metal doping,1821.4,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.7,-10.878,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,76.31,composited&metal doping,1644.8,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.8,-8.258,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,46.37,composited&metal doping,1608.4,1.92,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.9,-21.142,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,61.15,composited&metal doping,1619.8,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-1,-22.168,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,42.17,composited&metal doping,1619.8,1.92,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.5,-58.062,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,48.66,composited&metal doping,1608.4,1.92,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.6,-21.142,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,78.09,composited&metal doping,1644.8,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.7,-8.258,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,83.69,composited&metal doping,1821.4,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.8,-8.258,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,35.29,composited&metal doping,1597.8,1.92,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.9,-17.602,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,51.46,composited&metal doping,1608.4,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-1,-21.334,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,31.21,composited&metal doping,1392.86,1.74,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.5,-17.602,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,24.08,composited&metal doping,1103.144,1.56,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.6,-0.048,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,47.26,composited&metal doping,1608.4,1.92,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.7,-21.142,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,64.46,composited&metal doping,1631.2,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.8,-22.168,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,30.45,composited&metal doping,1392.86,1.74,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.9,-17.602,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,40.89,composited&metal doping,1619.8,1.92,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-1,-58.062,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,56.94,composited&metal doping,1608.4,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.5,-21.25,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,41.15,composited&metal doping,1619.8,1.92,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.6,-58.062,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,40.38,composited&metal doping,1619.8,1.92,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.7,-58.062,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,69.43,composited&metal doping,1631.2,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.8,-6.872,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,64.59,composited&metal doping,1631.2,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.9,-22.168,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Co,,3,45.35,composited&metal doping,1608.4,1.92,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-1,-21.142,4,2,aminophenyl¡¢formyl,Co,70,Por,0,1.44,CO,MWCNT,Co-N
+MWCNT-Por-COF-Fe,,3,20.1,composited&metal doping,768.228,1.56,298,4.61,541,7.3,h-type cell,0.5,KHCO3,-0.5,-0.09,4,2,aminophenyl¡¢formyl,Fe,70,Por,0,1.46,CO,MWCNT,Fe-N
+MWCNT-Por-COF-Fe,,3,42.1,composited&metal doping,1619.8,1.92,298,4.61,541,7.3,h-type cell,0.5,KHCO3,-0.6,-0.54,4,2,aminophenyl¡¢formyl,Fe,70,Por,0,5.266,CO,MWCNT,Fe-N
+MWCNT-Por-COF-Fe,,3,37.7,composited&metal doping,1563.2,1.92,298,4.61,541,7.3,h-type cell,0.5,KHCO3,-0.7,-0.69,4,2,aminophenyl¡¢formyl,Fe,70,Por,0,6.844,CO,MWCNT,Fe-N
+MWCNT-Por-COF-Fe,,3,36.8,composited&metal doping,1563.2,1.92,298,4.61,541,7.3,h-type cell,0.5,KHCO3,-0.8,-1.29,4,2,aminophenyl¡¢formyl,Fe,70,Por,0,6.844,CO,MWCNT,Fe-N
+MWCNT-Por-COF-Fe,,3,44.1,composited&metal doping,1573.8,1.92,298,4.61,541,7.3,h-type cell,0.5,KHCO3,-0.9,-2.5,4,2,aminophenyl¡¢formyl,Fe,70,Por,0,5.266,CO,MWCNT,Fe-N
+MWCNT-Por-COF-Fe,,3,62.6,composited&metal doping,1585.2,2.1,298,4.61,541,7.3,h-type cell,0.5,KHCO3,-1,-5.77,4,2,aminophenyl¡¢formyl,Fe,70,Por,0,6.844,CO,MWCNT,Fe-N
+MWCNT-Por-COF-Ni,,3,31.4,composited&metal doping,1392.86,1.74,298,7.37,468,7.3,h-type cell,0.5,KHCO3,-0.5,-0.09,4,2,aminophenyl¡¢formyl,Ni,70,Por,0,6.844,CO,MWCNT,Ni-N
+MWCNT-Por-COF-Ni,,3,56.4,composited&metal doping,1573.8,2.1,298,7.37,468,7.3,h-type cell,0.5,KHCO3,-0.6,-0.79,4,2,aminophenyl¡¢formyl,Ni,70,Por,0,5.266,CO,MWCNT,Ni-N
+MWCNT-Por-COF-Ni,,3,57,composited&metal doping,1573.8,2.1,298,7.37,468,7.3,h-type cell,0.5,KHCO3,-0.7,-1.29,4,2,aminophenyl¡¢formyl,Ni,70,Por,0,5.266,CO,MWCNT,Ni-N
+MWCNT-Por-COF-Ni,,3,41.6,composited&metal doping,1619.8,1.92,298,7.37,468,7.3,h-type cell,0.5,KHCO3,-0.8,-1.7,4,2,aminophenyl¡¢formyl,Ni,70,Por,0,5.266,CO,MWCNT,Ni-N
+MWCNT-Por-COF-Ni,,3,12.8,composited&metal doping,768.228,1.38,298,7.37,468,7.3,h-type cell,0.5,KHCO3,-0.9,-0.99,4,2,aminophenyl¡¢formyl,Ni,70,Por,0,1.46,CO,MWCNT,Ni-N
+MWCNT-Por-COF-Ni,,3,18.5,composited&metal doping,909.138,1.56,298,7.37,468,7.3,h-type cell,0.5,KHCO3,-1,-1.95,4,2,aminophenyl¡¢formyl,Ni,70,Por,0,3.168,CO,MWCNT,Ni-N
+MWCNT-Por-COF-Cu,,3,26.73,composited&metal doping,1033.6,0.826,298,7.712,393.2,7.3,h-type cell,0.5,KHCO3,-0.7,-0.072,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,2.752,CO,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,59.88,composited&metal doping,821.808,1.66,298,8.01,363.4,7.3,h-type cell,0.5,KHCO3,-0.8,-1.204,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CO,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,70.46,composited&metal doping,1118.804,1.732,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.9,-8.622,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CO,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,71.2,composited&metal doping,1118.804,1.732,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-1,-8.622,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CO,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,63.26,composited&metal doping,1093.204,1.66,298,8.01,363.4,7.3,h-type cell,0.5,KHCO3,-1.1,-1.204,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CO,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,57.61,composited&metal doping,799.808,1.74,298,7.414,423,7.3,h-type cell,0.5,KHCO3,-1.2,-1.714,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CO,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,26.79,composited&metal doping,1033.6,0.826,298,7.712,393.2,7.3,h-type cell,0.5,KHCO3,-0.7,-0.072,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,2.752,CH4,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,59.72,composited&metal doping,821.808,1.66,298,8.01,363.4,7.3,h-type cell,0.5,KHCO3,-0.8,-1.204,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CH4,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,70.58,composited&metal doping,1118.804,1.732,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.9,-8.622,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CH4,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,70.75,composited&metal doping,1118.804,1.732,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-1,-8.622,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CH4,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,63.4,composited&metal doping,1093.204,1.66,298,8.01,363.4,7.3,h-type cell,0.5,KHCO3,-1.1,-1.204,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CH4,MWCNT,Cu-N
+MWCNT-Por-COF-Cu,,3,56.91,composited&metal doping,799.808,1.74,298,7.712,393.2,7.3,h-type cell,0.5,KHCO3,-1.2,-1.714,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CH4,MWCNT,Cu-N
+Por-COF-Co,,3,0.63,unmodified,805.71,1.9,298,13.374,391.1,7.3,h-type cell,0.5,KHCO3,-0.7,-0.05,4,2,aminophenyl¡¢formyl,Co,16.832,Por,0,1.46,CO,0,Co-N
+Por-COF-Co,,3,0.42,unmodified,805.71,1.9,298,13.374,391.1,7.3,h-type cell,0.5,KHCO3,-0.8,-0.05,4,2,aminophenyl¡¢formyl,Co,16.832,Por,0,1.46,CO,0,Co-N
+Por-COF-Co,,3,0.63,unmodified,805.71,1.9,298,13.374,391.1,7.3,h-type cell,0.5,KHCO3,-0.9,0,4,2,aminophenyl¡¢formyl,Co,16.832,Por,0,1.46,CO,0,Co-N
+Por-COF-Co,,3,0.84,unmodified,805.71,1.9,298,13.374,391.1,7.3,h-type cell,0.5,KHCO3,-1,-0.05,4,2,aminophenyl¡¢formyl,Co,16.832,Por,0,1.46,CO,0,Co-N
+Por-COF-Co,,3,0.63,unmodified,805.71,1.9,298,13.374,391.1,7.3,h-type cell,0.5,KHCO3,-1.1,-0.05,4,2,aminophenyl¡¢formyl,Co,16.832,Por,0,1.46,CO,0,Co-N
+Por-COF-Co,,3,0.63,unmodified,805.71,1.9,298,13.374,391.1,7.3,h-type cell,0.5,KHCO3,-1.2,-0.09,4,2,aminophenyl¡¢formyl,Co,16.832,Por,0,1.46,CO,0,Co-N
+Por-COF-Cu,,3,1.79,unmodified,805.71,1.9,298,39.7,256,7.3,h-type cell,0.5,KHCO3,-0.7,-0.048,4,2,aminophenyl¡¢formyl,Cu,0,Por,0,1.46,CO,0,Cu-N
+Por-COF-Cu,,3,4.23,unmodified,805.71,1.9,298,39.7,256,7.3,h-type cell,0.5,KHCO3,-0.8,-0.048,4,2,aminophenyl¡¢formyl,Cu,0,Por,0,1.46,CO,0,Cu-N
+Por-COF-Cu,,3,18.1,unmodified,985.82,1.542,298,10.322,476.6,7.3,h-type cell,0.5,KHCO3,-0.9,-0.21,4,2,aminophenyl¡¢formyl,Cu,56.074,Por,0,4.574,CO,0,Cu-N
+Por-COF-Cu,,3,35.9,unmodified,1189,2.022,298,15.528,378.6,7.3,h-type cell,0.5,KHCO3,-1,-0.096,4,2,aminophenyl¡¢formyl,Cu,56.56,Por,0,1.272,CO,0,Cu-N
+Por-COF-Cu,,3,40.9,unmodified,1327.4,2.3,298,8.01,363.4,7.3,h-type cell,0.5,KHCO3,-1.1,-1.344,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CO,0,Cu-N
+Por-COF-Cu,,3,30.9,unmodified,1132.4,1.424,298,20.136,319.6,7.3,h-type cell,0.5,KHCO3,-1.2,-0.006,4,2,aminophenyl¡¢formyl,Cu,56.56,Por,0,2.984,CO,0,Cu-N
+Por-COF-Cu,,3,1.22,unmodified,805.71,1.9,298,39.7,256,7.3,h-type cell,0.5,KHCO3,-0.7,-0.048,4,2,aminophenyl¡¢formyl,Cu,0,Por,0,1.46,CH4,0,Cu-N
+Por-COF-Cu,,3,3.68,unmodified,805.71,1.9,298,39.7,256,7.3,h-type cell,0.5,KHCO3,-0.8,-0.048,4,2,aminophenyl¡¢formyl,Cu,0,Por,0,1.46,CH4,0,Cu-N
+Por-COF-Cu,,3,17.69,unmodified,969.44,1.9,298,10.322,476.6,7.3,h-type cell,0.5,KHCO3,-0.9,-0.21,4,2,aminophenyl¡¢formyl,Cu,56.074,Por,0,4.574,CH4,0,Cu-N
+Por-COF-Cu,,3,35.73,unmodified,1189,1.464,298,15.528,378.6,7.3,h-type cell,0.5,KHCO3,-1,-0.096,4,2,aminophenyl¡¢formyl,Cu,56.56,Por,0,1.272,CH4,0,Cu-N
+Por-COF-Cu,,3,40.63,unmodified,1327.4,2.3,298,8.01,363.4,7.3,h-type cell,0.5,KHCO3,-1.1,-1.068,4,2,aminophenyl¡¢formyl,Cu,70,Por,0,1.44,CH4,0,Cu-N
+Por-COF-Cu,,3,30.47,unmodified,1132.4,1.026,298,20.136,319.6,7.3,h-type cell,0.5,KHCO3,-1.2,-0.006,4,2,aminophenyl¡¢formyl,Cu,56.56,Por,0,2.984,CH4,0,Cu-N
+COF-Re,10.1021/acsami.8b07795,4,18.2,unmodified,618.3,1.48,298,7.116,452.8,7.2,h-type cell,0.5,KHCO3,-1.1,-0.616,6,2,carbonyl¡¢aminophenyl,Re,53.7,TAPP,BPy,1.514,CO,0,Re-N
+COF-Re_Co,,4,18.2,metal doping,615.97,1.2,298,8.35,478.788,7.2,h-type cell,0.5,KHCO3,-1.1,-0.732,6,2,carbonyl¡¢aminophenyl,Re,53.4,TAPP,BPy,1.26,CO,0,Re-N
+COF-Re_Fe,,4,2,metal doping,723.12,1.2,298,14.592,305.26,7.2,h-type cell,0.5,KHCO3,-1.1,-0.428,6,2,carbonyl¡¢aminophenyl,Re,30.7,TAPP,BPy,1.178,CO,0,Re-N
+TAPP(H2)- B18C6-COF,10.1021/acsenergylett.1c01681,5,2.1,unmodified,942,2.22,298,39.7,256,7.2,two-compartment cell,0.5,KHCO3,-0.5,-0.456,4,2,aminophenyl¡¢formyl,0,0,TAPP,B18C6,0.5,CO,0,C=N
+TAPP(H2)- B18C6-COF,,5,2,unmodified,942,2.22,298,39.7,256,7.2,two-compartment cell,0.5,KHCO3,-0.6,-0.456,4,2,aminophenyl¡¢formyl,0,0,TAPP,B18C6,0.5,CO,0,C=N
+TAPP(H2)- B18C6-COF,,5,1.6,unmodified,942,2.22,298,39.7,256,7.2,two-compartment cell,0.5,KHCO3,-0.7,-0.456,4,2,aminophenyl¡¢formyl,0,0,TAPP,B18C6,0.5,CO,0,C=N
+TAPP(H2)- B18C6-COF,,5,1.5,unmodified,942,2.22,298,39.7,256,7.2,two-compartment cell,0.5,KHCO3,-0.8,-0.456,4,2,aminophenyl¡¢formyl,0,0,TAPP,B18C6,0.5,CO,0,C=N
+TAPP(H2)- B18C6-COF,,5,1.7,unmodified,942,2.22,298,39.7,256,7.2,two-compartment cell,0.5,KHCO3,-0.9,-0.456,4,2,aminophenyl¡¢formyl,0,0,TAPP,B18C6,0.5,CO,0,C=N
+TAPP(H2)- B18C6-COF,,5,1.58,unmodified,942,2.22,298,39.7,256,7.2,two-compartment cell,0.5,KHCO3,-1,-0.456,4,2,aminophenyl¡¢formyl,0,0,TAPP,B18C6,0.5,CO,0,C=N
+TAPP(Co)-B18C6-COF,,5,34.6,unmodified,906,2.66,298,50.7,173,7.2,two-compartment cell,0.5,KHCO3,-0.5,-0.32,4,2,aminophenyl¡¢formyl,Co,2.8,TAPP,B18C6,0.6,CO,0,Co-N
+TAPP(Co)-B18C6-COF,,5,88.8,unmodified,906,2.5,298,50.7,173,7.2,two-compartment cell,0.5,KHCO3,-0.6,-2.04,4,2,aminophenyl¡¢formyl,Co,2.8,TAPP,B18C6,0.6,CO,0,Co-N
+TAPP(Co)-B18C6-COF,,5,93.3,unmodified,906,2.5,298,50.7,173,7.2,two-compartment cell,0.5,KHCO3,-0.7,-3.15,4,2,aminophenyl¡¢formyl,Co,2.8,TAPP,B18C6,0.6,CO,0,Co-N
+TAPP(Co)-B18C6-COF,,5,90.5,unmodified,906,2.5,298,50.7,173,7.2,two-compartment cell,0.5,KHCO3,-0.8,-4.6,4,2,aminophenyl¡¢formyl,Co,2.8,TAPP,B18C6,0.6,CO,0,Co-N
+TAPP(Co)-B18C6-COF,,5,84.4,unmodified,906,2.5,298,50.7,173,7.2,two-compartment cell,0.5,KHCO3,-0.9,-6.79,4,2,aminophenyl¡¢formyl,Co,2.8,TAPP,B18C6,0.6,CO,0,Co-N
+TAPP(Co)-B18C6-COF,,5,71.5,unmodified,906,2.124,298,50.7,173,7.2,two-compartment cell,0.5,KHCO3,-1,-9.47,4,2,aminophenyl¡¢formyl,Co,2.8,TAPP,B18C6,0.6,CO,0,Co-N
+AAn-COF-Cu (NF),10.1016/j.scib.2021.05.001,6,48.37,composited,161,1.682,298,24,253.76,14,flow cell,1,KOH,-0.7,-5.5,3,1,aminophenyl¡¢formyl¡¢carbonyl,Cu,8.4,AAn,TP,1.22,CH4,0,Cu-N
+AAn-COF-Cu (NF),,6,69.4,composited,161,3.32,298,24,353.2,14,flow cell,1,KOH,-0.8,-52.4,3,1,aminophenyl¡¢formyl¡¢carbonyl,Cu,8.4,AAn,TP,1.22,CH4,0,Cu-N
+AAn-COF-Cu (NF),,6,77,composited,161,3.5,298,24,313.054,14,flow cell,1,KOH,-0.9,-128.3,3,1,aminophenyl¡¢formyl¡¢carbonyl,Cu,8.4,AAn,TP,1.22,CH4,0,Cu-N
+AAn-COF-Cu (NF),,6,53.3,composited,161,3.08,298,24,279.9,14,flow cell,1,KOH,-1,-180.1,3,1,aminophenyl¡¢formyl¡¢carbonyl,Cu,8.4,AAn,TP,1.22,CH4,0,Cu-N
+AAn-COF-Cu (NF),,6,10.23,composited,161,1.5,298,24,176.1,14,flow cell,1,KOH,-1.1,-185.5,3,1,aminophenyl¡¢formyl¡¢carbonyl,Cu,8.4,AAn,TP,1.22,CH4,0,Cu-N
+AAn-COF-Cu (NF),,6,38.02,composited,161,1.584,298,24,209.68,14,flow cell,1,KOH,-0.7,-17.47,3,1,aminophenyl¡¢formyl¡¢carbonyl,Cu,8.4,AAn,TP,1.22,CO,0,Cu-N
+AAn-COF-Cu (NF),,6,13.66,composited,161,1.5,298,24,176.1,14,flow cell,1,KOH,-0.8,-13.1,3,1,aminophenyl¡¢formyl¡¢carbonyl,Cu,8.4,AAn,TP,1.22,CO,0,Cu-N
+AAn-COF-Cu (NF),,6,2.3,composited,161,1.6,298,24,172.8,14,flow cell,1,KOH,-0.9,-4.15,3,1,aminophenyl¡¢formyl¡¢carbonyl,Cu,8.4,AAn,TP,1.22,CO,0,Cu-N
+AAn-COF-Cu (NF),,6,0.33,composited,161,1.5,298,24,176.1,14,flow cell,1,KOH,-1,-2.4,3,1,aminophenyl¡¢formyl¡¢carbonyl,Cu,8.4,AAn,TP,1.22,CO,0,Cu-N
+AAn-COF-Cu (NF),,6,0.16,composited,161,1.5,298,24,176.1,14,flow cell,1,KOH,-1.1,-0.22,3,1,aminophenyl¡¢formyl¡¢carbonyl,Cu,8.4,AAn,TP,1.22,CO,0,Cu-N
+OH-AAn-COF-Cu (HT),,6,7.41,composited,470,1.5,298,17,176.1,14,flow cell,1,KOH,-0.7,-3,3,1,aminophenyl¡¢formyl¡¢carbonyl¡¢hydroxy,Cu,9.38,OH-AAn,TP,1.36,CH4,0,Cu-N
+OH-AAn-COF-Cu (HT),,6,30.45,composited,470,1.4,298,17,187.58,14,flow cell,1,KOH,-0.8,-15.4,3,1,aminophenyl¡¢formyl¡¢carbonyl¡¢hydroxy,Cu,9.38,OH-AAn,TP,1.36,CH4,0,Cu-N
+OH-AAn-COF-Cu (HT),,6,52.32,composited,470,2.2,298,17,234.86,14,flow cell,1,KOH,-0.9,-47.3,3,1,aminophenyl¡¢formyl¡¢carbonyl¡¢hydroxy,Cu,9.38,OH-AAn,TP,1.36,CH4,0,Cu-N
+OH-AAn-COF-Cu (HT),,6,61.16,composited,470,2.78,298,17,183.8,14,flow cell,1,KOH,-1,-100.1,3,1,aminophenyl¡¢formyl¡¢carbonyl¡¢hydroxy,Cu,9.38,OH-AAn,TP,1.36,CH4,0,Cu-N
+OH-AAn-COF-Cu (HT),,6,48.48,composited,470,1.34,298,17,200.2,14,flow cell,1,KOH,-1.1,-152,3,1,aminophenyl¡¢formyl¡¢carbonyl¡¢hydroxy,Cu,9.38,OH-AAn,TP,1.36,CH4,0,Cu-N
+OH-AAn-COF-Cu (HT),,6,44.54,composited,470,1.32,298,17,277.08,14,flow cell,1,KOH,-0.7,-10.5,3,1,aminophenyl¡¢formyl¡¢carbonyl¡¢hydroxy,Cu,9.38,OH-AAn,TP,1.36,CO,0,Cu-N
+OH-AAn-COF-Cu (HT),,6,21.77,composited,470,1.4,298,17,188.8,14,flow cell,1,KOH,-0.8,-10.28,3,1,aminophenyl¡¢formyl¡¢carbonyl¡¢hydroxy,Cu,9.38,OH-AAn,TP,1.36,CO,0,Cu-N
+OH-AAn-COF-Cu (HT),,6,4.78,composited,470,1.5,298,17,176.1,14,flow cell,1,KOH,-0.9,-4.07,3,1,aminophenyl¡¢formyl¡¢carbonyl¡¢hydroxy,Cu,9.38,OH-AAn,TP,1.36,CO,0,Cu-N
+OH-AAn-COF-Cu (HT),,6,1.32,composited,470,1.3,298,17,182.7,14,flow cell,1,KOH,-1,-0.21,3,1,aminophenyl¡¢formyl¡¢carbonyl¡¢hydroxy,Cu,9.38,OH-AAn,TP,1.36,CO,0,Cu-N
+OH-AAn-COF-Cu (HT),,6,0.33,composited,470,1.3,298,17,182.7,14,flow cell,1,KOH,-1.1,0,3,1,aminophenyl¡¢formyl¡¢carbonyl¡¢hydroxy,Cu,9.38,OH-AAn,TP,1.36,CO,0,Cu-N
+AAn-COF-Zn (NF),,6,78.39,composited,249.35,2.314,298,18.924,178.1,14,flow cell,1,KOH,-0.7,-20.71,3,1,aminophenyl¡¢formyl¡¢carbonyl,Zn,5.534,OH-AAn,TP,4.08,CO,0,Zn-N
+AAn-COF-Zn (NF),,6,60.4,composited,305.475,1.3,298,22.902,153.18,14,flow cell,1,KOH,-0.8,-28.86,3,1,aminophenyl¡¢formyl¡¢carbonyl,Zn,6.104,OH-AAn,TP,3.482,CO,0,Zn-N
+AAn-COF-Zn (NF),,6,56.22,composited,314.2,1.74,298,20.06,134.86,14,flow cell,1,KOH,-0.9,-48.94,3,1,aminophenyl¡¢formyl¡¢carbonyl,Zn,6.96,OH-AAn,TP,3.518,CO,0,Zn-N
+AAn-COF-Zn (NF),,6,40.48,composited,569.84,1.4,298,27.14,819,14,flow cell,1,KOH,-1,-67.45,3,1,aminophenyl¡¢formyl¡¢carbonyl,Zn,4.594,OH-AAn,TP,1.41,CO,0,Zn-N
+AAn-COF-Zn (NF),,6,39.84,composited,594.04,1.4,298,26.4,819,14,flow cell,1,KOH,-1.1,-118.27,3,1,aminophenyl¡¢formyl¡¢carbonyl,Zn,4.594,OH-AAn,TP,1.41,CO,0,Zn-N
+TT-Por(2H)-COF,,6,4.89,unmodified,628,1.2,298,14,162.28,8.4,h-type cell,0.5,KHCO3,-0.7,0.612,4,2,aminophenyl¡¢carbonyl¡¢H,0,0,MTAPP,TT,1.1,CO,0,C=N
+TT-Por(2H)-COF,,6,0.81,unmodified,628,1.2,298,14,144.6,8.4,h-type cell,0.5,KHCO3,-0.8,0.196,4,2,aminophenyl¡¢carbonyl¡¢H,0,0,MTAPP,TT,1.1,CO,0,C=N
+TT-Por(2H)-COF,,6,0.81,unmodified,628,1.2,298,14,144.6,8.4,h-type cell,0.5,KHCO3,-0.9,0.196,4,2,aminophenyl¡¢carbonyl¡¢H,0,0,MTAPP,TT,1.1,CO,0,C=N
+Cu-Tph- COF- Dct,10.1002/anie.202114648,7,40.1,functionalized,335,1.4,298,32.9,323.78,14,flow cell,1,KOH,-0.7,-21.4,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,68.3,functionalized,335,1.4,298,32.9,251.4,14,flow cell,1,KOH,-0.8,-76.6,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,80,functionalized,335,1.4,298,32.9,251.4,14,flow cell,1,KOH,-0.9,-220,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,68.8,functionalized,335,1.4,298,32.9,251.4,14,flow cell,1,KOH,-1,-255.8,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,53.2,functionalized,335,1.4,298,32.9,251.4,14,flow cell,1,KOH,-1.1,-274.6,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,26.9,functionalized,335,1.4,298,32.9,324.012,14,flow cell,1,KOH,-0.7,-13.65,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,8.65,functionalized,335,1.4,298,32.9,191.88,14,flow cell,1,KOH,-0.8,-9.56,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,3.8,functionalized,335,1.4,298,32.9,188.58,14,flow cell,1,KOH,-0.9,-7.51,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,0.63,functionalized,335,1.4,298,32.9,188.58,14,flow cell,1,KOH,-1,-1.02,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,1.79,functionalized,335,1.4,298,32.9,188.58,14,flow cell,1,KOH,-1.1,-10.58,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,26.37,functionalized,335,1.4,298,32.9,331.332,14,flow cell,1,KOH,-0.7,-10.416,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,9.65,functionalized,335,1.4,298,32.9,191.88,14,flow cell,1,KOH,-0.8,-8.464,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,4.5,functionalized,335,1.4,298,32.9,188.58,14,flow cell,1,KOH,-0.9,-8.464,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,1.5,functionalized,335,1.4,298,32.9,188.58,14,flow cell,1,KOH,-1,-5.744,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,1.29,functionalized,335,1.4,298,32.9,188.58,14,flow cell,1,KOH,-1.1,-5.744,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,39.55,functionalized,335,1.4,298,32.9,356.148,14,flow cell,1,KOH,-0.7,-62.17,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,67.42,functionalized,335,1.4,298,32.9,141.2,14,flow cell,1,KOH,-0.8,-166.536,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,79.64,functionalized,335,1.4,298,32.9,119.2,14,flow cell,1,KOH,-0.9,-117.016,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,68.38,functionalized,335,1.4,298,32.9,149,14,flow cell,1,KOH,-1,-166.536,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,52.09,functionalized,335,1.4,298,32.9,428.768,14,flow cell,1,KOH,-1.1,-135.468,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,40.42,functionalized,407.6,1.46,298,30.68,183.6,14,flow cell,1,KOH,-0.7,-85.02,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,28.5,functionalized,383.4,1.46,298,31.42,424.32,14,flow cell,1,KOH,-0.8,-9.378,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,16.24,functionalized,407.6,1.4,298,30.68,301.02,14,flow cell,1,KOH,-0.9,-15.916,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,13.32,functionalized,407.6,1.4,298,30.68,301.02,14,flow cell,1,KOH,-1,-20.84,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,7.24,functionalized,359.2,1.4,298,32.16,154.56,14,flow cell,1,KOH,-1.1,-18.294,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,16.71,functionalized,431.8,1.4,298,29.94,301.02,14,flow cell,1,KOH,-0.7,-15.916,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,41.24,functionalized,407.6,1.46,298,30.68,183.6,14,flow cell,1,KOH,-0.8,-85.02,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,52.8,functionalized,407.6,1.36,298,30.68,172.52,14,flow cell,1,KOH,-0.9,-132.42,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,58.29,functionalized,335,1.4,298,32.9,151.52,14,flow cell,1,KOH,-1,-162.04,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,44.63,functionalized,407.6,1.46,298,30.68,167.82,14,flow cell,1,KOH,-1.1,-85.02,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,38.59,functionalized,407.6,1.46,298,30.68,183.6,14,flow cell,1,KOH,-0.7,-85.02,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,19.24,functionalized,431.8,1.36,298,29.94,296.04,14,flow cell,1,KOH,-0.8,-15.828,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,10.76,functionalized,407.6,1.4,298,30.68,302.7,14,flow cell,1,KOH,-0.9,-20.84,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,7.61,functionalized,359.2,1.4,298,32.16,154.56,14,flow cell,1,KOH,-1,-18.294,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,7.72,functionalized,359.2,1.4,298,32.16,162.84,14,flow cell,1,KOH,-1.1,-18.294,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CO,0,Cu-N
+Cu-Tph- COF- Dct,,7,23.8,functionalized,407.6,1.48,298,30.68,424.32,14,flow cell,1,KOH,-0.7,-15.828,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,54.02,functionalized,383.4,1.32,298,26.56,162.52,14,flow cell,1,KOH,-0.8,37.68,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.166,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,68.91,functionalized,335,1.4,298,32.9,152.8,14,flow cell,1,KOH,-0.9,-113.734,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,59.02,functionalized,335,1.4,298,32.9,151.52,14,flow cell,1,KOH,-1,-162.04,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Cu-Tph- COF- Dct,,7,42.5,functionalized,407.6,1.46,298,30.68,167.82,14,flow cell,1,KOH,-1.1,-85.02,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dct,1.2,CH4,0,Cu-N
+Tph- COF- Dct,,7,22.15,functionalized,407.6,1.32,298,30.68,549.24,14,flow cell,1,KOH,-0.7,-15.828,4,2,aminophenyl¡¢hydroxy,0,0,MTAPP,Dct,1.2,CO,0,C=N
+Tph- COF- Dct,,7,20.5,functionalized,431.8,1.36,298,29.94,549.24,14,flow cell,1,KOH,-0.8,-15.828,4,2,aminophenyl¡¢hydroxy,0,0,MTAPP,Dct,1.2,CO,0,C=N
+Tph- COF- Dct,,7,18.41,functionalized,456,1.36,298,29.2,549.24,14,flow cell,1,KOH,-0.9,-18.526,4,2,aminophenyl¡¢hydroxy,0,0,MTAPP,Dct,1.2,CO,0,C=N
+Tph- COF- Dct,,7,17.45,functionalized,456,1.36,298,29.2,549.24,14,flow cell,1,KOH,-1,-18.526,4,2,aminophenyl¡¢hydroxy,0,0,MTAPP,Dct,1.2,CO,0,C=N
+Tph- COF- Dct,,7,5.76,functionalized,359.2,1.4,298,32.16,279.48,14,flow cell,1,KOH,-1.1,-18.294,4,2,aminophenyl¡¢hydroxy,0,0,MTAPP,Dct,1.2,CO,0,C=N
+Cu-Tph- COF- OH,,7,15.8,unmodified,456,1.5,298,29.2,193.54,14,flow cell,1,KOH,-0.7,-7.7,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dha,1.2,CH4,0,Cu-N
+Cu-Tph- COF- OH,,7,40.9,unmodified,456,1.82,298,29.2,200.2,14,flow cell,1,KOH,-0.8,-37.6,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dha,1.2,CH4,0,Cu-N
+Cu-Tph- COF- OH,,7,48.2,unmodified,456,2.02,298,29.2,183.8,14,flow cell,1,KOH,-0.9,-79.2,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dha,1.2,CH4,0,Cu-N
+Cu-Tph- COF- OH,,7,48.8,unmodified,456,2.78,298,29.2,183.8,14,flow cell,1,KOH,-1,-124,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dha,1.2,CH4,0,Cu-N
+Cu-Tph- COF- OH,,7,41.3,unmodified,456,2.1,298,29.2,200.2,14,flow cell,1,KOH,-1.1,-162.9,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dha,1.2,CH4,0,Cu-N
+Cu-Tph- COF- OH,,7,23.01,unmodified,456,1.4,298,29.2,163.84,14,flow cell,1,KOH,-0.7,-12.06,4,2,aminophenyl¡¢hydroxy,Cu,4.08,MTAPP,Dha,1.2,CO,0,Cu-N
+Cu-Tph- COF- OH,,7,24.44,unmodified,456,1.4,298,29.2,188.8,14,flow cell,1,KOH,-0.8,-22.61,4,2,aminophenyl¡¢hydroxy,Cu,3.06,MTAPP,Dha,1.2,CO,0,Cu-N
+Cu-Tph- COF- OH,,7,14.05,unmodified,456,1.4,298,29.2,171.12,14,flow cell,1,KOH,-0.9,-23.12,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dha,1.2,CO,0,Cu-N
+Cu-Tph- COF- OH,,7,10.79,unmodified,456,1.5,298,29.2,167.82,14,flow cell,1,KOH,-1,-27.14,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dha,1.2,CO,0,Cu-N
+Cu-Tph- COF- OH,,7,9.37,unmodified,456,1.5,298,29.2,167.82,14,flow cell,1,KOH,-1.1,-36.68,4,2,aminophenyl¡¢hydroxy,Cu,5.1,MTAPP,Dha,1.2,CO,0,Cu-N
+CoTAP- iCONs,10.1002/adma.202110496,8,75.66,functionalized&composited,1020.008,1.172,298,25.92,122,14,flow cell,1,KOH,-0.15,-5.68,4,2,aminophenyl¡¢formyl,Co,4.1,MTAPP,BDA,6.44,CO,0,Co-N
+CoTAP- iCONs,,8,87.17,functionalized&composited,1995.4,1.96,298,20.74,122,14,flow cell,1,KOH,-0.2,-15.59,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.932,CO,0,Co-N
+CoTAP- iCONs,,8,91.62,functionalized&composited,1995.4,2.068,298,20.74,122,14,flow cell,1,KOH,-0.25,-24.44,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.932,CO,0,Co-N
+CoTAP- iCONs,,8,93.94,functionalized&composited,1609,2.068,298,21.176,122,14,flow cell,1,KOH,-0.3,-42.13,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,2.074,CO,0,Co-N
+CoTAP- iCONs,,8,95.56,functionalized&composited,1609,2.068,298,21.612,122,14,flow cell,1,KOH,-0.35,-59.11,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,2.074,CO,0,Co-N
+CoTAP- iCONs,,8,96.36,functionalized&composited,1609,2.068,298,22.048,122,14,flow cell,1,KOH,-0.4,-82.79,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,2.074,CO,0,Co-N
+CoTAP- iCONs,,8,96.57,functionalized&composited,1609,2.068,298,19.008,122,14,flow cell,1,KOH,-0.45,-108.6,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,2.074,CO,0,Co-N
+CoTAP- iCONs,,8,96.36,functionalized&composited,1661.656,1.852,298,24.588,122,14,flow cell,1,KOH,-0.5,-141.47,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.868,CO,0,Co-N
+CoTAP- iCONs,,8,96.46,functionalized&composited,1661.656,1.852,298,24.588,122,14,flow cell,1,KOH,-0.55,-160.57,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.868,CO,0,Co-N
+CoTAP- iCONs,,8,96.91,functionalized&composited,1661.656,1.852,298,24.588,122,14,flow cell,1,KOH,-0.6,-201.56,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.868,CO,0,Co-N
+CoTAP- iCONs,,8,96.36,functionalized&composited,1661.656,1.852,298,24.588,122,14,flow cell,1,KOH,-0.65,-236.91,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.868,CO,0,Co-N
+CoTAP- iCONs,,8,96.06,functionalized&composited,1661.656,1.852,298,24.588,122,14,flow cell,1,KOH,-0.7,-268.36,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.868,CO,0,Co-N
+CoTAP- iCONs,,8,90.1,functionalized&composited,1665.4,1.96,298,24.588,122,14,flow cell,1,KOH,-0.75,-299.82,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.936,CO,0,Co-N
+CoTAP- iCONs,,8,80.61,functionalized&composited,1665.4,1.96,298,31.9,122,14,flow cell,1,KOH,-0.8,-295.96,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.936,CO,0,Co-N
+CoTAP- iCONs,,8,90.41,functionalized&composited,1995.4,2.068,298,20.74,122,7.25,flow cell,1,KHCO3,-0.4,-15.58,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.932,CO,0,Co-N
+CoTAP- iCONs,,8,95.64,functionalized&composited,1609,2.068,298,18.136,122,7.25,flow cell,1,KHCO3,-0.5,-49.31,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,2.074,CO,0,Co-N
+CoTAP- iCONs,,8,96.41,functionalized&composited,1609,2.068,298,19.008,122,7.25,flow cell,1,KHCO3,-0.6,-92.21,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,2.074,CO,0,Co-N
+CoTAP- iCONs,,8,94.67,functionalized&composited,1661.656,1.852,298,21.984,122,7.25,flow cell,1,KHCO3,-0.7,-139.38,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.868,CO,0,Co-N
+CoTAP- iCONs,,8,92.54,functionalized&composited,1665.4,1.96,298,24.588,122,7.25,flow cell,1,KHCO3,-0.8,-186.34,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.936,CO,0,Co-N
+CoTAP- iCONs(4.1wt%),,8,80.2,functionalized&composited,1992.8,1.96,298,26.74,122,7.3,h-type cell,0.5,KHCO3,-0.4,-0.65,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.744,CO,0,Co-N
+CoTAP- iCONs(4.1wt%),,8,85.8,functionalized&composited,1995.4,2.068,298,23.28,122,7.3,h-type cell,0.5,KHCO3,-0.45,-1.6,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.932,CO,0,Co-N
+CoTAP- iCONs(4.1wt%),,8,89.8,functionalized&composited,1995.4,2.068,298,23.28,122,7.3,h-type cell,0.5,KHCO3,-0.5,-2.7,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.932,CO,0,Co-N
+CoTAP- iCONs(4.1wt%),,8,91.7,functionalized&composited,1995.4,2.068,298,21.42,122,7.3,h-type cell,0.5,KHCO3,-0.55,-5.4,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.932,CO,0,Co-N
+CoTAP- iCONs(4.1wt%),,8,93.8,functionalized&composited,1995.4,2.068,298,21.42,122,7.3,h-type cell,0.5,KHCO3,-0.6,-8,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.932,CO,0,Co-N
+CoTAP- iCONs(4.1wt%),,8,96.74,functionalized&composited,1609,2.068,298,19.56,122,7.3,h-type cell,0.5,KHCO3,-0.65,-11.2,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,2.074,CO,0,Co-N
+CoTAP- iCONs(4.1wt%),,8,94.2,functionalized&composited,1995.4,2.068,298,19.56,122,7.3,h-type cell,0.5,KHCO3,-0.7,-14.5,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.932,CO,0,Co-N
+CoTAP- iCONs(4.1wt%),,8,92.1,functionalized&composited,1995.4,2.068,298,20.74,122,7.3,h-type cell,0.5,KHCO3,-0.75,-18.8,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.932,CO,0,Co-N
+CoTAP- iCONs(4.1wt%),,8,89,functionalized&composited,1995.4,2.068,298,20.74,122,7.3,h-type cell,0.5,KHCO3,-0.8,-24.8,4,2,quaternary ammonium groups,Co,4.1,MTAPP,BDA,1.932,CO,0,Co-N
+CoTAP-CONs(5.1wt%),,8,64.3,composited,853.2,1.48,298,29.1,205,7.3,h-type cell,0.5,KHCO3,-0.4,-0.29,4,2,quaternary ammonium groups,Co,5.1,MTAPP,BDA,4.904,CO,0,Co-N
+CoTAP-CONs(5.1wt%),,8,72.9,composited,674.008,1.9,298,26.492,205,7.3,h-type cell,0.5,KHCO3,-0.45,-0.41,4,2,"2,4,6-trimethylphenyl ",Co,5.1,MTAPP,BDA,3.328,CO,0,Co-N
+CoTAP-CONs(5.1wt%),,8,80,composited,1020.008,1.652,298,25.92,205,7.3,h-type cell,0.5,KHCO3,-0.5,-0.71,4,2,"2,4,6-trimethylphenyl ",Co,5.1,MTAPP,BDA,6.44,CO,0,Co-N
+CoTAP-CONs(5.1wt%),,8,81.4,composited,1234.004,1.304,298,26.066,205,7.3,h-type cell,0.5,KHCO3,-0.55,-1.1,4,2,"2,4,6-trimethylphenyl ",Co,5.1,MTAPP,BDA,8.22,CO,0,Co-N
+CoTAP-CONs(5.1wt%),,8,82.3,composited,1234.004,1.304,298,26.066,205,7.3,h-type cell,0.5,KHCO3,-0.6,-1.5,4,2,"2,4,6-trimethylphenyl ",Co,5.1,MTAPP,BDA,8.22,CO,0,Co-N
+CoTAP-CONs(5.1wt%),,8,76.4,composited,1020.008,1.7,298,26.346,205,7.3,h-type cell,0.5,KHCO3,-0.65,-2.3,4,2,"2,4,6-trimethylphenyl ",Co,5.1,MTAPP,BDA,6.44,CO,0,Co-N
+CoTAP-CONs(5.1wt%),,8,71.4,composited,979.204,1.9,298,26.066,205,7.3,h-type cell,0.5,KHCO3,-0.7,-2.7,4,2,"2,4,6-trimethylphenyl ",Co,5.1,MTAPP,BDA,3.286,CO,0,Co-N
+CoTAP-CONs(5.1wt%),,8,68.1,composited,960.208,1.9,298,26.066,205,7.3,h-type cell,0.5,KHCO3,-0.75,-3.5,4,2,"2,4,6-trimethylphenyl ",Co,5.1,MTAPP,BDA,3.062,CO,0,Co-N
+CoTAP-CONs(5.1wt%),,8,66.2,composited,960.208,1.8,298,26.066,205,7.3,h-type cell,0.5,KHCO3,-0.8,-4.2,4,2,"2,4,6-trimethylphenyl ",Co,5.1,MTAPP,BDA,3.062,CO,0,Co-N
+CoTAP-CONs- AR(4.9wt%),,8,70.1,composited&metal doping,922.604,2.2,298,24.812,189,7.3,h-type cell,0.5,KHCO3,-0.4,-0.59,4,2,aminophenyl,Co,4.9,MTAPP,BDA,3.53,CO,0,Co-N
+CoTAP-CONs- AR(4.9wt%),,8,75.2,composited&metal doping,847.008,1.7,298,27.746,189,7.3,h-type cell,0.5,KHCO3,-0.45,-1,4,2,aminophenyl,Co,4.9,MTAPP,BDA,4.884,CO,0,Co-N
+CoTAP-CONs- AR(4.9wt%),,8,83.3,composited&metal doping,1234.004,1.304,298,25.216,189,7.3,h-type cell,0.5,KHCO3,-0.5,-1.7,4,2,aminophenyl,Co,4.9,MTAPP,BDA,8.22,CO,0,Co-N
+CoTAP-CONs- AR(4.9wt%),,8,83.5,composited&metal doping,1331.6,1.304,298,25.216,189,7.3,h-type cell,0.5,KHCO3,-0.55,-2.7,4,2,aminophenyl,Co,4.9,MTAPP,BDA,8.2,CO,0,Co-N
+CoTAP-CONs- AR(4.9wt%),,8,84.6,composited&metal doping,1331.6,0.956,298,23.112,189,7.3,h-type cell,0.5,KHCO3,-0.6,-3.6,4,2,aminophenyl,Co,4.9,MTAPP,BDA,8.2,CO,0,Co-N
+CoTAP-CONs- AR(4.9wt%),,8,86.5,composited&metal doping,908.86,0.956,298,22.408,189,7.3,h-type cell,0.5,KHCO3,-0.65,-4.6,4,2,aminophenyl,Co,4.9,MTAPP,BDA,4.592,CO,0,Co-N
+CoTAP-CONs- AR(4.9wt%),,8,80,composited&metal doping,1020.008,1.124,298,25.92,189,7.3,h-type cell,0.5,KHCO3,-0.7,-5.7,4,2,aminophenyl,Co,4.9,MTAPP,BDA,6.44,CO,0,Co-N
+CoTAP-CONs- AR(4.9wt%),,8,74.5,composited&metal doping,806.012,1.336,298,27.32,189,7.3,h-type cell,0.5,KHCO3,-0.75,-6.9,4,2,aminophenyl,Co,4.9,MTAPP,BDA,4.66,CO,0,Co-N
+CoTAP-CONs- AR(4.9wt%),,8,70.3,composited&metal doping,1152.204,1.3,298,27.32,189,7.3,h-type cell,0.5,KHCO3,-0.8,-8.5,4,2,aminophenyl,Co,4.9,MTAPP,BDA,4.842,CO,0,Co-N
+CuPcF8-CoPc-COF,10.1021/jacs.1c06238,9,57.9,unmodified,376,1,298,18,110,7.4,two-compartment cell,0.5,CsHCO3,-0.4,-0.17,4,2,amine,Cu&Co,8.93,Pc,HDFP,1.11,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoPc-COF,,9,66,unmodified,376,1,298,18,110,7.4,two-compartment cell,0.5,CsHCO3,-0.45,2.5,4,2,amine,Cu&Co,8.93,Pc,HDFP,1.11,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoPc-COF,,9,74.7,unmodified,376,1,298,18,110,7.4,two-compartment cell,0.5,CsHCO3,-0.5,3.2,4,2,amine,Cu&Co,8.93,Pc,HDFP,1.11,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoPc-COF,,9,80.6,unmodified,376,1,298,18,110,7.4,two-compartment cell,0.5,CsHCO3,-0.55,4.6,4,2,amine,Cu&Co,8.93,Pc,HDFP,1.11,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoPc-COF,,9,86.6,unmodified,376,1,298,18,110,7.4,two-compartment cell,0.5,CsHCO3,-0.6,6.3,4,2,amine,Cu&Co,8.93,Pc,HDFP,1.11,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoPc-COF,,9,88.3,unmodified,376,1,298,18,110,7.4,two-compartment cell,0.5,CsHCO3,-0.65,7.1,4,2,amine,Cu&Co,8.93,Pc,HDFP,1.11,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoPc-COF,,9,91,unmodified,376,1,298,18,110,7.4,two-compartment cell,0.5,CsHCO3,-0.7,16.5,4,2,amine,Cu&Co,8.93,Pc,HDFP,1.11,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoPc-COF,,9,89.5,unmodified,376,1,298,18,110,7.4,two-compartment cell,0.5,CsHCO3,-0.75,7.54,4,2,amine,Cu&Co,8.93,Pc,HDFP,1.11,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoPc-COF,,9,87.8,unmodified,376,1,298,18,110,7.4,two-compartment cell,0.5,CsHCO3,-0.8,7.54,4,2,amine,Cu&Co,8.93,Pc,HDFP,1.11,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoPc-COF,,9,84.9,unmodified,376,1,298,18,110,7.4,two-compartment cell,0.5,CsHCO3,-0.85,7.54,4,2,amine,Cu&Co,8.93,Pc,HDFP,1.11,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,63.9,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.4,0.228,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,76.8,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.45,3.8,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,86.6,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.5,6.8,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,93.8,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.55,13.9,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,95.7,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.6,13.9,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,97,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.62,18.58,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,94.6,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.65,32.6,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,92.3,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.7,25.7,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,90.4,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.75,18.58,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,84.7,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.8,16.56,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+CuPcF8-CoNPc-COF,,9,76.6,unmodified,452,1.3,298,35,104,7.4,two-compartment cell,0.5,CsHCO3,-0.85,1.626,4,2,amine,Cu&Co,7.89,NPc,HDFP,1.27,CO,0,Cu-N¡¢Co-N
+NiPc-DFP- COF,10.31635/ccschem.022.202202519,10,0.96,unmodified,151.16,2.712,298,13.8,461.3,7.2,h-type cell,0.5,KHCO3,-0.5,-0.05,4,2,amine,Ni,2.64,Pc,DFP,2.7,CO,0,C=N
+NiPc-DFP- COF,,10,43.1,unmodified,1344.2,2.3,298,13.8,461.3,7.2,h-type cell,0.5,KHCO3,-0.6,-0.36,4,2,amine,Ni,5.1,Pc,DFP,5.288,CO,0,C=N
+NiPc-DFP- COF,,10,72,unmodified,510.84,2.948,298,13.8,461.3,7.2,h-type cell,0.5,KHCO3,-0.7,-1.7,4,2,amine,Ni,4.87,Pc,DFP,4.894,CO,0,C=N
+NiPc-DFP- COF,,10,88,unmodified,401.04,2.724,298,13.8,461.3,7.2,h-type cell,0.5,KHCO3,-0.8,-4.1,4,2,amine,Ni,6.616,Pc,DFP,8.568,CO,0,C=N
+NiPc-DFP- COF,,10,89.2,unmodified,181.32,2.724,298,13.8,461.3,7.2,h-type cell,0.5,KHCO3,-0.9,-7.2,4,2,amine,Ni,5.832,Pc,DFP,8.69,CO,0,C=N
+NiPc-DFP- COF,,10,93.4,unmodified,143.24,2.152,298,13.8,461.3,7.2,h-type cell,0.5,KHCO3,-1,-11.2,4,2,amine,Ni,6.82,Pc,DFP,6.894,CO,0,C=N
+NiPc-DFP- COF,,10,99.2,unmodified,181.32,2.3,298,13.8,461.3,7.2,h-type cell,0.5,KHCO3,-1.1,-15.9,4,2,amine,Ni,6.608,Pc,DFP,8.69,CO,0,C=N
+NiPc-DFP- COF(light),,10,6.94,unmodified,320,1.2,298,13.8,458.6,7.2,h-type cell,0.5,KHCO3,-0.5,-0.18,4,2,amine,Ni,2.64,Pc,DFP,1.17,CO,0,C=N
+NiPc-DFP- COF(light),,10,73.26,unmodified,683.84,3.172,298,13.8,458.6,7.2,h-type cell,0.5,KHCO3,-0.6,-2.8,4,2,amine,Ni,4.628,Pc,DFP,6.45,CO,0,C=N
+NiPc-DFP- COF(light),,10,86.32,unmodified,649.24,2.152,298,13.8,458.6,7.2,h-type cell,0.5,KHCO3,-0.7,-4.78,4,2,amine,Ni,5.624,Pc,DFP,8.028,CO,0,C=N
+NiPc-DFP- COF(light),,10,100,unmodified,198.776,1.58,298,13.8,458.6,7.2,h-type cell,0.5,KHCO3,-0.8,-7.61,4,2,amine,Ni,5.828,Pc,DFP,6.322,CO,0,C=N
+NiPc-DFP- COF(light),,10,99,unmodified,198.776,1.58,298,13.8,458.6,7.2,h-type cell,0.5,KHCO3,-0.9,-10.52,4,2,amine,Ni,5.828,Pc,DFP,6.322,CO,0,C=N
+NiPc-DFP- COF(light),,10,99,unmodified,198.776,1.58,298,13.8,458.6,7.2,h-type cell,0.5,KHCO3,-1,-14.3,4,2,amine,Ni,5.828,Pc,DFP,6.322,CO,0,C=N
+NiPc-DFP- COF(light),,10,100,unmodified,181.32,1.728,298,13.8,458.6,7.2,h-type cell,0.5,KHCO3,-1.1,-18.78,4,2,amine,Ni,6.608,Pc,DFP,8.69,CO,0,C=N
+NiPc-DFP-Co COF,,10,8.2,metal doping,264.44,2.488,298,18.1,264.9,7.2,h-type cell,0.5,KHCO3,-0.5,-0.05,4,2,amine,Co&Ni,5.5,Pc,DFP,2.4,CO,0,Co-N¡¢Ni-N
+NiPc-DFP-Co COF,,10,41.4,metal doping,1344.2,2.16,298,18.1,264.9,7.2,h-type cell,0.5,KHCO3,-0.6,-0.9,4,2,amine,Co&Ni,5.5,Pc,DFP,5.288,CO,0,Co-N¡¢Ni-N
+NiPc-DFP-Co COF,,10,77.2,metal doping,724.44,3.048,298,18.1,264.9,7.2,h-type cell,0.5,KHCO3,-0.7,-3.6,4,2,amine,Co&Ni,5.5,Pc,DFP,5.932,CO,0,Co-N¡¢Ni-N
+NiPc-DFP-Co COF,,10,88,metal doping,639.64,2.724,298,18.1,264.9,7.2,h-type cell,0.5,KHCO3,-0.8,-7.3,4,2,amine,Co&Ni,5.5,Pc,DFP,5.814,CO,0,Co-N¡¢Ni-N
+NiPc-DFP-Co COF,,10,99.86,metal doping,178.152,2.152,298,18.1,264.9,7.2,h-type cell,0.5,KHCO3,-0.9,-12.3,4,2,amine,Co&Ni,5.5,Pc,DFP,2.158,CO,0,Co-N¡¢Ni-N
+NiPc-DFP-Co COF,,10,99.6,metal doping,151.096,2.3,298,18.1,264.9,7.2,h-type cell,0.5,KHCO3,-1,-16.3,4,2,amine,Co&Ni,5.5,Pc,DFP,2.312,CO,0,Co-N¡¢Ni-N
+NiPc-DFP-Co COF,,10,99.6,metal doping,178.152,2.152,298,18.1,264.9,7.2,h-type cell,0.5,KHCO3,-1.1,-21.2,4,2,amine,Co&Ni,5.5,Pc,DFP,2.158,CO,0,Co-N¡¢Ni-N
+NiPc-DFP-Ni COF,,10,1.7,metal doping,151.16,2.712,298,13.8,302.7,7.2,h-type cell,0.5,KHCO3,-0.5,-0.05,4,2,amine,Ni,4.33,Pc,DFP,2.7,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,42.8,metal doping,1344.2,2.3,298,13.8,302.7,7.2,h-type cell,0.5,KHCO3,-0.6,-0.9,4,2,amine,Ni,4.33,Pc,DFP,5.288,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,72.2,metal doping,510.84,2.948,298,13.8,302.7,7.2,h-type cell,0.5,KHCO3,-0.7,-2.8,4,2,amine,Ni,4.33,Pc,DFP,4.894,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,88,metal doping,181.32,2.152,298,13.8,302.7,7.2,h-type cell,0.5,KHCO3,-0.8,-5.7,4,2,amine,Ni,4.33,Pc,DFP,8.69,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,95.7,metal doping,181.32,2.152,298,13.8,302.7,7.2,h-type cell,0.5,KHCO3,-0.9,-9,4,2,amine,Ni,4.33,Pc,DFP,8.69,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,96.5,metal doping,181.32,2.152,298,13.8,302.7,7.2,h-type cell,0.5,KHCO3,-1,-12.3,4,2,amine,Ni,4.33,Pc,DFP,8.69,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,97.81,metal doping,181.32,1.728,298,13.8,302.7,7.2,h-type cell,0.5,KHCO3,-1.1,-16.8,4,2,amine,Ni,4.33,Pc,DFP,8.69,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,3.33,metal doping,263.72,1.704,298,13.8,284.1,7.2,h-type cell,0.5,KHCO3,-0.5,-0.13,4,2,amine,Ni,4.33,Pc,DFP,1.68,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,68.13,metal doping,721.92,2.724,298,13.8,284.1,7.2,h-type cell,0.5,KHCO3,-0.6,-1.61,4,2,amine,Ni,4.33,Pc,DFP,8.246,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,78.22,metal doping,649.24,2.7,298,13.8,284.1,7.2,h-type cell,0.5,KHCO3,-0.7,-3.9,4,2,amine,Ni,4.33,Pc,DFP,8.028,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,95.06,metal doping,181.32,2.152,298,13.8,284.1,7.2,h-type cell,0.5,KHCO3,-0.8,-8.12,4,2,amine,Ni,4.33,Pc,DFP,8.69,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,98.93,metal doping,181.32,1.58,298,13.8,284.1,7.2,h-type cell,0.5,KHCO3,-0.9,-12.98,4,2,amine,Ni,4.33,Pc,DFP,8.69,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,99.14,metal doping,181.32,1.58,298,13.8,284.1,7.2,h-type cell,0.5,KHCO3,-1,-18.31,4,2,amine,Ni,4.33,Pc,DFP,8.69,CO,0,Ni-N
+NiPc-DFP-Ni COF,,10,100,metal doping,216.232,1.58,298,13.8,284.1,7.2,h-type cell,0.5,KHCO3,-1.1,-24.07,4,2,amine,Ni,4.33,Pc,DFP,3.954,CO,0,Ni-N
+COF-300-AR,10.1016/j.chempr.2018.05.003,11,53.7,metal doping,1335.2,2.42,298,7.93,356.8,6.8,h-type cell,0.1,KHCO3,-0.7,0.33,4,3,aminophenyl,Ar,43.838,TAPM¡¢TPE,BDA,1.776,CO,0,Ar-N
+COF-300-AR,,11,80,metal doping,742.352,1.626,298,7.93,339.4,6.8,h-type cell,0.1,KHCO3,-0.85,1.82,4,3,aminophenyl,Ar,56.908,TAPM¡¢TPE,BDA,1.642,CO,0,Ar-N
+NiPc-COF,,11,93.3,unmodified,358,1.5,298,23,117,7.3,h-type cell,0.5,KHCO3,-0.6,-1.27,4,2,amine,Ni,2.54,Pc,Bu-PT,1.3,CO,0,Ni-N
+NiPc-COF,,11,97.9,unmodified,358,1.5,298,23,117,7.3,h-type cell,0.5,KHCO3,-0.7,-5.83,4,2,amine,Ni,2.54,Pc,Bu-PT,1.3,CO,0,Ni-N
+NiPc-COF,,11,99.1,unmodified,358,1.5,298,23,117,7.3,h-type cell,0.5,KHCO3,-0.8,-12.45,4,2,amine,Ni,2.54,Pc,Bu-PT,1.3,CO,0,Ni-N
+NiPc-COF,,11,99.1,unmodified,358,1.5,298,23,117,7.3,h-type cell,0.5,KHCO3,-0.9,-20.15,4,2,amine,Ni,2.54,Pc,Bu-PT,1.3,CO,0,Ni-N
+NiPc-COF,,11,99,unmodified,358,1.5,298,23,117,7.3,h-type cell,0.5,KHCO3,-1,-28.43,4,2,amine,Ni,2.54,Pc,Bu-PT,1.3,CO,0,Ni-N
+NiPc-COF,,11,96,unmodified,358,1.5,298,23,117,7.3,h-type cell,0.5,KHCO3,-1.1,-35.1,4,2,amine,Ni,2.54,Pc,Bu-PT,1.3,CO,0,Ni-N
+NiPc-COF,,11,73.81,unmodified,358,1.5,298,23,117,7.3,h-type cell,0.5,KHCO3,-1.2,-32.01,4,2,amine,Ni,2.54,Pc,Bu-PT,1.3,CO,0,Ni-N
+NiPc-COF,,11,12.04,unmodified,358,1.5,298,23,117,7.3,h-type cell,0.5,KHCO3,-1.3,-5.69,4,2,amine,Ni,2.54,Pc,Bu-PT,1.3,CO,0,Ni-N
+ZnPc-TFPN COF,10.1002/anie.202011722,12,1.25,unmodified,320,1.2,298,18.38,230.9,7.2,h-type cell,0.5,KHCO3,-0.5,-0.03,4,2,amine,Zn,5.336,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF,,12,10.2,unmodified,320,1.2,298,18.38,230.9,7.2,h-type cell,0.5,KHCO3,-0.6,-0.03,4,2,amine,Zn,6.684,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF,,12,11.63,unmodified,320,1.2,298,18.38,230.9,7.2,h-type cell,0.5,KHCO3,-0.7,-0.03,4,2,amine,Zn,6.684,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF,,12,14.5,unmodified,320,1.2,298,18.38,230.9,7.2,h-type cell,0.5,KHCO3,-0.8,-0.3,4,2,amine,Zn,5.628,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF,,12,22.7,unmodified,405.6,1.26,298,18.38,230.9,7.2,h-type cell,0.5,KHCO3,-0.9,-1.03,4,2,amine,Zn,2.708,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF,,12,8,unmodified,320,1.2,298,18.38,230.9,7.2,h-type cell,0.5,KHCO3,-1,-0.47,4,2,amine,Zn,6.684,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF,,12,8.9,unmodified,320,1.2,298,18.38,230.9,7.2,h-type cell,0.5,KHCO3,-1.1,-1.3,4,2,amine,Zn,6.684,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF,,12,3.2,unmodified,320,1.2,298,18.38,230.9,7.2,h-type cell,0.5,KHCO3,-1.2,-0.75,4,2,amine,Zn,6.684,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF(light),,12,20.54,unmodified,405.6,1.26,298,18.38,116.4,7.2,h-type cell,0.5,KHCO3,-0.5,-0.08,4,2,amine,Zn,3.216,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF(light),,12,61.62,unmodified,255.72,1.738,298,18.38,116.4,7.2,h-type cell,0.5,KHCO3,-0.6,-1.15,4,2,amine,Zn,6.32,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF(light),,12,52.93,unmodified,346.8,1.436,298,18.38,116.4,7.2,h-type cell,0.5,KHCO3,-0.7,-2.46,4,2,amine,Zn,6.624,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF(light),,12,52.35,unmodified,346.8,1.436,298,18.38,116.4,7.2,h-type cell,0.5,KHCO3,-0.8,-2.94,4,2,amine,Zn,6.624,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF(light),,12,31.92,unmodified,465.6,1.26,298,18.38,116.4,7.2,h-type cell,0.5,KHCO3,-0.9,-3.41,4,2,amine,Zn,4.584,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF(light),,12,15.26,unmodified,320,1.2,298,18.38,116.4,7.2,h-type cell,0.5,KHCO3,-1,-2.63,4,2,amine,Zn,6.136,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF(light),,12,6.46,unmodified,320,1.2,298,18.38,116.4,7.2,h-type cell,0.5,KHCO3,-1.1,-1.63,4,2,amine,Zn,6.684,Pc,TFPN,1.4,CO,0,Zn-N
+ZnPc-TFPN COF(light),,12,4.46,unmodified,320,1.2,298,18.38,116.4,7.2,h-type cell,0.5,KHCO3,-1.2,-1.13,4,2,amine,Zn,8.032,Pc,TFPN,1.4,CO,0,Zn-N
+NiPc-TFPN COF,,12,99.8,unmodified,252.375,2.5,298,22.31,209.9,7.2,h-type cell,0.5,KHCO3,-0.48,-12,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF,,12,27.2,unmodified,252.375,1.46,298,22.31,209.9,7.2,h-type cell,0.5,KHCO3,-0.5,-0.03,4,2,amine,Ni,1.02,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF,,12,78.5,unmodified,252.375,3,298,22.31,209.9,7.2,h-type cell,0.5,KHCO3,-0.6,-1.2,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF,,12,86,unmodified,252.375,2.5,298,22.31,209.9,7.2,h-type cell,0.5,KHCO3,-0.7,-5.3,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF,,12,98,unmodified,252.375,2.5,298,22.31,209.9,7.2,h-type cell,0.5,KHCO3,-0.8,-10.5,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF,,12,99.7,unmodified,252.375,2.5,298,22.31,209.9,7.2,h-type cell,0.5,KHCO3,-0.9,-14,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF,,12,95,unmodified,252.375,2.5,298,22.31,209.9,7.2,h-type cell,0.5,KHCO3,-1,-15,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF,,12,84.7,unmodified,252.375,2.5,298,22.31,209.9,7.2,h-type cell,0.5,KHCO3,-1.1,-15.2,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF,,12,68.2,unmodified,252.375,2.5,298,22.31,209.9,7.2,h-type cell,0.5,KHCO3,-1.2,-15.5,4,2,amine,Ni,6.1,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF£¨light£©,,12,79.69,unmodified,252.375,2.5,298,22.31,173.7,7.2,h-type cell,0.5,KHCO3,-0.5,-0.46,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF£¨light£©,,12,89.62,unmodified,252.375,2.5,298,22.31,173.7,7.2,h-type cell,0.5,KHCO3,-0.6,-2.29,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF£¨light£©,,12,93.64,unmodified,252.375,2.5,298,22.31,173.7,7.2,h-type cell,0.5,KHCO3,-0.7,-6.54,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF£¨light£©,,12,99.89,unmodified,252.375,2.5,298,22.31,173.7,7.2,h-type cell,0.5,KHCO3,-0.8,-12.3,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF£¨light£©,,12,99.89,unmodified,252.375,2.5,298,22.31,173.7,7.2,h-type cell,0.5,KHCO3,-0.9,-17.43,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF£¨light£©,,12,94.08,unmodified,252.375,2.5,298,22.31,173.7,7.2,h-type cell,0.5,KHCO3,-1,-17.72,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF£¨light£©,,12,91.74,unmodified,252.375,2.5,298,22.31,173.7,7.2,h-type cell,0.5,KHCO3,-1.1,-22.42,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+NiPc-TFPN COF£¨light£©,,12,95.76,unmodified,252.375,2.5,298,22.31,173.7,7.2,h-type cell,0.5,KHCO3,-1.2,-24.14,4,2,amine,Ni,7.6,Pc,TFPN,1.2,CO,0,Ni-N
+CoPc-TFPN COF,,12,96.1,unmodified,152.52,2.024,298,20.66,570,7.2,h-type cell,0.5,KHCO3,-0.42,-30.398,4,2,amine,Co,6.82,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF,,12,53.7,unmodified,350.52,2.364,298,20.66,570,7.2,h-type cell,0.5,KHCO3,-0.5,-0.7,4,2,amine,Co,6.436,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF,,12,74.5,unmodified,391.96,2.48,298,20.66,570,7.2,h-type cell,0.5,KHCO3,-0.6,-3.1,4,2,amine,Co,4.624,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF,,12,77.5,unmodified,391.96,2.48,298,20.66,570,7.2,h-type cell,0.5,KHCO3,-0.7,-4.8,4,2,amine,Co,3.632,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF,,12,89.9,unmodified,243.76,2.676,298,20.66,570,7.2,h-type cell,0.5,KHCO3,-0.8,-7.5,4,2,amine,Co,6.82,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF,,12,95.7,unmodified,272.24,2.252,298,20.66,570,7.2,h-type cell,0.5,KHCO3,-0.9,-10.5,4,2,amine,Co,6.82,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF,,12,90.2,unmodified,95.56,2.872,298,20.66,570,7.2,h-type cell,0.5,KHCO3,-1,-12.3,4,2,amine,Co,6.82,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF,,12,88,unmodified,95.56,2.872,298,20.66,570,7.2,h-type cell,0.5,KHCO3,-1.1,-14.6,4,2,amine,Co,6.82,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF,,12,77.2,unmodified,391.96,2.48,298,20.66,570,7.2,h-type cell,0.5,KHCO3,-1.2,-15.9,4,2,amine,Co,3.632,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF(light),,12,62.77,unmodified,331.84,2.828,298,20.66,425.3,7.2,h-type cell,0.5,KHCO3,-0.5,-1.52,4,2,amine,Co,4.928,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF(light),,12,69.74,unmodified,391.96,2.48,298,20.66,425.3,7.2,h-type cell,0.5,KHCO3,-0.6,-3.57,4,2,amine,Co,4.624,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF(light),,12,79.31,unmodified,568.64,1.86,298,20.66,425.3,7.2,h-type cell,0.5,KHCO3,-0.7,-6.01,4,2,amine,Co,3.844,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF(light),,12,97.52,unmodified,272.24,2.252,298,20.66,425.3,7.2,h-type cell,0.5,KHCO3,-0.8,-12.32,4,2,amine,Co,6.82,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF(light),,12,98.35,unmodified,95.56,2.872,298,20.66,425.3,7.2,h-type cell,0.5,KHCO3,-0.9,-16.28,4,2,amine,Co,6.82,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF(light),,12,93.14,unmodified,95.56,2.872,298,20.66,425.3,7.2,h-type cell,0.5,KHCO3,-1,-17.19,4,2,amine,Co,6.82,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF(light),,12,95.63,unmodified,95.56,2.872,298,20.66,425.3,7.2,h-type cell,0.5,KHCO3,-1.1,-19.41,4,2,amine,Co,6.82,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-TFPN COF(light),,12,62.77,unmodified,312.64,2.172,298,20.66,425.3,7.2,h-type cell,0.5,KHCO3,-1.2,-20.07,4,2,amine,Co,5.116,Pc,TFPN,1.4,CO,0,Co-N
+CoPc-PI-COF-3£¨²ôÔÓÌ¿ºÚ£©,10.1002/anie.202114244,13,75.4,unmodified,415,1.2,298,19.77,117,7.3,h-type cell,0.5,KHCO3,-0.5,-2.5,4,3,amine,Co,3.3,Pc,TAPA,1.18,CO,0,Co-N
+CoPc-PI-COF-3£¨²ôÔÓÌ¿ºÚ£©,,13,88.1,unmodified,415,1.2,298,19.77,117,7.3,h-type cell,0.5,KHCO3,-0.6,-7.5,4,3,amine,Co,3.3,Pc,TAPA,1.18,CO,0,Co-N
+CoPc-PI-COF-3£¨²ôÔÓÌ¿ºÚ£©,,13,93.6,unmodified,415,1.2,298,19.77,117,7.3,h-type cell,0.5,KHCO3,-0.7,-14.7,4,3,amine,Co,3.3,Pc,TAPA,1.18,CO,0,Co-N
+CoPc-PI-COF-3£¨²ôÔÓÌ¿ºÚ£©,,13,95,unmodified,415,1.2,298,19.77,117,7.3,h-type cell,0.5,KHCO3,-0.8,-22.7,4,3,amine,Co,3.3,Pc,TAPA,1.18,CO,0,Co-N
+CoPc-PI-COF-3£¨²ôÔÓÌ¿ºÚ£©,,13,96,unmodified,415,1.2,298,19.77,117,7.3,h-type cell,0.5,KHCO3,-0.9,-31.7,4,3,amine,Co,3.3,Pc,TAPA,1.18,CO,0,Co-N
+CoPc-PI-COF-3£¨²ôÔÓÌ¿ºÚ£©,,13,87.9,unmodified,415,1.2,298,19.77,117,7.3,h-type cell,0.5,KHCO3,-1,-40,4,3,amine,Co,3.3,Pc,TAPA,1.18,CO,0,Co-N
+H2Pc-PI-COF-3,,13,11,unmodified,320,1.2,298,17.02,283.24,7.3,h-type cell,0.5,KHCO3,-0.5,0,4,3,amine,0,2.832,Pc,TAPA,1.17,CO,0,C=N
+H2Pc-PI-COF-3,,13,16.2,unmodified,320,1.2,298,17.02,185.1,7.3,h-type cell,0.5,KHCO3,-0.6,-0.18,4,3,amine,0,2.12,Pc,TAPA,1.17,CO,0,C=N
+H2Pc-PI-COF-3,,13,15.2,unmodified,320,1.2,298,17.02,185.1,7.3,h-type cell,0.5,KHCO3,-0.7,-0.36,4,3,amine,0,1.966,Pc,TAPA,1.17,CO,0,C=N
+H2Pc-PI-COF-3,,13,11.8,unmodified,320,1.2,298,17.02,276.44,7.3,h-type cell,0.5,KHCO3,-0.8,-0.54,4,3,amine,0,1.966,Pc,TAPA,1.17,CO,0,C=N
+H2Pc-PI-COF-3,,13,2.1,unmodified,320,1.2,298,17.02,299.62,7.3,h-type cell,0.5,KHCO3,-0.9,-0.63,4,3,amine,0,3.852,Pc,TAPA,1.17,CO,0,C=N
+H2Pc-PI-COF-3,,13,1.5,unmodified,320,1.2,298,17.02,299.62,7.3,h-type cell,0.5,KHCO3,-1,-0.45,4,3,amine,0,3.852,Pc,TAPA,1.17,CO,0,C=N
+CoPc-PI-COF-1£¨²ôÔÓÌ¿ºÚ£©,,13,72.3,unmodified,143.24,2.328,298,14.44,95,7.3,h-type cell,0.5,KHCO3,-0.5,-1.17,4,2,amine,Co,4.84,Pc,TAPA,6.894,CO,0,Co-N
+CoPc-PI-COF-1£¨²ôÔÓÌ¿ºÚ£©,,13,86.5,unmodified,496.6,0.816,298,20.84,95,7.3,h-type cell,0.5,KHCO3,-0.6,-3.89,4,2,amine,Co,6.832,Pc,TAPA,5.654,CO,0,Co-N
+CoPc-PI-COF-1£¨²ôÔÓÌ¿ºÚ£©,,13,93.8,unmodified,209.8,1.208,298,12.8,95,7.3,h-type cell,0.5,KHCO3,-0.7,-8.59,4,2,amine,Co,6.824,Pc,TAPA,8.272,CO,0,Co-N
+CoPc-PI-COF-1£¨²ôÔÓÌ¿ºÚ£©,,13,96,unmodified,209.8,2.024,298,12.8,95,7.3,h-type cell,0.5,KHCO3,-0.8,-15.7,4,2,amine,Co,6.824,Pc,TAPA,8.272,CO,0,Co-N
+CoPc-PI-COF-1£¨²ôÔÓÌ¿ºÚ£©,,13,95,unmodified,219.4,2.448,298,10.6,95,7.3,h-type cell,0.5,KHCO3,-0.9,-20.5,4,2,amine,Co,6.82,Pc,TAPA,10.486,CO,0,Co-N
+CoPc-PI-COF-1£¨²ôÔÓÌ¿ºÚ£©,,13,84.5,unmodified,190.92,2.872,298,10.32,95,7.3,h-type cell,0.5,KHCO3,-1,-27,4,2,amine,Co,6.62,Pc,TAPA,10.904,CO,0,Co-N
+Co-iBFBim-COF-I-,10.1002/anie.202215687,14,81.7,functionalized,440,3.6,298,24.9,171,6.8,h-type cell,0.1,KHCO3,2.1,20.5,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,86.7,functionalized,440,3.6,298,24.9,171,6.8,h-type cell,0.1,KHCO3,2.2,32.1,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,99,functionalized,440,3.6,298,24.9,171,6.8,h-type cell,0.1,KHCO3,2.3,45.5,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,91.1,functionalized,440,3.6,298,24.9,171,6.8,h-type cell,0.1,KHCO3,2.4,52,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,93.74,functionalized,440,3.6,298,24.9,171,6.8,h-type cell,0.1,KHCO3,-0.6,1.83,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,94.65,functionalized,440,3.6,298,24.9,171,6.8,h-type cell,0.1,KHCO3,-0.7,2.68,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,97.2,functionalized,440,3.6,298,24.9,171,6.8,h-type cell,0.1,KHCO3,-0.8,3.88,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,88.05,functionalized,440,3.6,298,24.9,171,6.8,h-type cell,0.1,KHCO3,-0.9,4.83,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,72.75,functionalized,440,3.6,298,24.9,171,7.25,flow cell,1,KHCO3,-0.5,-2.23,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,87.37,functionalized,440,3.6,298,24.9,171,7.25,flow cell,1,KHCO3,-0.6,-4.53,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,93.63,functionalized,440,3.6,298,24.9,171,7.25,flow cell,1,KHCO3,-0.7,-10.35,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,90.63,functionalized,440,3.6,298,24.9,171,7.25,flow cell,1,KHCO3,-0.8,-15.63,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,78.12,functionalized,440,3.6,298,24.9,171,7.25,flow cell,1,KHCO3,-0.9,-17.59,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,71.13,functionalized,440,3.6,298,24.9,171,7.25,flow cell,1,KHCO3,-1,-24.35,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,68.5,functionalized,440,3.6,298,24.9,171,7.25,flow cell,1,KHCO3,-1.1,-37.61,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-I-,,14,66.88,functionalized,440,3.6,298,24.9,171,7.25,flow cell,1,KHCO3,-1.2,-53.57,4,2,aminophenyl¡¢imidazole,Co,3.85,MTAPP,iBFBim-CHO,3.62,CO,0,Co-N
+Co-iBFBim-COF-F-,,14,67,functionalized,315.92,1.904,298,15.94,150,6.8,h-type cell,0.1,KHCO3,2.1,14.7,4,2,aminophenyl¡¢imidazole,Co,5.928,MTAPP,iBFBim-CHO,6.304,CO,0,Co-N
+Co-iBFBim-COF-F-,,14,69,functionalized,233.32,2.348,298,20.12,150,6.8,h-type cell,0.1,KHCO3,2.2,19,4,2,aminophenyl¡¢imidazole,Co,6.616,MTAPP,iBFBim-CHO,6.304,CO,0,Co-N
+Co-iBFBim-COF-F-,,14,71.7,functionalized,174.04,2.328,298,17.14,150,6.8,h-type cell,0.1,KHCO3,2.3,26.5,4,2,aminophenyl¡¢imidazole,Co,6.616,MTAPP,iBFBim-CHO,6.808,CO,0,Co-N
+Co-iBFBim-COF-F-,,14,72.9,functionalized,174.04,2.328,298,17.14,150,6.8,h-type cell,0.1,KHCO3,2.4,35.6,4,2,aminophenyl¡¢imidazole,Co,6.616,MTAPP,iBFBim-CHO,6.808,CO,0,Co-N
+Co-iBFBim-COF-F-,,14,73.87,functionalized,537.12,1.968,298,22.28,150,6.8,h-type cell,0.1,KHCO3,-0.6,1.05,4,2,aminophenyl¡¢imidazole,Co,5.194,MTAPP,iBFBim-CHO,3.644,CO,0,Co-N
+Co-iBFBim-COF-F-,,14,83.39,functionalized,852.4,0.972,298,25.2,150,6.8,h-type cell,0.1,KHCO3,-0.7,1.98,4,2,aminophenyl¡¢imidazole,Co,6.232,MTAPP,iBFBim-CHO,0.852,CO,0,Co-N
+Co-iBFBim-COF-F-,,14,81.86,functionalized,713.8,0.972,298,20.08,150,6.8,h-type cell,0.1,KHCO3,-0.8,2.77,4,2,aminophenyl¡¢imidazole,Co,6.232,MTAPP,iBFBim-CHO,3.268,CO,0,Co-N
+Co-iBFBim-COF-F-,,14,82.9,functionalized,713.8,0.972,298,20.08,150,6.8,h-type cell,0.1,KHCO3,-0.9,3.6,4,2,aminophenyl¡¢imidazole,Co,6.232,MTAPP,iBFBim-CHO,3.268,CO,0,Co-N
+Co-iBFBim-COF-Cl-,,14,69.3,functionalized,336.92,2.324,298,14.34,161,6.8,h-type cell,0.1,KHCO3,2.1,16.8,4,2,aminophenyl¡¢imidazole,Co,6.858,MTAPP,iBFBim-CHO,6.788,CO,0,Co-N
+Co-iBFBim-COF-Cl-,,14,75.9,functionalized,379.12,2.764,298,17.64,161,6.8,h-type cell,0.1,KHCO3,2.2,22.9,4,2,aminophenyl¡¢imidazole,Co,5.112,MTAPP,iBFBim-CHO,4.972,CO,0,Co-N
+Co-iBFBim-COF-Cl-,,14,78.7,functionalized,275.32,3.208,298,16.92,161,6.8,h-type cell,0.1,KHCO3,2.3,27.6,4,2,aminophenyl¡¢imidazole,Co,5.112,MTAPP,iBFBim-CHO,7.272,CO,0,Co-N
+Co-iBFBim-COF-Cl-,,14,74,functionalized,275.32,2.744,298,16.92,161,6.8,h-type cell,0.1,KHCO3,2.4,33.4,4,2,aminophenyl¡¢imidazole,Co,5.112,MTAPP,iBFBim-CHO,7.272,CO,0,Co-N
+Co-iBFBim-COF-Cl-,,14,75.67,functionalized,459.4,2.76,298,19.02,161,6.8,h-type cell,0.1,KHCO3,-0.6,1.38,4,2,aminophenyl¡¢imidazole,Co,4.666,MTAPP,iBFBim-CHO,4.952,CO,0,Co-N
+Co-iBFBim-COF-Cl-,,14,87.21,functionalized,563.2,2.76,298,19.74,161,6.8,h-type cell,0.1,KHCO3,-0.7,2.32,4,2,aminophenyl¡¢imidazole,Co,3.974,MTAPP,iBFBim-CHO,2.652,CO,0,Co-N
+Co-iBFBim-COF-Cl-,,14,88.81,functionalized,563.2,2.76,298,19.74,161,6.8,h-type cell,0.1,KHCO3,-0.8,3.19,4,2,aminophenyl¡¢imidazole,Co,3.974,MTAPP,iBFBim-CHO,2.652,CO,0,Co-N
+Co-iBFBim-COF-Cl-,,14,81.79,functionalized,563.2,2.76,298,19.74,161,6.8,h-type cell,0.1,KHCO3,-0.9,3.76,4,2,aminophenyl¡¢imidazole,Co,3.974,MTAPP,iBFBim-CHO,2.652,CO,0,Co-N
+Co-iBFBim-COF-Br-,,14,75.9,functionalized,459.4,3.204,298,19.02,164,6.8,h-type cell,0.1,KHCO3,2.1,18.1,4,2,aminophenyl¡¢imidazole,Co,5.416,MTAPP,iBFBim-CHO,4.952,CO,0,Co-N
+Co-iBFBim-COF-Br-,,14,82.8,functionalized,313.4,3.428,298,15,164,6.8,h-type cell,0.1,KHCO3,2.2,26.6,4,2,aminophenyl¡¢imidazole,Co,6.108,MTAPP,iBFBim-CHO,9.068,CO,0,Co-N
+Co-iBFBim-COF-Br-,,14,80.9,functionalized,355.6,3.624,298,18.3,164,6.8,h-type cell,0.1,KHCO3,2.3,37.3,4,2,aminophenyl¡¢imidazole,Co,5.354,MTAPP,iBFBim-CHO,7.252,CO,0,Co-N
+Co-iBFBim-COF-Br-,,14,84.2,functionalized,355.6,3.404,298,18.3,164,6.8,h-type cell,0.1,KHCO3,2.4,41.5,4,2,aminophenyl¡¢imidazole,Co,5.354,MTAPP,iBFBim-CHO,7.252,CO,0,Co-N
+Co-iBFBim-COF-Br-,,14,85.96,functionalized,501.6,3.18,298,22.32,164,6.8,h-type cell,0.1,KHCO3,-0.6,1.69,4,2,aminophenyl¡¢imidazole,Co,3.912,MTAPP,iBFBim-CHO,3.136,CO,0,Co-N
+Co-iBFBim-COF-Br-,,14,89.64,functionalized,501.6,3.18,298,22.32,164,6.8,h-type cell,0.1,KHCO3,-0.7,2.6,4,2,aminophenyl¡¢imidazole,Co,3.912,MTAPP,iBFBim-CHO,3.136,CO,0,Co-N
+Co-iBFBim-COF-Br-,,14,90.89,functionalized,501.6,3.18,298,22.32,164,6.8,h-type cell,0.1,KHCO3,-0.8,3.84,4,2,aminophenyl¡¢imidazole,Co,3.912,MTAPP,iBFBim-CHO,3.136,CO,0,Co-N
+Co-iBFBim-COF-Br-,,14,83.81,functionalized,563.2,2.76,298,19.74,164,6.8,h-type cell,0.1,KHCO3,-0.9,4.73,4,2,aminophenyl¡¢imidazole,Co,3.974,MTAPP,iBFBim-CHO,2.652,CO,0,Co-N
+Co-BFBim-COF,,14,17.6,unmodified,467.2,1.26,298,15.05,233,6.8,h-type cell,0.1,KHCO3,2.1,2.3,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.162,CO,0,Co-N
+Co-BFBim-COF,,14,24.7,unmodified,422,1.26,298,15.05,233,6.8,h-type cell,0.1,KHCO3,2.2,6.1,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.208,CO,0,Co-N
+Co-BFBim-COF,,14,46.9,unmodified,571.12,1.864,298,15.05,233,6.8,h-type cell,0.1,KHCO3,2.3,13.2,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.708,CO,0,Co-N
+Co-BFBim-COF,,14,50.7,unmodified,605.92,1.864,298,15.05,233,6.8,h-type cell,0.1,KHCO3,2.4,19,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.704,CO,0,Co-N
+Co-BFBim-COF,,14,68.38,unmodified,556.44,2.328,298,15.05,233,6.8,h-type cell,0.1,KHCO3,-0.6,0.63,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,2.208,CO,0,Co-N
+Co-BFBim-COF,,14,75.88,unmodified,556.44,2.328,298,15.05,233,6.8,h-type cell,0.1,KHCO3,-0.7,1.52,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,2.208,CO,0,Co-N
+Co-BFBim-COF,,14,73.94,unmodified,556.44,2.328,298,15.05,233,6.8,h-type cell,0.1,KHCO3,-0.8,2.06,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,2.208,CO,0,Co-N
+Co-BFBim-COF,,14,69.63,unmodified,556.44,2.328,298,15.05,233,6.8,h-type cell,0.1,KHCO3,-0.9,2.29,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,2.208,CO,0,Co-N
+Co-BFBim-COF,,14,40.68,unmodified,519.4,1.36,298,15.05,233,7.25,flow cell,1,KHCO3,-0.5,-0.95,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.268,CO,0,Co-N
+Co-BFBim-COF,,14,64.31,unmodified,866.12,1.764,298,15.05,233,7.25,flow cell,1,KHCO3,-0.6,-2.42,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.704,CO,0,Co-N
+Co-BFBim-COF,,14,68.36,unmodified,556.44,2.328,298,15.05,233,7.25,flow cell,1,KHCO3,-0.7,-5.34,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,2.208,CO,0,Co-N
+Co-BFBim-COF,,14,59.89,unmodified,515.52,1.764,298,15.05,233,7.25,flow cell,1,KHCO3,-0.8,-8.07,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.74,CO,0,Co-N
+Co-BFBim-COF,,14,60.83,unmodified,515.52,1.764,298,15.05,233,7.25,flow cell,1,KHCO3,-0.9,-11.36,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.74,CO,0,Co-N
+Co-BFBim-COF,,14,46.99,unmodified,402,1.824,298,15.05,233,7.25,flow cell,1,KHCO3,-1,-11.03,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.272,CO,0,Co-N
+Co-BFBim-COF,,14,38.32,unmodified,402,1.4,298,15.05,233,7.25,flow cell,1,KHCO3,-1.1,-11.92,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.272,CO,0,Co-N
+Co-BFBim-COF,,14,32.02,unmodified,463.8,1.36,298,15.05,233,7.25,flow cell,1,KHCO3,-1.2,-13.19,4.18,2,aminophenyl¡¢imidazole,Co,4.91,MTAPP,iBFBim-CHO,1.3,CO,0,Co-N
+H2-BFBim-COF,,14,6.59,unmodified,768.48,1.04,298,16.07,587,6.8,h-type cell,0.1,KHCO3,-0.7,-0.836,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.096,CO,0,C=N
+H2-BFBim-COF,,14,5.62,unmodified,855.2,0.88,298,16.73,587,6.8,h-type cell,0.1,KHCO3,-0.8,-0.836,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.026,CO,0,C=N
+H2-BFBim-COF,,14,3,unmodified,855.2,0.72,298,20.32,434.44,6.8,h-type cell,0.1,KHCO3,-0.9,-0.278,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.026,CO,0,C=N
+H2-BFBim-COF,,14,1.26,unmodified,855.2,0.88,298,20.32,299.56,6.8,h-type cell,0.1,KHCO3,-1,-0.404,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.026,CO,0,C=N
+H2-BFBim-COF,,14,1.16,unmodified,855.2,0.88,298,20.32,299.56,6.8,h-type cell,0.1,KHCO3,-1.1,-0.404,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.026,CO,0,C=N
+H2-BFBim-COF,,14,0.19,unmodified,855.2,0.88,298,20.32,299.56,6.8,h-type cell,0.1,KHCO3,-1.2,0.032,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.026,CO,0,C=N
+H2-iBFBim-COF-I-,,14,7.61,functionalized,667.36,1.2,298,16.07,587,6.8,h-type cell,0.1,KHCO3,-0.7,-38.054,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.28,CO,0,C=N
+H2-iBFBim-COF-I-,,14,6.91,functionalized,667.36,1.2,298,16.07,587,6.8,h-type cell,0.1,KHCO3,-0.8,-0.836,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.28,CO,0,C=N
+H2-iBFBim-COF-I-,,14,4.4,functionalized,855.2,0.72,298,20.32,587,6.8,h-type cell,0.1,KHCO3,-0.9,-0.996,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.026,CO,0,C=N
+H2-iBFBim-COF-I-,,14,3.1,functionalized,855.2,0.72,298,20.32,434.44,6.8,h-type cell,0.1,KHCO3,-1,-1.686,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.026,CO,0,C=N
+H2-iBFBim-COF-I-,,14,2.6,functionalized,855.2,0.72,298,20.32,434.44,6.8,h-type cell,0.1,KHCO3,-1.1,-1.686,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.026,CO,0,C=N
+H2-iBFBim-COF-I-,,14,2.4,functionalized,855.2,0.72,298,20.32,299.56,6.8,h-type cell,0.1,KHCO3,-1.2,-1.686,4,2,aminophenyl¡¢imidazole,0,0,MTAPP,iBFBim-CHO,1.026,CO,0,C=N
+COF@CoPor,10.1002/smll.202200736,15,84.2,composited,648,2.5,298,50.7,130,7.3,h-type cell,0.5,KHCO3,-0.5,-1.6,5.1,2,aminophenyl,Co,1.28,MPor,DCTMP¡¢DMTP,1.41,CO,0,Co-N
+COF@CoPor,,15,94.3,composited,648,2.5,298,50.7,130,7.3,h-type cell,0.5,KHCO3,-0.6,-4.4,5.1,2,aminophenyl,Co,1.28,MPor,DCTMP¡¢DMTP,1.41,CO,0,Co-N
+COF@CoPor,,15,92.8,composited,648,2.5,298,50.7,130,7.3,h-type cell,0.5,KHCO3,-0.7,-6.4,5.1,2,aminophenyl,Co,1.28,MPor,DCTMP¡¢DMTP,1.41,CO,0,Co-N
+COF@CoPor,,15,88.5,composited,648,2.5,298,50.7,130,7.3,h-type cell,0.5,KHCO3,-0.8,-7.6,5.1,2,aminophenyl,Co,1.28,MPor,DCTMP¡¢DMTP,1.41,CO,0,Co-N
+COF@CoPor,,15,77.2,composited,648,2.5,298,50.7,130,7.3,h-type cell,0.5,KHCO3,-0.9,-9,5.1,2,aminophenyl,Co,1.28,MPor,DCTMP¡¢DMTP,1.41,CO,0,Co-N
+COF@CoPor,,15,73.8,composited,648,2.5,298,50.7,130,7.3,h-type cell,0.5,KHCO3,-1,-12.5,5.1,2,aminophenyl,Co,1.28,MPor,DCTMP¡¢DMTP,1.41,CO,0,Co-N
+CoPc-PI-COF-1£¨²ôÔÓÌ¿ºÚ£©,10.1021/jacs.1c02145,16,71.4,unmodified,181,1.6,298,19.4,95,7.3,h-type cell,0.5,KHCO3,-0.5,-1,4,2,amine,Co,3.7,Pc,PD,1.63,CO,0,Co-N
+CoPc-PI-COF-1,,16,86.9,unmodified,181,1.6,298,19.4,95,7.3,h-type cell,0.5,KHCO3,-0.6,-3.7,4,2,amine,Co,3.7,Pc,PD,1.63,CO,0,Co-N
+CoPc-PI-COF-1,,16,94,unmodified,181,1.6,298,19.4,95,7.3,h-type cell,0.5,KHCO3,-0.7,-8.3,4,2,amine,Co,3.7,Pc,PD,1.63,CO,0,Co-N
+CoPc-PI-COF-1,,16,97,unmodified,181,1.6,298,19.4,95,7.3,h-type cell,0.5,KHCO3,-0.8,-15.5,4,2,amine,Co,3.7,Pc,PD,1.63,CO,0,Co-N
+CoPc-PI-COF-1,,16,94,unmodified,181,1.6,298,19.4,95,7.3,h-type cell,0.5,KHCO3,-0.9,-21.2,4,2,amine,Co,3.7,Pc,PD,1.63,CO,0,Co-N
+CoPc-PI-COF-1,,16,93.43,unmodified,181,1.6,298,19.4,285,7.26,flow cell,1,KOH,-0.3,-10.12,4,2,amine,Co,3.7,Pc,PD,1.63,CO,0,Co-N
+CoPc-PI-COF-1,,16,95.1,unmodified,181,1.6,298,19.4,256.06,7.24,flow cell,1,KOH,-0.4,-25.72,4,2,amine,Co,3.7,Pc,PD,1.63,CO,0,Co-N
+CoPc-PI-COF-1,,16,94.5,unmodified,181,1.6,298,19.4,291.6,7.2,flow cell,1,KOH,-0.5,-43.61,4,2,amine,Co,3.7,Pc,PD,1.63,CO,0,Co-N
+CoPc-PI-COF-1,,16,95.1,unmodified,181,1.6,298,19.4,358,7.2,flow cell,1,KOH,-0.6,-59.86,4,2,amine,Co,3.7,Pc,PD,1.63,CO,0,Co-N
+CoPc-PI-COF-2,,16,89.61,unmodified,291,1.8,298,19.1,105,7.3,h-type cell,0.5,KHCO3,-0.5,-1.1,4,2,amine,Co,3.3,Pc,PD,1.77,CO,0,Co-N
+CoPc-PI-COF-2,,16,87.1,unmodified,291,1.8,298,19.1,105,7.3,h-type cell,0.5,KHCO3,-0.6,-2.4,4,2,amine,Co,3.3,Pc,PD,1.77,CO,0,Co-N
+CoPc-PI-COF-2,,16,94.5,unmodified,291,1.8,298,19.1,105,7.3,h-type cell,0.5,KHCO3,-0.7,-5.9,4,2,amine,Co,3.3,Pc,PD,1.77,CO,0,Co-N
+CoPc-PI-COF-2,,16,96,unmodified,291,1.8,298,19.1,105,7.3,h-type cell,0.5,KHCO3,-0.8,-10.9,4,2,amine,Co,3.3,Pc,PD,1.77,CO,0,Co-N
+CoPc-PI-COF-2,,16,92.2,unmodified,291,1.8,298,19.1,105,7.3,h-type cell,0.5,KHCO3,-0.9,-16.1,4,2,amine,Co,3.3,Pc,PD,1.77,CO,0,Co-N
+CoP-BDT-COF,10.1002/adma.202205186,17,49.2,unmodified,1500,2.9,298,10,406,7.4,h-type cell,0.5,KHCO3,-0.57,-18.952,4,2,aminophenyl,Co,4.65,MTAPP,BDT,2.87,CO,0,Co-N
+CoP-BDT-COF,,17,72.5,unmodified,1500,2.9,298,10,406,7.4,h-type cell,0.5,KHCO3,-0.67,-49.252,4,2,aminophenyl,Co,4.65,MTAPP,BDT,2.87,CO,0,Co-N
+CoP-BDT-COF,,17,95.9,unmodified,1500,2.9,298,10,406,7.4,h-type cell,0.5,KHCO3,-0.77,-5.714,4,2,aminophenyl,Co,4.65,MTAPP,BDT,2.87,CO,0,Co-N
+CoP-BDT-COF,,17,41.6,unmodified,1500,2.9,298,10,406,7.4,h-type cell,0.5,KHCO3,-0.87,-0.472,4,2,aminophenyl,Co,4.65,MTAPP,BDT,2.87,CO,0,Co-N
+CoP-BDT-COF,,17,33,unmodified,1500,2.9,298,10,406,7.4,h-type cell,0.5,KHCO3,-0.97,-0.53,4,2,aminophenyl,Co,4.65,MTAPP,BDT,2.87,CO,0,Co-N
+CoP-BDTEO-COF,,17,76.3,unmodified,945,2.5,298,10,421,7.4,h-type cell,0.5,KHCO3,-0.57,-23.866,4,2,aminophenyl,Co,4.54,MTAPP,BDTEO,2.45,CO,0,Co-N
+CoP-BDTEO-COF,,17,87.4,unmodified,945,2.5,298,10,421,7.4,h-type cell,0.5,KHCO3,-0.67,-13.11,4,2,aminophenyl,Co,4.54,MTAPP,BDTEO,2.45,CO,0,Co-N
+CoP-BDTEO-COF,,17,94,unmodified,945,2.5,298,10,421,7.4,h-type cell,0.5,KHCO3,-0.77,-1.674,4,2,aminophenyl,Co,4.54,MTAPP,BDTEO,2.45,CO,0,Co-N
+CoP-BDTEO-COF,,17,54,unmodified,945,2.5,298,10,421,7.4,h-type cell,0.5,KHCO3,-0.87,-18.952,4,2,aminophenyl,Co,4.54,MTAPP,BDTEO,2.45,CO,0,Co-N
+CoP-BDTEO-COF,,17,43,unmodified,945,2.5,298,10,421,7.4,h-type cell,0.5,KHCO3,-0.97,-0.472,4,2,aminophenyl,Co,4.54,MTAPP,BDTEO,2.45,CO,0,Co-N
+CoP-BDTPEO-COF,,17,22.5,unmodified,710,1.9,298,25,587,7.4,h-type cell,0.5,KHCO3,-0.57,-0.53,4,2,aminophenyl,Co,3.55,MTAPP,BDTEO,1.91,CO,0,Co-N
+CoP-BDTPEO-COF,,17,59.4,unmodified,710,1.9,298,25,587,7.4,h-type cell,0.5,KHCO3,-0.67,-18.814,4,2,aminophenyl,Co,3.55,MTAPP,BDTEO,1.91,CO,0,Co-N
+CoP-BDTPEO-COF,,17,26.9,unmodified,710,1.9,298,25,587,7.4,h-type cell,0.5,KHCO3,-0.77,-0.53,4,2,aminophenyl,Co,3.55,MTAPP,BDTEO,1.91,CO,0,Co-N
+CoP-BDTPEO-COF,,17,11.4,unmodified,710,1.9,298,25,587,7.4,h-type cell,0.5,KHCO3,-0.87,-0.53,4,2,aminophenyl,Co,3.55,MTAPP,BDTEO,1.91,CO,0,Co-N
+CoP-BDTPEO-COF,,17,10,unmodified,710,1.9,298,25,587,7.4,h-type cell,0.5,KHCO3,-0.97,-0.53,4,2,aminophenyl,Co,3.55,MTAPP,BDTEO,1.91,CO,0,Co-N
+CoP-BDTHexO-COF,,17,88.5,unmodified,738,1.9,298,21,218,7.4,h-type cell,0.5,KHCO3,-0.57,-1.154,4,2,aminophenyl,Co,3.53,MTAPP,BDTHEXO,1.88,CO,0,Co-N
+CoP-BDTHexO-COF,,17,92.8,unmodified,738,1.9,298,21,218,7.4,h-type cell,0.5,KHCO3,-0.67,-2.338,4,2,aminophenyl,Co,3.53,MTAPP,BDTHEXO,1.88,CO,0,Co-N
+CoP-BDTHexO-COF,,17,97.6,unmodified,738,1.9,298,21,218,7.4,h-type cell,0.5,KHCO3,-0.77,-8.036,4,2,aminophenyl,Co,3.53,MTAPP,BDTHEXO,1.88,CO,0,Co-N
+CoP-BDTHexO-COF,,17,96.6,unmodified,738,1.9,298,21,218,7.4,h-type cell,0.5,KHCO3,-0.87,-5.714,4,2,aminophenyl,Co,3.53,MTAPP,BDTHEXO,1.88,CO,0,Co-N
+CoP-BDTHexO-COF,,17,90,unmodified,738,1.9,298,21,218,7.4,h-type cell,0.5,KHCO3,-0.97,-10.32,4,2,aminophenyl,Co,3.53,MTAPP,BDTHEXO,1.88,CO,0,Co-N
+COF-366-Co,10.1126/science.aac6498,18,55.9,unmodified,1360,2.98,295,23.4,198.6,7.3,h-type cell,0.5,KHCO3,-0.57,-21.858,4,2,aminophenyl,Co,5.02,MTAPP,BDA,10,CO,0,Co-N
+COF-366-Co,,18,75.8,unmodified,1360,5,295,23.4,192.2,7.3,h-type cell,0.5,KHCO3,-0.67,-4.88,4,2,aminophenyl,Co,4.94,MTAPP,BDA,10,CO,0,Co-N
+COF-366-Co,,18,82.1,unmodified,1360,5,295,23.4,203.6,7.3,h-type cell,0.5,KHCO3,-0.77,-2.756,4,2,aminophenyl,Co,3.996,MTAPP,BDA,10,CO,0,Co-N
+COF-366-Co,,18,53.5,unmodified,1360,2.98,295,23.4,210.58,7.3,h-type cell,0.5,KHCO3,-0.87,-20.338,4,2,aminophenyl,Co,4.12,MTAPP,BDA,10,CO,0,Co-N
+COF-366-Co,,18,29.5,unmodified,1360,1.4,295,23.4,407.58,7.3,h-type cell,0.5,KHCO3,-0.97,-0.626,4,2,aminophenyl,Co,1.1,MTAPP,BDA,10,CO,0,Co-N
+COF-367-Co,,18,81.3,unmodified,1470,4.5,298,15.52,203.6,7.3,h-type cell,0.5,KHCO3,-0.57,-2.756,4,2,aminophenyl,Co,3.996,MTAPP,BDA,10,CO,0,Co-N
+COF-367-Co,,18,84.6,unmodified,1470,4.5,298,15.52,203.6,7.3,h-type cell,0.5,KHCO3,-0.67,-2.536,4,2,aminophenyl,Co,3.996,MTAPP,BDA,10,CO,0,Co-N
+COF-367-Co,,18,82.4,unmodified,1470,4.5,298,15.52,203.6,7.3,h-type cell,0.5,KHCO3,-0.77,-2.756,4,2,aminophenyl,Co,3.996,MTAPP,BDA,10,CO,0,Co-N
+COF-367-Co,,18,62.9,unmodified,1470,3.5,298,9.39,198.6,7.3,h-type cell,0.5,KHCO3,-0.87,-3.898,4,2,aminophenyl,Co,5.02,MTAPP,BDA,10,CO,0,Co-N
+COF-367-Co,,18,47.2,unmodified,1470,3.24,298,9.698,455.24,7.3,h-type cell,0.5,KHCO3,-0.97,-0.944,4,2,aminophenyl,Co,43.1,MTAPP,BDA,10,CO,0,Co-N
+Co-mNCCOF,10.1016/j.apcatb.2021.119915,19,32.9,carbonized,1985,1.2,298,14.334,126,7.2,h-type cell,0.5,KHCO3,-0.3,-0.1,2,2,pyridine¡¢pyrrole,Co,0,C6H13N5,C6O6,1.18,CO,mNC,Co-N
+Co-mNCCOF,,19,64.7,carbonized,1985,2.18,298,24.848,126,7.2,h-type cell,0.5,KHCO3,-0.4,-1.4,2,2,pyridine¡¢pyrrole,Co,4.9,C6H13N5,C6O6,1.18,CO,mNC,Co-N
+Co-mNCCOF,,19,75.1,carbonized,1985,2.18,298,24.848,126,7.2,h-type cell,0.5,KHCO3,-0.5,-4.4,2,2,pyridine¡¢pyrrole,Co,4.3,C6H13N5,C6O6,1.18,CO,mNC,Co-N
+Co-mNCCOF,,19,80.4,carbonized,1985,2.18,298,37.586,126,7.2,h-type cell,0.5,KHCO3,-0.6,-10.1,2,2,pyridine¡¢pyrrole,Co,4.1,C6H13N5,C6O6,1.18,CO,mNC,Co-N
+Co-mNCCOF,,19,81,carbonized,1985,2.18,298,37.586,126,7.2,h-type cell,0.5,KHCO3,-0.7,-13.6,2,2,pyridine¡¢pyrrole,Co,4.1,C6H13N5,C6O6,1.18,CO,mNC,Co-N
+Co-mNCCOF,,19,75.5,carbonized,1985,2.18,298,37.586,126,7.2,h-type cell,0.5,KHCO3,-0.8,-14.5,2,2,pyridine¡¢pyrrole,Co,4.3,C6H13N5,C6O6,1.18,CO,mNC,Co-N
+mNCCOF,,19,39.7,carbonized,2529,1.5,298,9.986,169,7.2,h-type cell,0.5,KHCO3,-0.3,-0.03,2,2,pyridine¡¢pyrrole,0,0,C6H13N5,C6O6,0.81,CO,mNC,C=N
+mNCCOF,,19,81.4,carbonized,2529,2.5,298,37.586,169,7.2,h-type cell,0.5,KHCO3,-0.4,-0.1,2,2,pyridine¡¢pyrrole,0,0,C6H13N5,C6O6,0.81,CO,mNC,C=N
+mNCCOF,,19,85,carbonized,2529,2.5,298,37.586,169,7.2,h-type cell,0.5,KHCO3,-0.5,-0.31,2,2,pyridine¡¢pyrrole,0,0,C6H13N5,C6O6,0.81,CO,mNC,C=N
+mNCCOF,,19,80.3,carbonized,2529,2.5,298,37.586,169,7.2,h-type cell,0.5,KHCO3,-0.6,-0.38,2,2,pyridine¡¢pyrrole,0,0,C6H13N5,C6O6,0.81,CO,mNC,C=N
+mNCCOF,,19,58.7,carbonized,2529,2.34,298,23.292,169,7.2,h-type cell,0.5,KHCO3,-0.7,-0.35,2,2,pyridine¡¢pyrrole,0,0,C6H13N5,C6O6,0.81,CO,mNC,C=N
+mNCCOF,,19,52.4,carbonized,2529,1.82,298,23.292,169,7.2,h-type cell,0.5,KHCO3,-0.8,-0.35,2,2,pyridine¡¢pyrrole,0,0,C6H13N5,C6O6,0.81,CO,mNC,C=N
+Fe-mNCCOF,,19,67.83,carbonized,1319.8,1.54,298,29.1,150,7.2,h-type cell,0.5,KHCO3,-0.3,-0.43,2,2,pyridine¡¢pyrrole,Fe,5.1,C6H13N5,C6O6,4.642,CO,mNC,Fe-N
+Fe-mNCCOF,,19,93.61,carbonized,1670.4,1.96,298,28.18,150,7.2,h-type cell,0.5,KHCO3,-0.4,-2.01,2,2,pyridine¡¢pyrrole,Fe,3.27,C6H13N5,C6O6,2.142,CO,mNC,Fe-N
+Fe-mNCCOF,,19,95.35,carbonized,1670.4,1.96,298,26.66,150,7.2,h-type cell,0.5,KHCO3,-0.5,-5.23,2,2,pyridine¡¢pyrrole,Fe,3.27,C6H13N5,C6O6,2.142,CO,mNC,Fe-N
+Fe-mNCCOF,,19,92.22,carbonized,1670.4,1.96,298,26.66,150,7.2,h-type cell,0.5,KHCO3,-0.6,-8.96,2,2,pyridine¡¢pyrrole,Fe,2.52,C6H13N5,C6O6,2.142,CO,mNC,Fe-N
+Fe-mNCCOF,,19,82.81,carbonized,1665.4,1.96,298,30.54,150,7.2,h-type cell,0.5,KHCO3,-0.7,-9.89,2,2,pyridine¡¢pyrrole,Fe,2.04,C6H13N5,C6O6,1.936,CO,mNC,Fe-N
+Fe-mNCCOF,,19,67.48,carbonized,1046.8,1.54,298,31,150,7.2,h-type cell,0.5,KHCO3,-0.8,-10.85,2,2,pyridine¡¢pyrrole,Fe,5.1,C6H13N5,C6O6,2.882,CO,mNC,Fe-N
+Ni-mNCCOF,,19,72.13,carbonized,2090.2,1.68,298,29.1,174,7.2,h-type cell,0.5,KHCO3,-0.3,-0.21,2,2,pyridine¡¢pyrrole,Ni,1.02,C6H13N5,C6O6,0.888,CO,mNC,Ni-N
+Ni-mNCCOF,,19,81.65,carbonized,2316.6,1.96,298,29.36,174,7.2,h-type cell,0.5,KHCO3,-0.4,-0.82,2,2,pyridine¡¢pyrrole,Ni,1.77,C6H13N5,C6O6,1.334,CO,mNC,Ni-N
+Ni-mNCCOF,,19,92.22,carbonized,2210.4,1.96,298,28.18,174,7.2,h-type cell,0.5,KHCO3,-0.5,-3.01,2,2,pyridine¡¢pyrrole,Ni,1.5,C6H13N5,C6O6,1.596,CO,mNC,Ni-N
+Ni-mNCCOF,,19,96.05,carbonized,2104.2,1.96,298,37.66,174,7.2,h-type cell,0.5,KHCO3,-0.6,-11.18,2,2,pyridine¡¢pyrrole,Ni,0.824,C6H13N5,C6O6,1.858,CO,mNC,Ni-N
+Ni-mNCCOF,,19,97.21,carbonized,1637.6,1.96,298,22.484,174,7.2,h-type cell,0.5,KHCO3,-0.7,-24.29,2,2,pyridine¡¢pyrrole,Ni,0.37,C6H13N5,C6O6,1.876,CO,mNC,Ni-N
+Ni-mNCCOF,,19,95.47,carbonized,1637.6,1.96,298,22.484,174,7.2,h-type cell,0.5,KHCO3,-0.8,-32.56,2,2,pyridine¡¢pyrrole,Ni,0.37,C6H13N5,C6O6,1.876,CO,mNC,Ni-N
+Co-u-COF/graphene,10.1021/jacs.2c07601,20,87.99,composited,275,2.5,298,30.172,194,7.4,h-type cell,0.5,KHCO3,-0.45,-1,4,2,aminophenyl,Co,4.9,TEPP,0,2.24,CO,graphene,Co-N
+Co-u-COF/graphene,,20,95.24,composited,275,2.5,298,37.586,194,7.4,h-type cell,0.5,KHCO3,-0.54,-4.8,4,2,aminophenyl,Co,4.9,TEPP,0,2.5,CO,graphene,Co-N
+Co-u-COF/graphene,,20,96.08,composited,275,2.5,298,37.586,194,7.4,h-type cell,0.5,KHCO3,-0.58,-8.3,4,2,aminophenyl,Co,4.9,TEPP,0,2.5,CO,graphene,Co-N
+Co-u-COF/graphene,,20,91.68,composited,275,2.5,298,37.586,194,7.4,h-type cell,0.5,KHCO3,-0.68,-9.3,4,2,aminophenyl,Co,4.9,TEPP,0,2.5,CO,graphene,Co-N
+Co-u-COF/graphene,,20,90.84,composited,275,2.5,298,37.586,194,7.4,h-type cell,0.5,KHCO3,-0.74,-14.5,4,2,aminophenyl,Co,4.9,TEPP,0,2.5,CO,graphene,Co-N
+Co-u-COF/graphene,,20,97.64,composited,275,2.5,298,45,194,7.36,flow cell,1,KHCO3,-0.53,-33.5,4,2,aminophenyl,Co,7.6,TEPP,0,2.5,CO,graphene,Co-N
+Co-u-COF/graphene,,20,97,composited,275,2.172,298,40.462,194,7.22,flow cell,1,KHCO3,-0.55,-74.2,4,2,aminophenyl,Co,6.566,TEPP,0,2.24,CO,graphene,Co-N
+Co-u-COF/graphene,,20,96.36,composited,275,2.172,298,40.462,194,7.22,flow cell,1,KHCO3,-0.6,-94.3,4,2,aminophenyl,Co,7.6,TEPP,0,2.24,CO,graphene,Co-N
+Co-u-COF/graphene,,20,93.57,composited,275,1.844,298,35.438,194,7.28,flow cell,1,KHCO3,-0.65,-125.5,4,2,aminophenyl,Co,7.6,TEPP,0,1.912,CO,graphene,Co-N
+Co-u-COF/graphene,,20,97.53,composited,275,1.844,298,35.438,194,7.22,flow cell,1,KHCO3,-0.92,-188.6,4,2,aminophenyl,Co,7.6,TEPP,0,1.912,CO,graphene,Co-N
+Co-u-COF/graphene,,20,95.07,composited,275,1.188,298,25.39,194,7.28,flow cell,1,KHCO3,-1.15,-230.7,4,2,aminophenyl,Co,7.6,TEPP,0,1.256,CO,graphene,Co-N
+Fe-u-COF/graphene,,20,95.19,composited,401.2,0.42,298,33.964,219,7.4,h-type cell,0.5,KHCO3,-0.45,-0.7,4,2,aminophenyl,Fe,29.68,TEPP,0,0.936,CO,graphene,Fe-N
+Fe-u-COF/graphene,,20,97.43,composited,401.2,0.562,298,25.596,219,7.4,h-type cell,0.5,KHCO3,-0.54,-2.06,4,2,aminophenyl,Fe,43.12,TEPP,0,1.104,CO,graphene,Fe-N
+Fe-u-COF/graphene,,20,96.87,composited,401.2,0.562,298,25.596,219,7.4,h-type cell,0.5,KHCO3,-0.59,-3.15,4,2,aminophenyl,Fe,43.12,TEPP,0,1.104,CO,graphene,Fe-N
+Fe-u-COF/graphene,,20,92.84,composited,275,0.264,298,25.486,219,7.4,h-type cell,0.5,KHCO3,-0.65,-4.28,4,2,aminophenyl,Fe,30.682,TEPP,0,0.846,CO,graphene,Fe-N
+Fe-u-COF/graphene,,20,94.3,composited,179.974,0.264,298,8.97,207,7.34,flow cell,1,KHCO3,-0.53,-18.38,4,2,aminophenyl,Fe,32.274,TEPP,0,0.652,CO,graphene,Fe-N
+Fe-u-COF/graphene,,20,99.24,composited,188.23,0.42,298,13.378,167.8,7.28,flow cell,1,KHCO3,-0.55,-22.73,4,2,aminophenyl,Fe,5.698,TEPP,0,0.42,CO,graphene,Fe-N
+Fe-u-COF/graphene,,20,99.24,composited,316.368,1.116,298,21.128,193.6,7.24,flow cell,1,KHCO3,-0.6,-29.99,4,2,aminophenyl,Fe,3.152,TEPP,0,1.036,CO,graphene,Fe-N
+Fe-u-COF/graphene,,20,91.13,composited,308.024,0.86,298,15.472,314.4,7.24,flow cell,1,KHCO3,-0.65,-44.01,4,2,aminophenyl,Fe,30.136,TEPP,0,1.092,CO,graphene,Fe-N
+Fe-u-COF/graphene,,20,54.12,composited,1141.604,2.1,298,8.86,319,7.3,flow cell,1,KHCO3,-0.92,-92.5,4,2,aminophenyl,Fe,70,TEPP,0,1.44,CO,graphene,Fe-N
+Ni-u-COF/graphene,,20,94.33,composited,229.352,0.392,298,17.338,182,7.4,h-type cell,0.5,KHCO3,-0.45,-0.74,4,2,aminophenyl,Ni,18.834,TEPP,0,0.484,CO,graphene,Ni-N
+Ni-u-COF/graphene,,20,96.36,composited,229.352,0.676,298,17.448,219,7.4,h-type cell,0.5,KHCO3,-0.54,-2,4,2,aminophenyl,Ni,31.272,TEPP,0,0.742,CO,graphene,Ni-N
+Ni-u-COF/graphene,,20,96.9,composited,229.352,0.392,298,17.448,219,7.4,h-type cell,0.5,KHCO3,-0.59,-3.06,4,2,aminophenyl,Ni,31.272,TEPP,0,0.742,CO,graphene,Ni-N
+Ni-u-COF/graphene,,20,94.22,composited,229.352,0.122,298,9.3,182,7.4,h-type cell,0.5,KHCO3,-0.65,-5.59,4,2,aminophenyl,Ni,19.424,TEPP,0,0.38,CO,graphene,Ni-N
+Ni-u-COF/graphene,,20,97.11,composited,179.974,0.392,298,9.3,167.8,7.4,flow cell,1,KHCO3,-0.53,-14.45,4,2,aminophenyl,Ni,19.424,TEPP,0,0.38,CO,graphene,Ni-N
+Ni-u-COF/graphene,,20,96.64,composited,134.326,0.406,298,11.688,155.8,7.24,flow cell,1,KHCO3,-0.55,-22.04,4,2,aminophenyl,Ni,6.344,TEPP,0,0.366,CO,graphene,Ni-N
+Ni-u-COF/graphene,,20,97.92,composited,316.368,1.396,298,18.528,210.4,7.26,flow cell,1,KHCO3,-0.6,-38.81,4,2,aminophenyl,Ni,3.574,TEPP,0,1.35,CO,graphene,Ni-N
+Ni-u-COF/graphene,,20,92.94,composited,326.152,0.944,298,19.434,331.8,7.22,flow cell,1,KHCO3,-0.65,-75.66,4,2,aminophenyl,Ni,17.002,TEPP,0,1.06,CO,graphene,Ni-N
+Ni-u-COF/graphene,,20,82.87,composited,388.792,1.196,298,12.822,319,7.28,flow cell,1,KHCO3,-0.92,-111.9,4,2,aminophenyl,Ni,56.866,TEPP,0,1.408,CO,graphene,Ni-N
+TPE-CoPor-COF,10.1039/d2cy01326f,21,86,unmodified,1328,1.9,298,31.4,212,7.3,h-type cell,0.5,KHCO3,-0.5,-1.09,4,2,aminophenyl,Co,3.94,CoPor(CHO)4,TPE(NH2)4,0.9,CO,0,Co-N
+TPE-CoPor-COF,,21,93,unmodified,1328,1.9,298,31.4,212,7.3,h-type cell,0.5,KHCO3,-0.6,-4.42,4,2,aminophenyl,Co,3.94,CoPor(CHO)4,TPE(NH2)4,0.9,CO,0,Co-N
+TPE-CoPor-COF,,21,95,unmodified,1328,1.9,298,31.4,212,7.3,h-type cell,0.5,KHCO3,-0.7,-9.3,4,2,aminophenyl,Co,3.94,CoPor(CHO)4,TPE(NH2)4,0.9,CO,0,Co-N
+TPE-CoPor-COF,,21,93.44,unmodified,1328,1.9,298,31.4,212,7.3,h-type cell,0.5,KHCO3,-0.8,-13.1,4,2,aminophenyl,Co,3.94,CoPor(CHO)4,TPE(NH2)4,0.9,CO,0,Co-N
+TPE-CoPor-COF,,21,92.78,unmodified,1328,1.9,298,31.4,212,7.3,h-type cell,0.5,KHCO3,-0.9,-19.6,4,2,aminophenyl,Co,3.94,CoPor(CHO)4,TPE(NH2)4,0.9,CO,0,Co-N
+TPE-CoPor-COF,,21,90.59,unmodified,1328,1.9,298,31.4,212,7.3,h-type cell,0.5,KHCO3,-1,-30.4,4,2,aminophenyl,Co,3.94,CoPor(CHO)4,TPE(NH2)4,0.9,CO,0,Co-N
+TPTPE-CoPor-COF,,21,0,unmodified,1160,1.2,298,26.6,245,7.3,h-type cell,0.5,KHCO3,-0.5,0,4,2,aminophenyl,Co,4.15,CoPor(CHO)4,TPTPE(NH2)4,1.2,CO,0,Co-N
+TPTPE-CoPor-COF,,21,55.36,unmodified,1160,1.2,298,26.6,245,7.3,h-type cell,0.5,KHCO3,-0.6,0,4,2,aminophenyl,Co,4.15,CoPor(CHO)4,TPTPE(NH2)4,1.2,CO,0,Co-N
+TPTPE-CoPor-COF,,21,89.5,unmodified,1160,1.2,298,26.6,245,7.3,h-type cell,0.5,KHCO3,-0.7,-1.09,4,2,aminophenyl,Co,4.15,CoPor(CHO)4,TPTPE(NH2)4,1.2,CO,0,Co-N
+TPTPE-CoPor-COF,,21,96,unmodified,1160,1.2,298,26.6,245,7.3,h-type cell,0.5,KHCO3,-0.8,-4.1,4,2,aminophenyl,Co,4.15,CoPor(CHO)4,TPTPE(NH2)4,1.2,CO,0,Co-N
+TPTPE-CoPor-COF,,21,95.4,unmodified,1160,1.2,298,26.6,245,7.3,h-type cell,0.5,KHCO3,-0.9,-6.99,4,2,aminophenyl,Co,4.15,CoPor(CHO)4,TPTPE(NH2)4,1.2,CO,0,Co-N
+TPTPE-CoPor-COF,,21,95.19,unmodified,1160,1.2,298,26.6,245,7.3,h-type cell,0.5,KHCO3,-1,-10.9,4,2,aminophenyl,Co,4.15,CoPor(CHO)4,TPTPE(NH2)4,1.2,CO,0,Co-N
+H2Pc-COF,10.1021/acsami.3c10802,22,23.12,unmodified,24.32,0.11,298,3.88,340,7.2,h-type cell,0.5,KHCO3,-0.5,-0.12,4,2,H,0,0,Pc,0,0.11,CO,0,C=N
+H2Pc-COF,,22,27.41,unmodified,24.32,0.11,298,3.88,340,7.2,h-type cell,0.5,KHCO3,-0.6,-0.36,4,2,H,0,0,Pc,0,0.11,CO,0,C=N
+H2Pc-COF,,22,32.56,unmodified,24.32,0.11,298,3.88,340,7.2,h-type cell,0.5,KHCO3,-0.7,-1.33,4,2,H,0,0,Pc,0,0.11,CO,0,C=N
+H2Pc-COF,,22,34.21,unmodified,24.32,0.11,298,3.88,340,7.2,h-type cell,0.5,KHCO3,-0.8,-2.78,4,2,H,0,0,Pc,0,0.11,CO,0,C=N
+H2Pc-COF,,22,29.88,unmodified,24.32,0.11,298,3.88,340,7.2,h-type cell,0.5,KHCO3,-0.9,-3.5,4,2,H,0,0,Pc,0,0.11,CO,0,C=N
+H2Pc-COF,,22,26.18,unmodified,24.32,0.11,298,3.88,340,7.2,h-type cell,0.5,KHCO3,-1,-3.91,4,2,H,0,0,Pc,0,0.11,CO,0,C=N
+0.25NiPc-COF,,22,26.05,unmodified,28.98,0.09,298,6.6,364,7.2,h-type cell,0.5,KHCO3,-0.5,-0.24,4.9,2,H,Ni,3.3,Pc,0,0.09,CO,0,Ni-N
+0.25NiPc-COF,,22,29.46,unmodified,28.98,0.09,298,6.6,364,7.2,h-type cell,0.5,KHCO3,-0.6,-0.85,4.9,2,H,Ni,3.3,Pc,0,0.09,CO,0,Ni-N
+0.25NiPc-COF,,22,34.47,unmodified,28.98,0.09,298,6.6,364,7.2,h-type cell,0.5,KHCO3,-0.7,-1.63,4.9,2,H,Ni,3.3,Pc,0,0.09,CO,0,Ni-N
+0.25NiPc-COF,,22,37.66,unmodified,28.98,0.09,298,6.6,364,7.2,h-type cell,0.5,KHCO3,-0.8,-2.96,4.9,2,H,Ni,3.3,Pc,0,0.09,CO,0,Ni-N
+0.25NiPc-COF,,22,35.67,unmodified,28.98,0.09,298,6.6,364,7.2,h-type cell,0.5,KHCO3,-0.9,-4.71,4.9,2,H,Ni,3.3,Pc,0,0.09,CO,0,Ni-N
+0.25NiPc-COF,,22,32.06,unmodified,28.98,0.09,298,6.6,364,7.2,h-type cell,0.5,KHCO3,-1,-6.34,4.9,2,H,Ni,3.3,Pc,0,0.09,CO,0,Ni-N
+0.5NiPc-COF,,22,76.73,unmodified,28.11,0.08,298,10.51,123,7.2,h-type cell,0.5,KHCO3,-0.5,-0.12,4.6,2,H,Ni,5.75,Pc,0,0.08,CO,0,Ni-N
+0.5NiPc-COF,,22,83.15,unmodified,28.11,0.08,298,10.51,123,7.2,h-type cell,0.5,KHCO3,-0.6,-1.87,4.6,2,H,Ni,5.75,Pc,0,0.08,CO,0,Ni-N
+0.5NiPc-COF,,22,88.22,unmodified,28.11,0.08,298,10.51,123,7.2,h-type cell,0.5,KHCO3,-0.7,-5.73,4.6,2,H,Ni,5.75,Pc,0,0.08,CO,0,Ni-N
+0.5NiPc-COF,,22,92.52,unmodified,28.11,0.08,298,10.51,123,7.2,h-type cell,0.5,KHCO3,-0.8,-12.07,4.6,2,H,Ni,5.75,Pc,0,0.08,CO,0,Ni-N
+0.5NiPc-COF,,22,91.33,unmodified,28.11,0.08,298,10.51,123,7.2,h-type cell,0.5,KHCO3,-0.9,-18.41,4.6,2,H,Ni,5.75,Pc,0,0.08,CO,0,Ni-N
+0.5NiPc-COF,,22,86.27,unmodified,28.11,0.08,298,10.51,123,7.2,h-type cell,0.5,KHCO3,-1,-25.08,4.6,2,H,Ni,5.75,Pc,0,0.08,CO,0,Ni-N
+0.75NiPc-COF,,22,82.19,unmodified,46.76,0.15,298,8.31,134,7.2,h-type cell,0.5,KHCO3,-0.5,-0.48,4.8,2,H,Ni,7.81,Pc,0,0.15,CO,0,Ni-N
+0.75NiPc-COF,,22,86.62,unmodified,46.76,0.15,298,8.31,134,7.2,h-type cell,0.5,KHCO3,-0.6,-2.6,4.8,2,H,Ni,7.81,Pc,0,0.15,CO,0,Ni-N
+0.75NiPc-COF,,22,90.22,unmodified,46.76,0.15,298,8.31,134,7.2,h-type cell,0.5,KHCO3,-0.7,-6.88,4.8,2,H,Ni,7.81,Pc,0,0.15,CO,0,Ni-N
+0.75NiPc-COF,,22,95.37,unmodified,46.76,0.15,298,8.31,134,7.2,h-type cell,0.5,KHCO3,-0.8,-13.82,4.8,2,H,Ni,7.81,Pc,0,0.15,CO,0,Ni-N
+0.75NiPc-COF,,22,92.77,unmodified,46.76,0.15,298,8.31,134,7.2,h-type cell,0.5,KHCO3,-0.9,-20.1,4.8,2,H,Ni,7.81,Pc,0,0.15,CO,0,Ni-N
+0.75NiPc-COF,,22,88.54,unmodified,46.76,0.15,298,8.31,134,7.2,h-type cell,0.5,KHCO3,-1,-25.5,4.8,2,H,Ni,7.81,Pc,0,0.15,CO,0,Ni-N
+NiPc-COF,,22,65.97,unmodified,88.66,0.21,298,8.04,182,7.2,h-type cell,0.5,KHCO3,-0.5,-0.36,4.7,2,H,Ni,9.57,Pc,0,0.21,CO,0,Ni-N
+NiPc-COF,,22,69.32,unmodified,88.66,0.21,298,8.04,182,7.2,h-type cell,0.5,KHCO3,-0.6,-1.45,4.7,2,H,Ni,9.57,Pc,0,0.21,CO,0,Ni-N
+NiPc-COF,,22,73.12,unmodified,88.66,0.21,298,8.04,182,7.2,h-type cell,0.5,KHCO3,-0.7,-3.86,4.7,2,H,Ni,9.57,Pc,0,0.21,CO,0,Ni-N
+NiPc-COF,,22,75.68,unmodified,88.66,0.21,298,8.04,182,7.2,h-type cell,0.5,KHCO3,-0.8,-7.73,4.7,2,H,Ni,9.57,Pc,0,0.21,CO,0,Ni-N
+NiPc-COF,,22,73.17,unmodified,88.66,0.21,298,8.04,182,7.2,h-type cell,0.5,KHCO3,-0.9,-11.89,4.7,2,H,Ni,9.57,Pc,0,0.21,CO,0,Ni-N
+NiPc-COF,,22,67.21,unmodified,88.66,0.21,298,8.04,182,7.2,h-type cell,0.5,KHCO3,-1,-16.17,4.7,2,H,Ni,9.57,Pc,0,0.21,CO,0,Ni-N
+CoPc-2H2Por,10.1002/adma.202203139,23,72.23,unmodified,38.6,3.72,298,18,123,7.3,h-type cell,0.5,KHCO3,-0.4,-1.7,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,90.64,unmodified,38.6,3.72,298,18,123,7.3,h-type cell,0.5,KHCO3,-0.5,-5.25,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,95,unmodified,38.6,3.72,298,18,123,7.3,h-type cell,0.5,KHCO3,-0.55,-8.1,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,97.36,unmodified,38.6,3.72,298,18,123,7.3,h-type cell,0.5,KHCO3,-0.6,-10.46,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,94,unmodified,38.6,3.72,298,18,123,7.3,h-type cell,0.5,KHCO3,-0.65,-13.13,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,88.5,unmodified,38.6,3.72,298,18,123,7.3,h-type cell,0.5,KHCO3,-0.7,-15.57,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,77.42,unmodified,38.6,3.72,298,18,123,7.3,h-type cell,0.5,KHCO3,-0.8,-20.06,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,3.24,unmodified,38.6,3.72,298,18,354.32,9.92,h-type cell,0.5,H2SO4,-0.3,-0.092,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,2.12,unmodified,38.6,3.72,298,18,354.32,9.92,h-type cell,0.5,H2SO4,-0.4,-0.092,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,1.79,unmodified,38.6,3.72,298,18,354.32,9.92,h-type cell,0.5,H2SO4,-0.5,-0.092,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,3.02,unmodified,38.6,3.72,298,18,354.32,9.92,h-type cell,0.5,H2SO4,-0.6,-0.092,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,2.12,unmodified,38.6,3.72,298,18,354.32,9.92,h-type cell,0.5,H2SO4,-0.7,-0.092,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,77.19,unmodified,38.6,3.72,298,18,296.2,7.26,h-type cell,1,KOH,-0.3,-8.726,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,90.47,unmodified,38.6,3.72,298,18,123,7.3,h-type cell,1,KOH,-0.4,-10.502,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,95.82,unmodified,38.6,3.72,298,18,123,7.3,h-type cell,1,KOH,-0.5,-10.502,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,82.66,unmodified,38.6,3.72,298,18,111.8,7.3,h-type cell,1,KOH,-0.6,-14.354,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-2H2Por,,23,65.74,unmodified,38.6,3.72,298,18,304.38,7.24,h-type cell,1,KOH,-0.7,-9.384,4,2,aminophenyl¡¢carboxy,Co,2.64,TAPP,MTAPc,3.72,CO,0,Co-N
+CoPc-H2Por,,23,68.32,unmodified,27.7,2.12,298,15.5,131,7.3,h-type cell,0.5,KHCO3,-0.4,-1,4,2,aminophenyl¡¢carboxy,Co,3.78,DAPP,MTAPc,2.12,CO,0,Co-N
+CoPc-H2Por,,23,83.43,unmodified,27.7,2.12,298,15.5,131,7.3,h-type cell,0.5,KHCO3,-0.5,-3.57,4,2,aminophenyl¡¢carboxy,Co,3.78,DAPP,MTAPc,2.12,CO,0,Co-N
+CoPc-H2Por,,23,94.11,unmodified,27.7,2.12,298,15.5,131,7.3,h-type cell,0.5,KHCO3,-0.55,-6.1,4,2,aminophenyl¡¢carboxy,Co,3.78,DAPP,MTAPc,2.12,CO,0,Co-N
+CoPc-H2Por,,23,94,unmodified,27.7,2.12,298,15.5,131,7.3,h-type cell,0.5,KHCO3,-0.6,-8.32,4,2,aminophenyl¡¢carboxy,Co,3.78,DAPP,MTAPc,2.12,CO,0,Co-N
+CoPc-H2Por,,23,94.84,unmodified,27.7,2.12,298,15.5,131,7.3,h-type cell,0.5,KHCO3,-0.65,-10.18,4,2,aminophenyl¡¢carboxy,Co,3.78,DAPP,MTAPc,2.12,CO,0,Co-N
+CoPc-H2Por,,23,88.03,unmodified,27.7,2.12,298,15.5,131,7.3,h-type cell,0.5,KHCO3,-0.7,-12.17,4,2,aminophenyl¡¢carboxy,Co,3.78,DAPP,MTAPc,2.12,CO,0,Co-N
+CoPc-H2Por,,23,75.78,unmodified,27.7,2.12,298,15.5,131,7.3,h-type cell,0.5,KHCO3,-0.8,-15.27,4,2,aminophenyl¡¢carboxy,Co,3.78,DAPP,MTAPc,2.12,CO,0,Co-N
+TTCOF-Co,10.1021/acs.chemmater.2c02962,24,78.22,unmodified,400.02,1.1,298,30.4,189,7.2,h-type cell,0.5,KHCO3,-0.6,-3.6,4,2,aminophenyl,Co,4.31,MTAPP,4-formyl-TTF,1.1,CO,0,Co-N
+TTCOF-Co,,24,90.19,unmodified,400.02,1.1,298,30.4,242,7.2,h-type cell,0.5,KHCO3,-0.7,-4.516,4,2,aminophenyl,Co,4.31,MTAPP,4-formyl-TTF,1.1,CO,0,Co-N
+TTCOF-Co,,24,79.39,unmodified,400.02,1.1,298,30.4,189,7.2,h-type cell,0.5,KHCO3,-0.8,-3.6,4,2,aminophenyl,Co,4.31,MTAPP,4-formyl-TTF,1.1,CO,0,Co-N
+TTCOF-Co,,24,67.78,unmodified,400.02,1.1,298,30.4,198.6,7.2,h-type cell,0.5,KHCO3,-0.9,-3.898,4,2,aminophenyl,Co,4.31,MTAPP,4-formyl-TTF,1.1,CO,0,Co-N
+TTCOF-Co,,24,61.75,unmodified,400.02,1.1,298,30.4,198.6,7.2,h-type cell,0.5,KHCO3,-1,-3.898,4,2,aminophenyl,Co,4.31,MTAPP,4-formyl-TTF,1.1,CO,0,Co-N
+TTCOF-Co,,24,55.54,unmodified,400.02,1.1,298,30.4,198.6,7.2,h-type cell,0.5,KHCO3,-1.1,-21.858,4,2,aminophenyl,Co,4.31,MTAPP,4-formyl-TTF,1.1,CO,0,Co-N
+TTCOF-Ni,,24,79.58,unmodified,406.92,1.28,298,28.67,189,7.2,h-type cell,0.5,KHCO3,-0.6,-2.94,4,2,aminophenyl,Ni,4.33,MTAPP,4-formyl-TTF,1.28,CO,0,Ni-N
+TTCOF-Ni,,24,86.31,unmodified,406.92,1.28,298,28.67,203.6,7.2,h-type cell,0.5,KHCO3,-0.7,-2.536,4,2,aminophenyl,Ni,4.33,MTAPP,4-formyl-TTF,1.28,CO,0,Ni-N
+TTCOF-Ni,,24,83.06,unmodified,406.92,1.28,298,28.67,189,7.2,h-type cell,0.5,KHCO3,-0.8,-3.66,4,2,aminophenyl,Ni,4.33,MTAPP,4-formyl-TTF,1.28,CO,0,Ni-N
+TTCOF-Ni,,24,81.79,unmodified,406.92,1.28,298,28.67,189,7.2,h-type cell,0.5,KHCO3,-0.9,-3.66,4,2,aminophenyl,Ni,4.33,MTAPP,4-formyl-TTF,1.28,CO,0,Ni-N
+TTCOF-Ni,,24,74.71,unmodified,406.92,1.28,298,28.67,189,7.2,h-type cell,0.5,KHCO3,-1,-4.538,4,2,aminophenyl,Ni,4.33,MTAPP,4-formyl-TTF,1.28,CO,0,Ni-N
+TTCOF-Ni,,24,74.71,unmodified,406.92,1.28,298,28.67,189,7.2,h-type cell,0.5,KHCO3,-1.1,-4.538,4,2,aminophenyl,Ni,4.33,MTAPP,4-formyl-TTF,1.28,CO,0,Ni-N
+TTCOF-Cu,,24,87.12,unmodified,316.28,0.86,298,19.88,203.6,7.2,h-type cell,0.5,KHCO3,-0.6,-2.536,4,2,aminophenyl,Cu,3.56,MTAPP,4-formyl-TTF,0.86,CO,0,Cu-N
+TTCOF-Cu,,24,89.52,unmodified,316.28,0.86,298,19.88,247.4,7.2,h-type cell,0.5,KHCO3,-0.7,-1.466,4,2,aminophenyl,Cu,3.56,MTAPP,4-formyl-TTF,0.86,CO,0,Cu-N
+TTCOF-Cu,,24,95.52,unmodified,316.28,0.86,298,19.88,245.8,7.2,h-type cell,0.5,KHCO3,-0.8,-4.252,4,2,aminophenyl,Cu,3.56,MTAPP,4-formyl-TTF,0.86,CO,0,Cu-N
+TTCOF-Cu,,24,96.62,unmodified,316.28,0.86,298,19.88,245.8,7.2,h-type cell,0.5,KHCO3,-0.9,-4.252,4,2,aminophenyl,Cu,3.56,MTAPP,4-formyl-TTF,0.86,CO,0,Cu-N
+TTCOF-Cu,,24,95.85,unmodified,316.28,0.86,298,19.88,245.8,7.2,h-type cell,0.5,KHCO3,-1,-4.252,4,2,aminophenyl,Cu,3.56,MTAPP,4-formyl-TTF,0.86,CO,0,Cu-N
+TTCOF-Cu,,24,89.08,unmodified,316.28,0.86,298,19.88,232.8,7.2,h-type cell,0.5,KHCO3,-1.1,-1.978,4,2,aminophenyl,Cu,3.56,MTAPP,4-formyl-TTF,0.86,CO,0,Cu-N
+Co-Bpy-COF-Ru1/2,10.1021/jacs.3c06113,25,95.29,composited,706,2.2,298,19.4,144,7.2,h-type cell,0.5,KHCO3,-0.5,3.08,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2,,25,92.02,composited,706,2.2,298,19.4,144,7.2,h-type cell,0.5,KHCO3,-0.6,5.92,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2,,25,96.7,composited,706,2.2,298,19.4,144,7.2,h-type cell,0.5,KHCO3,-0.7,9.42,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2,,25,82.97,composited,706,2.2,298,19.4,144,7.2,h-type cell,0.5,KHCO3,-0.8,10.7,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2,,25,74.37,composited,706,2.2,298,19.4,144,7.2,h-type cell,0.5,KHCO3,-0.9,13.21,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2,,25,67.53,composited,706,2.2,298,19.4,144,7.2,h-type cell,0.5,KHCO3,-1,14.92,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2,,25,69.66,composited,706,2.2,298,19.4,144,7.2,h-type cell,0.5,KHCO3,-1.1,16.27,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2(light),,25,95.33,composited,706,2.2,298,19.4,126,7.2,h-type cell,0.5,KHCO3,-0.5,3.06,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2(light),,25,92.08,composited,706,2.2,298,19.4,126,7.2,h-type cell,0.5,KHCO3,-0.6,5.92,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2(light),,25,97.67,composited,706,2.2,298,19.4,126,7.2,h-type cell,0.5,KHCO3,-0.7,9.42,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2(light),,25,83.02,composited,706,2.2,298,19.4,126,7.2,h-type cell,0.5,KHCO3,-0.8,10.73,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2(light),,25,82.95,composited,706,2.2,298,19.4,126,7.2,h-type cell,0.5,KHCO3,-0.9,13.28,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2(light),,25,74.53,composited,706,2.2,298,19.4,126,7.2,h-type cell,0.5,KHCO3,-1,14.95,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru1/2(light),,25,67.38,composited,706,2.2,298,19.4,126,7.2,h-type cell,0.5,KHCO3,-1.1,16.72,4.33,2,aminophenyl,Co,4.01,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3,,25,73.86,composited,605,2.6,298,24.13,198.6,7.2,h-type cell,0.5,KHCO3,-0.6,3.95,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3,,25,71.6,composited,605,2.6,298,24.13,198.6,7.2,h-type cell,0.5,KHCO3,-0.7,5.25,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3,,25,66.85,composited,605,2.6,298,24.13,198.6,7.2,h-type cell,0.5,KHCO3,-0.8,6.19,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3,,25,60.86,composited,605,2.6,298,24.13,201.8,7.2,h-type cell,0.5,KHCO3,-0.9,7.5,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3,,25,38.23,composited,605,2.6,298,24.13,343.06,7.2,h-type cell,0.5,KHCO3,-1,6.25,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3,,25,18.8,composited,605,2.6,298,24.13,285.34,7.2,h-type cell,0.5,KHCO3,-1.1,4.05,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3,,25,8.68,composited,605,2.6,298,24.13,354.32,7.2,h-type cell,0.5,KHCO3,-1.2,2.33,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3(light),,25,86.94,composited,605,2.6,298,24.13,192.2,7.2,h-type cell,0.5,KHCO3,-0.5,2.51,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3(light),,25,90.41,composited,605,2.6,298,24.13,192.2,7.2,h-type cell,0.5,KHCO3,-0.6,5.1,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3(light),,25,95.41,composited,605,2.6,298,24.13,222,7.2,h-type cell,0.5,KHCO3,-0.7,7.72,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3(light),,25,90.92,composited,605,2.6,298,24.13,201.4,7.2,h-type cell,0.5,KHCO3,-0.8,9.56,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3(light),,25,72.14,composited,605,2.6,298,24.13,198.6,7.2,h-type cell,0.5,KHCO3,-0.9,9.29,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3(light),,25,65.71,composited,605,2.6,298,24.13,198.6,7.2,h-type cell,0.5,KHCO3,-1,12.23,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3(light),,25,53.98,composited,605,2.6,298,24.13,286.78,7.2,h-type cell,0.5,KHCO3,-1.1,13.11,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF-Ru2/3(light),,25,46.02,composited,605,2.6,298,24.13,360.78,7.2,h-type cell,0.5,KHCO3,-1.2,14.17,4.37,2,aminophenyl,Co,3.85,MTAPP,Bpy,2.22,CO,0,Co-N
+Co-Bpy-COF,,25,82.2,unmodified,930,2.7,298,21.4,160,7.2,h-type cell,0.5,KHCO3,-0.6,2.7,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF,,25,78.63,unmodified,930,2.7,298,21.4,160,7.2,h-type cell,0.5,KHCO3,-0.7,4.74,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF,,25,77.34,unmodified,930,2.7,298,21.4,160,7.2,h-type cell,0.5,KHCO3,-0.8,6.34,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF,,25,70.87,unmodified,930,2.7,298,21.4,160,7.2,h-type cell,0.5,KHCO3,-0.9,9.48,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF,,25,74.37,unmodified,930,2.7,298,21.4,160,7.2,h-type cell,0.5,KHCO3,-1,8.13,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF,,25,47.45,unmodified,930,2.7,298,21.4,160,7.2,h-type cell,0.5,KHCO3,-1.1,7.11,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF(light),,25,81.32,unmodified,930,2.7,298,21.4,162,7.2,h-type cell,0.5,KHCO3,-0.6,2.78,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF(light),,25,78.77,unmodified,930,2.7,298,21.4,162,7.2,h-type cell,0.5,KHCO3,-0.7,4.72,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF(light),,25,77.29,unmodified,930,2.7,298,21.4,162,7.2,h-type cell,0.5,KHCO3,-0.8,6.39,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF(light),,25,71.13,unmodified,930,2.7,298,21.4,162,7.2,h-type cell,0.5,KHCO3,-0.9,7.15,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF(light),,25,74.32,unmodified,930,2.7,298,21.4,162,7.2,h-type cell,0.5,KHCO3,-1,9.49,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+Co-Bpy-COF(light),,25,47.22,unmodified,930,2.7,298,21.4,162,7.2,h-type cell,0.5,KHCO3,-1.1,8.1,4.01,2,aminophenyl,Co,4.1,MTAPP,Bpy,2.85,CO,0,Co-N
+TTF- por (Co)-COF,10.1021/acsenergylett.9b02756,26,91.63,unmodified,888,5,298,22,242,7.6,h-type cell,0.5,KHCO3,-0.6,-2.17,4,2,aminophenyl,Co,3.73,MTAPP,4-formyl-TTF,1,CO,0,Co-N
+TTF- por (Co)-COF,,26,95,unmodified,888,5,298,22,251.2,7.6,h-type cell,0.5,KHCO3,-0.7,-4.41,4,2,aminophenyl,Co,3.73,MTAPP,4-formyl-TTF,1,CO,0,Co-N
+TTF- por (Co)-COF,,26,83.96,unmodified,888,5,298,22,189,7.6,h-type cell,0.5,KHCO3,-0.8,-5.77,4,2,aminophenyl,Co,3.73,MTAPP,4-formyl-TTF,1,CO,0,Co-N
+TTF- por (Co)-COF,,26,67.22,unmodified,888,4.5,298,22,195.4,7.6,h-type cell,0.5,KHCO3,-0.9,-6.88,4,2,aminophenyl,Co,3.73,MTAPP,4-formyl-TTF,1,CO,0,Co-N
+TTF- por (2H)-COF,,26,4.86,unmodified,268,1.3,298,16,354.32,7.6,h-type cell,0.5,KHCO3,-0.9,-0.092,4,2,aminophenyl,0,0,MTAPP,4-formyl-TTF,0.66,CO,0,C=N
+Por(Co)-Vg-COF,10.1039/d3qm00218g,27,98.54,unmodified,922,2.5,298,45,172.27,7.3,h-type cell,0.5,KHCO3,-0.6,-3.44,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,99.94,unmodified,922,2.5,298,45,172.27,7.3,h-type cell,0.5,KHCO3,-0.7,-6.31,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,99.94,unmodified,922,2.5,298,45,172.27,7.3,h-type cell,0.5,KHCO3,-0.8,-9.01,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,97.72,unmodified,922,2.5,298,45,172.27,7.3,h-type cell,0.5,KHCO3,-0.9,-11.19,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,94.08,unmodified,922,2.5,298,45,172.27,7.3,h-type cell,0.5,KHCO3,-1,-9.75,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,91.48,unmodified,922,2.5,298,45,172.27,7.3,h-type cell,0.5,KHCO3,-1.1,-18.8,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(H)-Vg-COF,,27,21.84,unmodified,353.8,1.26,298,11.768,164.9,7.3,h-type cell,0.5,KHCO3,-0.7,-1.546,4,2,aminophenyl,0,0,MTAPP,TNV,6.172,CO,0,C=N
+Por(H)-Vg-COF,,27,30.42,unmodified,317.275,1.38,298,12.832,160.28,7.3,h-type cell,0.5,KHCO3,-0.8,-4.924,4,2,aminophenyl,0,0,MTAPP,TNV,8.892,CO,0,C=N
+Por(H)-Vg-COF,,27,29.77,unmodified,317.275,1.34,298,12.832,183.22,7.3,h-type cell,0.5,KHCO3,-0.9,-4.924,4,2,aminophenyl,0,0,MTAPP,TNV,8.892,CO,0,C=N
+Por(H)-Vg-COF,,27,19.24,unmodified,353.8,1.26,298,11.768,142.32,7.3,h-type cell,0.5,KHCO3,-1,-2.942,4,2,aminophenyl,0,0,MTAPP,TNV,6.172,CO,0,C=N
+Por(H)-Vg-COF,,27,11.31,unmodified,900,0.72,298,23.68,167.3,7.3,h-type cell,0.5,KHCO3,-1.1,-0.462,4,2,aminophenyl,0,0,MTAPP,TNV,3.114,CO,0,C=N
+Por(Co)-Vg-COF,,27,96.88,unmodified,1165.6,2.5,298,45,172.27,14,flow cell,1,KOH,-0.3,-11.15,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,98.52,unmodified,556.4,2.5,298,45,187.854,14,flow cell,1,KOH,-0.5,-42.69,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,97.32,unmodified,341.275,2.5,298,45,166.254,14,flow cell,1,KOH,-0.7,-75.4,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,97.53,unmodified,341.275,2.5,298,45,215.254,14,flow cell,1,KOH,-0.9,-118.07,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,96.99,unmodified,381.2,2.5,298,45,166.254,14,flow cell,1,KOH,-1.1,-145.05,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,93.04,unmodified,381.2,2.5,298,45,166.254,14,flow cell,1,KOH,-1.3,-172.03,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,78.36,unmodified,405.2,2.5,298,45,117.654,14,flow cell,1,KOH,-1.5,-169.47,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,60.11,unmodified,1027.4,2.5,298,45,178.4,2,flow cell,0.06,H2SO4,-1,-7.41,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,78.12,unmodified,828,2.5,298,45,127.708,2,flow cell,0.06,H2SO4,-1.1,-11.72,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,86.7,unmodified,909.2,2.5,298,45,125.908,2,flow cell,0.06,H2SO4,-1.2,-19.78,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,90.12,unmodified,556.4,2.5,298,45,164.854,2,flow cell,0.06,H2SO4,-1.3,-40.04,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,88.83,unmodified,381.2,2.5,298,45,215.254,2,flow cell,0.06,H2SO4,-1.4,-58.84,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Por(Co)-Vg-COF,,27,88.09,unmodified,428.6,2.5,298,45,117.654,2,flow cell,0.06,H2SO4,-1.5,-83.09,4.5,2,aminophenyl,Co,2.43,MTAPP,TNV,2.5,CO,0,Co-N
+Ag@COF-OCH3,10.1021/acsami.3c05679,28,84.79,functionalized,1306,2.5,298,13.248,119,14,flow cell,1,KOH,-0.63,40.53,3,2,methoxy,0,0,TAPT,BDA,1.3,CO,0,C=N
+Ag@COF-OCH3,,28,85.04,functionalized,1306,2.5,298,24.76,119,14,flow cell,1,KOH,-0.75,77.8,3,2,methoxy,0,0,TAPT,BDA,1.3,CO,0,C=N
+Ag@COF-OCH3,,28,86.47,functionalized,1306,2.5,298,21.8,119,14,flow cell,1,KOH,-0.8,142.27,3,2,methoxy,0,0,TAPT,BDA,1.3,CO,0,C=N
+Ag@COF-OCH3,,28,93,functionalized,1306,2.5,298,27.72,119,14,flow cell,1,KOH,-0.87,213.9,3,2,methoxy,0,0,TAPT,BDA,1.3,CO,0,C=N
+Ag@COF-OCH3,,28,83.36,functionalized,1306,2.5,298,27.72,119,14,flow cell,1,KOH,-0.96,235.3,3,2,methoxy,0,0,TAPT,BDA,1.3,CO,0,C=N
+Ag@COF-OCH3,,28,10.97,functionalized,1306,2.5,298,8.6,119,14,flow cell,1,KOH,-0.63,48.17,3,2,methoxy,0,0,TAPT,BDA,1.3,HCOOH,0,C=N
+Ag@COF-OCH3,,28,6.96,functionalized,1306,2.5,298,8.6,119,14,flow cell,1,KOH,-0.75,89.45,3,2,methoxy,0,0,TAPT,BDA,1.3,HCOOH,0,C=N
+Ag@COF-OCH3,,28,8.02,functionalized,1306,2.5,298,8.6,119,14,flow cell,1,KOH,-0.8,165.14,3,2,methoxy,0,0,TAPT,BDA,1.3,HCOOH,0,C=N
+Ag@COF-OCH3,,28,8.61,functionalized,1306,2.5,298,8.6,119,14,flow cell,1,KOH,-0.87,229.82,3,2,methoxy,0,0,TAPT,BDA,1.3,HCOOH,0,C=N
+Ag@COF-OCH3,,28,13.8,functionalized,1306,2.5,298,8.6,119,14,flow cell,1,KOH,-0.96,282.45,3,2,methoxy,0,0,TAPT,BDA,1.3,HCOOH,0,C=N
+Ag@COF-OH,,28,81.55,functionalized,1088,2.5,298,30.172,142,14,flow cell,1,KOH,-0.66,26.12,3,2,hydroxy,0,0,TAPT,BDA,1.3,CO,0,C=N
+Ag@COF-OH,,28,84.53,functionalized,1088,2.5,298,16.506,142,14,flow cell,1,KOH,-0.78,54.68,3,2,hydroxy,0,0,TAPT,BDA,1.3,CO,0,C=N
+Ag@COF-OH,,28,84.4,functionalized,1088,2.5,298,17.04,142,14,flow cell,1,KOH,-0.82,116.6,3,2,hydroxy,0,0,TAPT,BDA,1.3,CO,0,C=N
+Ag@COF-OH,,28,82.66,functionalized,1088,2.5,298,16.64,142,14,flow cell,1,KOH,-0.89,165.94,3,2,hydroxy,0,0,TAPT,BDA,1.3,CO,0,C=N
+Ag@COF-OH,,28,70.77,functionalized,1088,2.5,298,16.28,142,14,flow cell,1,KOH,-0.98,177.37,3,2,hydroxy,0,0,TAPT,BDA,1.3,CO,0,C=N
+Ag@COF-OH,,28,7.52,functionalized,1088,2.5,298,8.6,142,14,flow cell,1,KOH,-0.66,32.33,3,2,hydroxy,0,0,TAPT,BDA,1.3,HCOOH,0,C=N
+Ag@COF-OH,,28,11.04,functionalized,1088,2.5,298,8.6,142,14,flow cell,1,KOH,-0.78,64.95,3,2,hydroxy,0,0,TAPT,BDA,1.3,HCOOH,0,C=N
+Ag@COF-OH,,28,8.86,functionalized,1088,2.5,298,8.6,142,14,flow cell,1,KOH,-0.82,138.35,3,2,hydroxy,0,0,TAPT,BDA,1.3,HCOOH,0,C=N
+Ag@COF-OH,,28,14.56,functionalized,1088,2.5,298,8.6,142,14,flow cell,1,KOH,-0.89,201.55,3,2,hydroxy,0,0,TAPT,BDA,1.3,HCOOH,0,C=N
+Ag@COF-OH,,28,17.48,functionalized,1088,2.5,298,8.6,142,14,flow cell,1,KOH,-0.98,251.36,3,2,hydroxy,0,0,TAPT,BDA,1.3,HCOOH,0,C=N
+Ag@COF-H,,28,70.77,functionalized,11,2.992,298,15.986,136,14,flow cell,1,KOH,-0.63,31.28,3,2,H,0,0,TAPT,BDA,1.2,CO,0,C=N
+Ag@COF-H,,28,72.96,functionalized,11,3.72,298,18,136,14,flow cell,1,KOH,-0.75,62.57,3,2,H,0,0,TAPT,BDA,1.2,CO,0,C=N
+Ag@COF-H,,28,83.7,functionalized,11,3.72,298,18,136,14,flow cell,1,KOH,-0.79,139.8,3,2,H,0,0,TAPT,BDA,1.2,CO,0,C=N
+Ag@COF-H,,28,79.3,functionalized,11,3.72,298,18,136,14,flow cell,1,KOH,-0.86,185.8,3,2,H,0,0,TAPT,BDA,1.2,CO,0,C=N
+Ag@COF-H,,28,65.8,functionalized,11,3.72,298,18,136,14,flow cell,1,KOH,-0.92,201.03,3,2,H,0,0,TAPT,BDA,1.2,CO,0,C=N
+Ag@COF-H,,28,9.05,functionalized,11,1.2,298,8.6,136,14,flow cell,1,KOH,-0.63,48.03,3,2,H,0,0,TAPT,BDA,1.2,HCOOH,0,C=N
+Ag@COF-H,,28,10.67,functionalized,11,1.2,298,8.6,136,14,flow cell,1,KOH,-0.75,86.25,3,2,H,0,0,TAPT,BDA,1.2,HCOOH,0,C=N
+Ag@COF-H,,28,13.92,functionalized,11,1.2,298,8.6,136,14,flow cell,1,KOH,-0.8,167.42,3,2,H,0,0,TAPT,BDA,1.2,HCOOH,0,C=N
+Ag@COF-H,,28,19.03,functionalized,11,2.208,298,12.36,136,14,flow cell,1,KOH,-0.87,235.74,3,2,H,0,0,TAPT,BDA,1.2,HCOOH,0,C=N
+Ag@COF-H,,28,15.89,functionalized,11,1.704,298,10.48,136,14,flow cell,1,KOH,-0.92,306.43,3,2,H,0,0,TAPT,BDA,1.2,HCOOH,0,C=N
+CoPc-DNDS-COF,10.1021/acsmaterialslett.3c00168,29,81.6,functionalized,206,1.4,298,20.226,245,7.3,h-type cell,0.5,KHCO3,-0.6,-2.82,4,2,cyano,Co,5.36,Pc,DNDS,1.24,CO,0,Co-N
+CoPc-DNDS-COF,,29,90.6,functionalized,206,1.4,298,32.206,245,7.3,h-type cell,0.5,KHCO3,-0.7,-7.34,4,2,cyano,Co,5.36,Pc,DNDS,1.24,CO,0,Co-N
+CoPc-DNDS-COF,,29,96.3,functionalized,206,1.4,298,28.86,245,7.3,h-type cell,0.5,KHCO3,-0.8,-12.58,4,2,cyano,Co,5.36,Pc,DNDS,1.24,CO,0,Co-N
+CoPc-DNDS-COF,,29,93.9,functionalized,206,1.4,298,34.24,245,7.3,h-type cell,0.5,KHCO3,-0.9,-16.04,4,2,cyano,Co,5.36,Pc,DNDS,1.24,CO,0,Co-N
+CoPc-DNDS-COF,,29,85.2,functionalized,206,1.4,298,34.24,245,7.3,h-type cell,0.5,KHCO3,-1,-19.6,4,2,cyano,Co,5.36,Pc,DNDS,1.24,CO,0,Co-N
+CoPc-DSDS-COF,,29,81.5,functionalized,215,1.42,298,19.616,242,7.3,h-type cell,0.5,KHCO3,-0.6,-4.88,4,2,cyano,Co,5.32,Pc,DSDS,1.31,CO,0,Co-N
+CoPc-DSDS-COF,,29,93.4,functionalized,215,1.42,298,32.206,242,7.3,h-type cell,0.5,KHCO3,-0.7,-9.55,4,2,cyano,Co,5.32,Pc,DSDS,1.31,CO,0,Co-N
+CoPc-DSDS-COF,,29,95.6,functionalized,215,1.42,298,34.24,242,7.3,h-type cell,0.5,KHCO3,-0.8,-15.47,4,2,cyano,Co,5.32,Pc,DSDS,1.31,CO,0,Co-N
+CoPc-DSDS-COF,,29,96.5,functionalized,215,1.42,298,34.24,242,7.3,h-type cell,0.5,KHCO3,-0.9,-21.24,4,2,cyano,Co,5.32,Pc,DSDS,1.31,CO,0,Co-N
+CoPc-DSDS-COF,,29,96,functionalized,215,1.42,298,39.62,242,7.3,h-type cell,0.5,KHCO3,-1,-30.42,4,2,cyano,Co,5.32,Pc,DSDS,1.31,CO,0,Co-N
+Cu-NC@CuPc-COF,10.1016/j.esci.2023.100116,30,16.85,composited,319.6,1.2,298,10.4,186,14,flow cell,1,KOH,-0.7,6.44,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CH4,NC,Cu-N
+Cu-NC@CuPc-COF,,30,47.36,composited,782.12,1.2,298,10.4,186,14,flow cell,1,KOH,-0.8,40.39,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CH4,NC,Cu-N
+Cu-NC@CuPc-COF,,30,71.53,composited,157.16,1.2,298,10.4,186,14,flow cell,1,KOH,-0.9,117.66,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CH4,NC,Cu-N
+Cu-NC@CuPc-COF,,30,74,composited,76.68,1.2,298,10.4,186,14,flow cell,1,KOH,-1,269,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CH4,NC,Cu-N
+Cu-NC@CuPc-COF,,30,58.19,composited,195.24,1.2,298,10.4,186,14,flow cell,1,KOH,-1.1,391,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CH4,NC,Cu-N
+Cu-NC@CuPc-COF,,30,56.36,composited,254.52,1.2,298,10.4,186,14,flow cell,1,KOH,-1.2,538,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CH4,NC,Cu-N
+Cu-NC@CuPc-COF,,30,18.19,composited,319.6,1.2,298,10.4,186,14,flow cell,1,KOH,-0.7,-5.262,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CO,NC,Cu-N
+Cu-NC@CuPc-COF,,30,10.14,composited,394.8,1.2,298,10.4,186,14,flow cell,1,KOH,-0.8,-0.168,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CO,NC,Cu-N
+Cu-NC@CuPc-COF,,30,1.87,composited,408.2,1.2,298,10.4,186,14,flow cell,1,KOH,-0.9,-0.168,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CO,NC,Cu-N
+Cu-NC@CuPc-COF,,30,1.43,composited,408.2,1.2,298,10.4,186,14,flow cell,1,KOH,-1,-0.168,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CO,NC,Cu-N
+Cu-NC@CuPc-COF,,30,0.66,composited,408.2,1.2,298,10.4,186,14,flow cell,1,KOH,-1.1,-0.168,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CO,NC,Cu-N
+Cu-NC@CuPc-COF,,30,0.57,composited,408.2,1.2,298,10.4,186,14,flow cell,1,KOH,-1.2,-0.168,4,2,cyano¡¢hydroxy,Cu,8.3,Pc,TFPN,0.72,CO,NC,Cu-N
+Cu-NC@HHTP-COF,,30,8.01,composited,394.8,1.7,298,10.6,169.5,14,flow cell,1,KOH,-0.7,2.93,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CH4,NC,Cu-N
+Cu-NC@HHTP-COF,,30,27.76,composited,574.4,1.7,298,10.6,169.5,14,flow cell,1,KOH,-0.8,22.83,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CH4,NC,Cu-N
+Cu-NC@HHTP-COF,,30,42.25,composited,793.2,1.7,298,10.6,169.5,14,flow cell,1,KOH,-0.9,62.63,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CH4,NC,Cu-N
+Cu-NC@HHTP-COF,,30,42,composited,793.2,1.7,298,10.6,169.5,14,flow cell,1,KOH,-1,101.85,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CH4,NC,Cu-N
+Cu-NC@HHTP-COF,,30,38.51,composited,238.6,1.7,298,10.6,169.5,14,flow cell,1,KOH,-1.1,122.93,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CH4,NC,Cu-N
+Cu-NC@HHTP-COF,,30,27.61,composited,295.26,1.7,298,10.6,169.5,14,flow cell,1,KOH,-1.2,120,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CH4,NC,Cu-N
+Cu-NC@HHTP-COF,,30,13.02,composited,394.8,1.7,298,10.6,169.5,14,flow cell,1,KOH,-0.7,27.738,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CO,NC,Cu-N
+Cu-NC@HHTP-COF,,30,7.62,composited,394.8,1.7,298,10.6,169.5,14,flow cell,1,KOH,-0.8,-0.87,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CO,NC,Cu-N
+Cu-NC@HHTP-COF,,30,3.31,composited,383.72,1.7,298,10.6,169.5,14,flow cell,1,KOH,-0.9,-0.87,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CO,NC,Cu-N
+Cu-NC@HHTP-COF,,30,1.55,composited,383.72,1.7,298,10.6,169.5,14,flow cell,1,KOH,-1,-0.87,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CO,NC,Cu-N
+Cu-NC@HHTP-COF,,30,0.88,composited,383.72,1.7,298,10.6,169.5,14,flow cell,1,KOH,-1.1,-0.87,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CO,NC,Cu-N
+Cu-NC@HHTP-COF,,30,0.77,composited,383.72,1.7,298,10.6,169.5,14,flow cell,1,KOH,-1.2,-0.87,4,2,cyano¡¢hydroxy,Cu,6.6,Pc,TFPN,1.7,CO,NC,Cu-N
+CuPc-COF,,30,4.65,unmodified,394.8,1.2,298,8.6,144.6,14,flow cell,1,KOH,-0.7,0.59,4,2,cyano¡¢hydroxy,Cu,8.524,Pc,TFPN,1.03,CH4,0,Cu-N
+CuPc-COF,,30,18.07,unmodified,345.2,1.2,298,8.6,144.6,14,flow cell,1,KOH,-0.8,10.54,4,2,cyano¡¢hydroxy,Cu,5.1,Pc,TFPN,1.03,CH4,0,Cu-N
+CuPc-COF,,30,42.25,unmodified,793.2,1.2,298,8.6,144.6,14,flow cell,1,KOH,-0.9,53.27,4,2,cyano¡¢hydroxy,Cu,5.1,Pc,TFPN,1.03,CH4,0,Cu-N
+CuPc-COF,,30,53,unmodified,195.24,1.2,298,8.6,144.6,14,flow cell,1,KOH,-1,128.2,4,2,cyano¡¢hydroxy,Cu,5.1,Pc,TFPN,1.03,CH4,0,Cu-N
+CuPc-COF,,30,32.18,unmodified,295.26,1.2,298,8.6,144.6,14,flow cell,1,KOH,-1.1,129.37,4,2,cyano¡¢hydroxy,Cu,5.1,Pc,TFPN,1.03,CH4,0,Cu-N
+CuPc-COF,,30,22.12,unmodified,410.054,1.2,298,8.6,144.6,14,flow cell,1,KOH,-1.2,133.46,4,2,cyano¡¢hydroxy,Cu,5.1,Pc,TFPN,1.03,CH4,0,Cu-N
+CuPc-COF,,30,5.54,unmodified,394.8,1.2,298,8.6,144.6,14,flow cell,1,KOH,-0.7,0.77,4,2,cyano¡¢hydroxy,Cu,8.524,Pc,TFPN,1.03,CO,0,Cu-N
+CuPc-COF,,30,5.32,unmodified,394.8,1.2,298,8.6,144.6,14,flow cell,1,KOH,-0.8,0.77,4,2,cyano¡¢hydroxy,Cu,8.524,Pc,TFPN,1.03,CO,0,Cu-N
+CuPc-COF,,30,2.66,unmodified,383.72,1.2,298,8.6,144.6,14,flow cell,1,KOH,-0.9,-1.338,4,2,cyano¡¢hydroxy,Cu,8.524,Pc,TFPN,1.03,CO,0,Cu-N
+CuPc-COF,,30,0.78,unmodified,383.72,1.2,298,8.6,144.6,14,flow cell,1,KOH,-1,-1.338,4,2,cyano¡¢hydroxy,Cu,7.504,Pc,TFPN,1.03,CO,0,Cu-N
+CuPc-COF,,30,0.55,unmodified,383.72,1.2,298,8.6,144.6,14,flow cell,1,KOH,-1.1,-1.338,4,2,cyano¡¢hydroxy,Cu,7.504,Pc,TFPN,1.03,CO,0,Cu-N
+CuPc-COF,,30,0.46,unmodified,383.72,1.2,298,8.6,144.6,14,flow cell,1,KOH,-1.2,-1.338,4,2,cyano¡¢hydroxy,Cu,7.504,Pc,TFPN,1.03,CO,0,Cu-N
+COF-T,org/10.26434/chemrxiv-2023-skm06,31,86.02,unmodified,1998,2.1,298,8.86,122,7.3,h-type cell,0.5,KHCO3,-0.6,-10.016,4,2,tritylaminophenyl,Co,4.1,MTTPP,BDA,2.12,CO,0,Co-N
+COF-T,,31,95.24,unmodified,1998,2.1,298,8.86,122,7.3,h-type cell,0.5,KHCO3,-0.7,-44.478,4,2,tritylaminophenyl,Co,4.1,MTTPP,BDA,2.12,CO,0,Co-N
+COF-T,,31,90.87,unmodified,1998,2.1,298,8.86,122,7.3,h-type cell,0.5,KHCO3,-0.8,-13.456,4,2,tritylaminophenyl,Co,4.1,MTTPP,BDA,2.12,CO,0,Co-N
+COF-T,,31,91.94,unmodified,1998,2.1,298,8.86,122,7.3,h-type cell,0.5,KHCO3,-0.9,-44.248,4,2,tritylaminophenyl,Co,4.1,MTTPP,BDA,2.12,CO,0,Co-N
+COF-A,,31,37.67,unmodified,1643,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.6,-1.184,4,2,aminophenyl,Co,70,MTTPP,BDA,2.11,CO,0,Co-N
+COF-A,,31,66.6,unmodified,1643,2.1,298,8.86,198.6,7.3,h-type cell,0.5,KHCO3,-0.7,-3.898,4,2,aminophenyl,Co,5.02,MTTPP,BDA,2.11,CO,0,Co-N
+COF-A,,31,57.96,unmodified,1643,2.1,298,8.674,319,7.3,h-type cell,0.5,KHCO3,-0.8,-2.746,4,2,aminophenyl,Co,70,MTTPP,BDA,2.11,CO,0,Co-N
+COF-A,,31,41.94,unmodified,1643,2.1,298,8.86,319,7.3,h-type cell,0.5,KHCO3,-0.9,-1.184,4,2,aminophenyl,Co,70,MTTPP,BDA,2.11,CO,0,Co-N
+PcNi-im,10.1002/anie.202308195,32,84.67,protonized,98,1.83,298,45,347,5,flow cell,0.01,H2SO4,-1.1,-64.32,4,2,aminophenyl¡¢methoxy,Ni,5.31,Pc,imidazole,1.84,CO,0,Ni-N
+PcNi-im,,32,97,protonized,98,1.83,298,39.6,347,5,flow cell,0.01,H2SO4,-1.2,-152.45,4,2,aminophenyl¡¢methoxy,Ni,5.31,Pc,imidazole,1.84,CO,0,Ni-N
+PcNi-im,,32,98,protonized,98,1.83,298,18,347,5,flow cell,0.01,H2SO4,-1.3,-264.38,4,2,aminophenyl¡¢methoxy,Ni,5.31,Pc,imidazole,1.84,CO,0,Ni-N
+PcNi-im,,32,99,protonized,98,1.83,298,18,347,5,flow cell,0.01,H2SO4,-1.4,-320.76,4,2,aminophenyl¡¢methoxy,Ni,5.31,Pc,imidazole,1.84,CO,0,Ni-N
+PcNi-im,,32,97.1,protonized,98,1.83,298,45,347,7,flow cell,0.5,KHCO3,-0.8,-43.46,4,2,aminophenyl¡¢methoxy,Ni,5.31,Pc,imidazole,1.84,CO,0,Ni-N
+PcNi-im,,32,100,protonized,98,1.83,298,45,347,7,flow cell,0.5,KHCO3,-1,-117.32,4,2,aminophenyl¡¢methoxy,Ni,5.31,Pc,imidazole,1.84,CO,0,Ni-N
+PcNi-im,,32,99.57,protonized,98,1.83,298,34.2,347,7,flow cell,0.5,KHCO3,-1.2,-182.35,4,2,aminophenyl¡¢methoxy,Ni,5.31,Pc,imidazole,1.84,CO,0,Ni-N
+PcNi-im,,32,100,protonized,98,1.83,298,18,347,7,flow cell,0.5,KHCO3,-1.4,-257.84,4,2,aminophenyl¡¢methoxy,Ni,5.31,Pc,imidazole,1.84,CO,0,Ni-N
+PcNi-pz,,32,87.61,protonized,90.84,2.052,298,34.48,349,5,flow cell,0.01,H2SO4,-1.1,-48.39,4,2,aminophenyl,Ni,6.108,Pc,pyrazine,2.062,CO,0,Ni-N
+PcNi-pz,,32,97.58,protonized,50.48,3.098,298,28.8,349,5,flow cell,0.01,H2SO4,-1.2,-106.05,4,2,aminophenyl,Ni,7.142,Pc,pyrazine,3.1,CO,0,Ni-N
+PcNi-pz,,32,98.27,protonized,50.48,3.098,298,23.4,349,5,flow cell,0.01,H2SO4,-1.3,-195.16,4,2,aminophenyl,Ni,7.142,Pc,pyrazine,3.1,CO,0,Ni-N
+PcNi-pz,,32,96.61,protonized,62.36,2.964,298,20.98,349,5,flow cell,0.01,H2SO4,-1.4,-246.77,4,2,aminophenyl,Ni,7.142,Pc,pyrazine,2.968,CO,0,Ni-N
+PcNi-pz,,32,99,protonized,119.32,2.052,298,29.36,349,7,flow cell,0.5,KHCO3,-0.8,-55.96,4,2,aminophenyl,Ni,7.142,Pc,pyrazine,2.062,CO,0,Ni-N
+PcNi-pz,,32,99.12,protonized,74.96,2.854,298,30,349,7,flow cell,0.5,KHCO3,-1,-123.73,4,2,aminophenyl,Ni,7.142,Pc,pyrazine,2.856,CO,0,Ni-N
+PcNi-pz,,32,99.85,protonized,50.48,3.098,298,28.8,349,7,flow cell,0.5,KHCO3,-1.2,-185.28,4,2,aminophenyl,Ni,7.142,Pc,pyrazine,3.1,CO,0,Ni-N
+PcNi-pz,,32,99.71,protonized,62.36,2.964,298,20.98,349,7,flow cell,0.5,KHCO3,-1.4,-259.27,4,2,aminophenyl,Ni,6.684,Pc,pyrazine,2.968,CO,0,Ni-N
+PcNi-tfpn,,32,84.71,protonized,1273.52,2.284,298,27.58,373,5,flow cell,0.01,H2SO4,-1.1,-58.06,4,2,tritylaminophenyl¡¢hydroxy,Ni,4.242,Pc,TFPN,2.256,CO,0,Ni-N
+PcNi-tfpn,,32,99.24,protonized,1214.24,2.748,298,26.38,373,5,flow cell,0.01,H2SO4,-1.2,-136.29,4,2,tritylaminophenyl¡¢hydroxy,Ni,5.616,Pc,TFPN,2.76,CO,0,Ni-N
+PcNi-tfpn,,32,98.41,protonized,1214.24,2.748,298,23.96,373,5,flow cell,0.01,H2SO4,-1.3,-220.56,4,2,tritylaminophenyl¡¢hydroxy,Ni,5.116,Pc,TFPN,2.76,CO,0,Ni-N
+PcNi-tfpn,,32,97.72,protonized,1606.12,2.424,298,20.98,373,5,flow cell,0.01,H2SO4,-1.4,-257.26,4,2,tritylaminophenyl¡¢hydroxy,Ni,5.158,Pc,TFPN,2.44,CO,0,Ni-N
+PcNi-tfpn,,32,98.38,protonized,1214.24,2.748,298,26.66,373,7,flow cell,0.5,KHCO3,-0.8,-54.4,4,2,tritylaminophenyl¡¢hydroxy,Ni,5.616,Pc,TFPN,2.76,CO,0,Ni-N
+PcNi-tfpn,,32,97.21,protonized,1606.12,2.424,298,26.38,373,7,flow cell,0.5,KHCO3,-1,-116.58,4,2,tritylaminophenyl¡¢hydroxy,Ni,3.624,Pc,TFPN,2.44,CO,0,Ni-N
+PcNi-tfpn,,32,99.85,protonized,1226.12,2.37,298,26.38,373,7,flow cell,0.5,KHCO3,-1.2,-185.28,4,2,tritylaminophenyl¡¢hydroxy,Ni,5.158,Pc,TFPN,2.384,CO,0,Ni-N
+PcNi-tfpn,,32,99.12,protonized,1226.12,2.37,298,20.98,373,7,flow cell,0.5,KHCO3,-1.4,-264.87,4,2,tritylaminophenyl¡¢hydroxy,Ni,5.158,Pc,TFPN,2.384,CO,0,Ni-N
+COFPTMn,10.1021/acsaem.3c03117,33,26.56,metal doping,94,1.4,298,9.4,154.56,7.4,three-compartment cell,0.5,KHCO3,-0.67,83.24,2,2,phenanthroline,Mn,6.98,PyTTA,PT,1.298,CO,0,Mn-N
+COFPTMn,,33,15.27,metal doping,94,1.3,298,9.72,166.14,7.4,three-compartment cell,0.5,KHCO3,-0.67,30.792,2,2,phenanthroline,Mn,7.62,PyTTA,PT,1.04,HCOOH,0,Mn-N
+NiPc-Im-COF,10.1039/d3qm01190a,34,100,unmodified,360,3.6,298,27,258.132,7.3,h-type cell,0.5,KHCO3,-0.7,4.35,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,96.7,unmodified,360,4.3,298,27,252.532,7.3,h-type cell,0.5,KHCO3,-0.8,9.18,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,94.14,unmodified,360,4.3,298,27,214,7.3,h-type cell,0.5,KHCO3,-0.9,14.29,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,93.77,unmodified,360,4.3,298,27,241.8,7.3,h-type cell,0.5,KHCO3,-1,17.24,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,90.84,unmodified,360,5,298,27,241.8,7.3,h-type cell,0.5,KHCO3,-1.1,19.3,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,98.46,unmodified,360,4.2,298,27,241.8,14,flow cell,1,KOH,-0.5,28.44,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,95,unmodified,360,5,298,27,241.8,14,flow cell,1,KOH,-0.6,68.12,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,96.54,unmodified,360,5,298,27,241.8,14,flow cell,1,KOH,-0.7,109.38,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,93.08,unmodified,360,5,298,27,241.8,14,flow cell,1,KOH,-0.8,142,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,89.62,unmodified,360,5,298,27,241.8,14,flow cell,1,KOH,-0.9,82.5,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,99,unmodified,360,4.2,298,27,246.6,14,flow cell,3,KOH,-0.5,64.37,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,96,unmodified,360,4.2,298,27,246.6,14,flow cell,3,KOH,-0.6,128.12,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,96.15,unmodified,360,5,298,27,241.8,14,flow cell,3,KOH,-0.7,187.19,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,94.23,unmodified,360,5,298,27,241.8,14,flow cell,3,KOH,-0.8,231.88,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,84.23,unmodified,360,5,298,27,237,14,flow cell,3,KOH,-0.9,139.38,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,96.15,unmodified,360,5,298,27,241.8,14,flow cell,5,KOH,-0.5,92.81,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,93.85,unmodified,360,5,298,27,241.8,14,flow cell,5,KOH,-0.6,181.88,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,91.54,unmodified,360,5,298,27,241.8,14,flow cell,5,KOH,-0.7,255.62,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,91.92,unmodified,360,5,298,27,241.8,14,flow cell,5,KOH,-0.8,268.13,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,85,unmodified,360,5,298,27,237,14,flow cell,5,KOH,-0.9,195.62,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,72.16,unmodified,360,4.28,298,27,241.8,1,flow cell,0.5,K2SO4,-1.1,26.49,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,85.88,unmodified,360,5,298,27,237,1,flow cell,0.5,K2SO4,-1.2,51.77,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,92.16,unmodified,360,5,298,27,241.8,1,flow cell,0.5,K2SO4,-1.3,69.44,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,89.02,unmodified,360,5,298,27,241.8,1,flow cell,0.5,K2SO4,-1.4,87,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,90.2,unmodified,360,5,298,27,241.8,2,flow cell,0.5,K2SO4,-1.1,23.81,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,88.63,unmodified,360,5,298,27,237,2,flow cell,0.5,K2SO4,-1.2,36.62,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,94.51,unmodified,360,5,298,27,241.8,2,flow cell,0.5,K2SO4,-1.3,45.63,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+NiPc-Im-COF,,34,90.59,unmodified,360,5,298,27,241.8,2,flow cell,0.5,K2SO4,-1.4,60.26,4.2,2,imidazole¡¢phthalocyanine,Ni,3.75,Pc,BPDH,2.23,CO,0,Ni-N
+COFbpyMn|NT,10.1021/acscatal.1c00314,35,23.64,composited&metal doping,1601,1.4,298,10.12,337.932,7.4,a glass cell,0.5,NaCO3,0.3,11.37,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.174,CO,NT,Mn-N
+COFbpyMn|NT,,35,44.67,composited&metal doping,1601,2.06,298,12.98,441.132,7.4,a glass cell,0.5,NaCO3,0.4,16.8,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.834,CO,NT,Mn-N
+COFbpyMn|NT,,35,49.3,composited&metal doping,1601,2.82,298,11.94,206.1,7.4,a glass cell,0.5,NaCO3,0.5,27.26,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,2.69,CO,NT,Mn-N
+COFbpyMn|NT,,35,47.89,composited&metal doping,1601,2.16,298,10.12,181.32,7.4,a glass cell,0.5,NaCO3,0.6,40.14,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,2.03,CO,NT,Mn-N
+COFbpyMn|NT,,35,46.18,composited&metal doping,1601,2.06,298,10.12,184.62,7.4,a glass cell,0.5,NaCO3,0.7,53.92,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.834,CO,NT,Mn-N
+COFbpyMn|NT,,35,46.58,composited&metal doping,1601,2.16,298,10.12,181.32,7.4,a glass cell,0.5,NaCO3,0.8,72.23,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,2.03,CO,NT,Mn-N
+COFbpyMn|NT,,35,45.17,composited&metal doping,1601,2.92,298,10.16,199.8,7.4,a glass cell,0.5,NaCO3,0.9,87.02,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,2.824,CO,NT,Mn-N
+COFbpyMn|NT,,35,37.83,composited&metal doping,1601,1.6,298,10.56,172.8,7.4,a glass cell,0.5,NaCO3,1,99.09,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.504,CO,NT,Mn-N
+COFbpyMn|NT,,35,7.28,composited&metal doping,1601,1.5,298,10.52,176.1,7.4,a glass cell,0.5,NaCO3,0.3,11.37,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.308,HCOOH,NT,Mn-N
+COFbpyMn|NT,,35,7.83,composited&metal doping,1601,1.5,298,10.52,176.1,7.4,a glass cell,0.5,NaCO3,0.4,16.8,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.308,HCOOH,NT,Mn-N
+COFbpyMn|NT,,35,7.5,composited&metal doping,1601,1.5,298,10.52,176.1,7.4,a glass cell,0.5,NaCO3,0.5,27.26,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.308,HCOOH,NT,Mn-N
+COFbpyMn|NT,,35,15.21,composited&metal doping,1601,1.5,298,10.52,176.1,7.4,a glass cell,0.5,NaCO3,0.6,40.14,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.308,HCOOH,NT,Mn-N
+COFbpyMn|NT,,35,6.5,composited&metal doping,1601,1.5,298,10.52,176.1,7.4,a glass cell,0.5,NaCO3,0.7,53.92,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.308,HCOOH,NT,Mn-N
+COFbpyMn|NT,,35,9.48,composited&metal doping,1601,1.5,298,10.52,176.1,7.4,a glass cell,0.5,NaCO3,0.8,72.23,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.308,HCOOH,NT,Mn-N
+COFbpyMn|NT,,35,7.83,composited&metal doping,1601,1.5,298,10.52,176.1,7.4,a glass cell,0.5,NaCO3,0.9,87.02,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.308,HCOOH,NT,Mn-N
+COFbpyMn|NT,,35,8.27,composited&metal doping,1601,1.5,298,10.52,176.1,7.4,a glass cell,0.5,NaCO3,1,99.09,2,2,pyrimidine,Mn,7.2,PyTTA,Bpy,1.308,HCOOH,NT,Mn-N
+NiPc-OH-COF,10.1002/smll.202310147,36,97,functionalized,53,1.94,298,17.7,117,7.3,h-type cell,0.5,KHCO3,-0.6,-0.8,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OH-COF,,36,99.3,functionalized,53,1.94,298,17.7,117,7.3,h-type cell,0.5,KHCO3,-0.7,-3.9,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OH-COF,,36,99.7,functionalized,53,1.94,298,17.7,117,7.3,h-type cell,0.5,KHCO3,-0.8,-10.9,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OH-COF,,36,99.8,functionalized,53,1.94,298,17.7,117,7.3,h-type cell,0.5,KHCO3,-0.9,-20.1,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OH-COF,,36,99.8,functionalized,53,1.94,298,17.7,117,7.3,h-type cell,0.5,KHCO3,-1,-31.2,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OH-COF,,36,99.8,functionalized,53,1.94,298,17.7,117,7.3,h-type cell,0.5,KHCO3,-1.1,-39.2,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OH-COF,,36,99.38,functionalized,53,1.94,298,17.7,117,14,flow cell,1,KOH,-0.45,-42,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OH-COF,,36,99.17,functionalized,53,1.94,298,17.7,117,14,flow cell,1,KOH,-0.5,-62,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OH-COF,,36,99.48,functionalized,53,1.94,298,17.7,117,14,flow cell,1,KOH,-0.55,-84,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OH-COF,,36,99.27,functionalized,53,1.94,298,17.7,117,14,flow cell,1,KOH,-0.6,-104,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OH-COF,,36,99.27,functionalized,53,1.94,298,17.7,117,14,flow cell,1,KOH,-0.65,-116,2,2,hydroxy,Ni,4.2,TAPc,DB,1.89,CO,0,Ni-N
+NiPc-OMe-COF,,36,95.6,functionalized,73,1.77,298,16.7,126,7.3,h-type cell,0.5,KHCO3,-0.6,-0.6,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-OMe-COF,,36,99,functionalized,73,1.77,298,16.7,126,7.3,h-type cell,0.5,KHCO3,-0.7,-3.1,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-OMe-COF,,36,99.7,functionalized,73,1.77,298,16.7,126,7.3,h-type cell,0.5,KHCO3,-0.8,-9.6,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-OMe-COF,,36,99.7,functionalized,73,1.77,298,16.7,126,7.3,h-type cell,0.5,KHCO3,-0.9,-18.5,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-OMe-COF,,36,99.1,functionalized,73,1.77,298,16.7,126,7.3,h-type cell,0.5,KHCO3,-1,-26.3,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-OMe-COF,,36,99.3,functionalized,73,1.77,298,16.7,126,7.3,h-type cell,0.5,KHCO3,-1.1,-20.3,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-OMe-COF,,36,97.2,functionalized,73,1.77,298,16.7,126,14,flow cell,1,KOH,-0.45,-22.4,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-OMe-COF,,36,96.5,functionalized,73,1.77,298,16.7,126,14,flow cell,1,KOH,-0.5,-33.8,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-OMe-COF,,36,93.1,functionalized,73,1.77,298,16.7,126,14,flow cell,1,KOH,-0.55,-34.2,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-OMe-COF,,36,72,functionalized,73,1.77,298,16.7,126,14,flow cell,1,KOH,-0.6,-16.4,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-OMe-COF,,36,62.1,functionalized,73,1.77,298,16.7,126,14,flow cell,1,KOH,-0.65,-9.9,2,2,OMe,Ni,3.5,TAPc,MB,1.68,CO,0,Ni-N
+NiPc-H-COF,,36,84.4,functionalized,152,1.91,298,25.7,134,7.3,h-type cell,0.5,KHCO3,-0.6,-0.3,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+NiPc-H-COF,,36,90.4,functionalized,152,1.91,298,25.7,134,7.3,h-type cell,0.5,KHCO3,-0.7,-1.3,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+NiPc-H-COF,,36,94.5,functionalized,152,1.91,298,25.7,134,7.3,h-type cell,0.5,KHCO3,-0.8,-3.2,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+NiPc-H-COF,,36,97,functionalized,152,1.91,298,25.7,134,7.3,h-type cell,0.5,KHCO3,-0.9,-7.1,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+NiPc-H-COF,,36,97.4,functionalized,152,1.91,298,25.7,134,7.3,h-type cell,0.5,KHCO3,-1,-12.4,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+NiPc-H-COF,,36,95,functionalized,152,1.91,298,25.7,134,7.3,h-type cell,0.5,KHCO3,-1.1,-18,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+NiPc-H-COF,,36,97.1,functionalized,152,1.91,298,25.7,134,14,flow cell,1,KOH,-0.45,-14.6,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+NiPc-H-COF,,36,94.9,functionalized,152,1.91,298,25.7,134,14,flow cell,1,KOH,-0.5,-14.2,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+NiPc-H-COF,,36,87.6,functionalized,152,1.91,298,25.7,134,14,flow cell,1,KOH,-0.55,-9.5,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+NiPc-H-COF,,36,54.9,functionalized,152,1.91,298,25.7,134,14,flow cell,1,KOH,-0.6,-4.8,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+NiPc-H-COF,,36,14.5,functionalized,152,1.91,298,25.7,134,14,flow cell,1,KOH,-0.65,-2.2,2,2,H,Ni,3.7,TAPc,PD,1.9,CO,0,Ni-N
+pFePc,10.1021/jacs.3c08594,37,62.14,unmodified,205,1.96,298,7.4,120.1,7.2,h-type cell,0.5,KHCO3,-0.5,-0.51,4,2,amine,Fe,6.44,Pc,TCB,14.74,CO,0,Fe-N
+pFePc,,37,49.9,unmodified,205,1.88,298,7.4,120.1,7.2,h-type cell,0.5,KHCO3,-0.6,-2.46,4,2,amine,Fe,6.44,Pc,TCB,14.74,CO,0,Fe-N
+pFePc,,37,34.56,unmodified,205,1.46,298,7.4,120.1,7.2,h-type cell,0.5,KHCO3,-0.7,-5.44,4,2,amine,Fe,6.44,Pc,TCB,14.74,CO,0,Fe-N
+pFePc,,37,23.3,unmodified,205,1.2,298,7.4,120.1,7.2,h-type cell,0.5,KHCO3,-0.8,-9.96,4,2,amine,Fe,6.44,Pc,TCB,14.74,CO,0,Fe-N
+pFePc,,37,15.34,unmodified,205,1.2,298,7.4,120.1,7.2,h-type cell,0.5,KHCO3,-0.9,-16.94,4,2,amine,Fe,6.44,Pc,TCB,14.74,CO,0,Fe-N
+pFePc,,37,11.07,unmodified,205,1.2,298,7.4,120.1,7.2,h-type cell,0.5,KHCO3,-1,-25.05,4,2,amine,Fe,6.44,Pc,TCB,14.74,CO,0,Fe-N
+pCoPc,,37,13.98,unmodified,176,1.2,298,5.4,118.3,7.2,h-type cell,0.5,KHCO3,-0.5,-1.23,4,2,amine,Co,6.7,Pc,TCB,12.58,CO,0,Co-N
+pCoPc,,37,41.75,unmodified,176,1.62,298,5.4,118.3,7.2,h-type cell,0.5,KHCO3,-0.6,-4.21,4,2,amine,Co,6.7,Pc,TCB,12.58,CO,0,Co-N
+pCoPc,,37,60.39,unmodified,176,1.78,298,5.4,118.3,7.2,h-type cell,0.5,KHCO3,-0.7,-11.29,4,2,amine,Co,6.7,Pc,TCB,12.58,CO,0,Co-N
+pCoPc,,37,67,unmodified,176,1.6,298,5.4,118.3,7.2,h-type cell,0.5,KHCO3,-0.8,-22.8,4,2,amine,Co,6.7,Pc,TCB,12.58,CO,0,Co-N
+pCoPc,,37,65.05,unmodified,176,1.6,298,5.4,118.3,7.2,h-type cell,0.5,KHCO3,-0.9,-36.45,4,2,amine,Co,6.7,Pc,TCB,12.58,CO,0,Co-N
+pCoPc,,37,63.11,unmodified,176,1.78,298,5.4,118.3,7.2,h-type cell,0.5,KHCO3,-1,-50.92,4,2,amine,Co,6.7,Pc,TCB,12.58,CO,0,Co-N
+pCoNiPc,,37,61.37,metal doping,229,1.2,298,8.4,258.62,7.2,h-type cell,0.5,KHCO3,-0.5,1.868,4,2,amine,Co&Ni,7.62,Pc,TCB,12.7,CO,0,Co-N¡¢Ni-N
+pCoNiPc,,37,75.43,metal doping,229,1.2,298,8.4,240.98,7.2,h-type cell,0.5,KHCO3,-0.6,-7.148,4,2,amine,Co&Ni,7.62,Pc,TCB,12.7,CO,0,Co-N¡¢Ni-N
+pCoNiPc,,37,90.27,metal doping,229,3.48,298,8.4,95,7.2,h-type cell,0.5,KHCO3,-0.7,-12.936,4,2,amine,Co&Ni,7.62,Pc,TCB,12.7,CO,0,Co-N¡¢Ni-N
+pCoNiPc,,37,94,metal doping,229,4.5,298,8.4,168.26,7.2,h-type cell,0.5,KHCO3,-0.8,-16,4,2,amine,Co&Ni,7.62,Pc,TCB,12.7,CO,0,Co-N¡¢Ni-N
+pCoNiPc,,37,93.55,metal doping,229,3.48,298,8.4,95,7.2,h-type cell,0.5,KHCO3,-0.9,-12.936,4,2,amine,Co&Ni,7.62,Pc,TCB,12.7,CO,0,Co-N¡¢Ni-N
+pCoNiPc,,37,91.52,metal doping,229,3.48,298,8.4,95,7.2,h-type cell,0.5,KHCO3,-1,-12.936,4,2,amine,Co&Ni,7.62,Pc,TCB,12.7,CO,0,Co-N¡¢Ni-N
+pCo1Ni6Pc,,37,60.02,metal doping,192.4,1.904,298,12.104,241.46,7.2,h-type cell,0.5,KHCO3,-0.5,-16.862,4,2,amine,Co&Ni,7.6,Pc,TCB,8.132,CO,0,Co-N¡¢Ni-N
+pCo1Ni6Pc,,37,80.83,metal doping,783.4,0.736,298,20.876,351.06,7.2,h-type cell,0.5,KHCO3,-0.6,-13.842,4,2,amine,Co&Ni,7.6,Pc,TCB,3.504,CO,0,Co-N¡¢Ni-N
+pCo1Ni6Pc,,37,93.93,metal doping,266.2,1.244,298,10.852,227.12,7.2,h-type cell,0.5,KHCO3,-0.7,-15.596,4,2,amine,Co&Ni,7.6,Pc,TCB,10.44,CO,0,Co-N¡¢Ni-N
+pCo1Ni6Pc,,37,95.86,metal doping,303.4,1.4,298,15.756,351.06,7.2,h-type cell,0.5,KHCO3,-0.8,-16.422,4,2,amine,Co&Ni,7.6,Pc,TCB,5.92,CO,0,Co-N¡¢Ni-N
+pCo1Ni6Pc,,37,96.05,metal doping,303.4,1.4,298,15.756,351.06,7.2,h-type cell,0.5,KHCO3,-0.9,-16.422,4,2,amine,Co&Ni,7.6,Pc,TCB,5.92,CO,0,Co-N¡¢Ni-N
+pCo1Ni6Pc,,37,93.93,metal doping,266.2,1.244,298,10.852,227.12,7.2,h-type cell,0.5,KHCO3,-1,-15.596,4,2,amine,Co&Ni,7.6,Pc,TCB,10.44,CO,0,Co-N¡¢Ni-N
+pNiPc,,37,32.04,unmodified,258,1.2,298,4.8,120.1,7.2,h-type cell,0.5,KHCO3,-0.5,-0.1,4,2,amine,Ni,7.31,Pc,TCB,12.66,CO,0,Ni-N
+pNiPc,,37,80,unmodified,258,1.8,298,4.8,120.1,7.2,h-type cell,0.5,KHCO3,-0.6,-0.62,4,2,amine,Ni,7.31,Pc,TCB,12.66,CO,0,Ni-N
+pNiPc,,37,97.48,unmodified,258,1.8,298,4.8,120.1,7.2,h-type cell,0.5,KHCO3,-0.7,-4,4,2,amine,Ni,7.31,Pc,TCB,12.66,CO,0,Ni-N
+pNiPc,,37,99,unmodified,258,1.8,298,4.8,120.1,7.2,h-type cell,0.5,KHCO3,-0.8,-12.2,4,2,amine,Ni,7.31,Pc,TCB,12.66,CO,0,Ni-N
+pNiPc,,37,99.03,unmodified,258,2.08,298,4.8,120.1,7.2,h-type cell,0.5,KHCO3,-0.9,-22.28,4,2,amine,Ni,7.31,Pc,TCB,12.66,CO,0,Ni-N
+pNiPc,,37,98.83,unmodified,258,2.22,298,4.8,120.1,7.2,h-type cell,0.5,KHCO3,-1,-29.16,4,2,amine,Ni,7.31,Pc,TCB,12.66,CO,0,Ni-N
+pCuPc,,37,0.78,unmodified,295,1.2,298,12.5,156.4,7.2,h-type cell,0.5,KHCO3,-0.5,-0.31,4,2,amine,Cu,13.26,Pc,TCB,14.77,CO,0,Cu-N
+pCuPc,,37,0.19,unmodified,295,1.2,298,12.5,156.4,7.2,h-type cell,0.5,KHCO3,-0.6,-1.95,4,2,amine,Cu,13.26,Pc,TCB,14.77,CO,0,Cu-N
+pCuPc,,37,2.91,unmodified,295,1.2,298,12.5,156.4,7.2,h-type cell,0.5,KHCO3,-0.7,-3.9,4,2,amine,Cu,13.26,Pc,TCB,14.77,CO,0,Cu-N
+pCuPc,,37,3.5,unmodified,295,1.2,298,12.5,156.4,7.2,h-type cell,0.5,KHCO3,-0.8,-9.14,4,2,amine,Cu,13.26,Pc,TCB,14.77,CO,0,Cu-N
+pCuPc,,37,6.21,unmodified,295,1.2,298,12.5,156.4,7.2,h-type cell,0.5,KHCO3,-0.9,-16.02,4,2,amine,Cu,13.26,Pc,TCB,14.77,CO,0,Cu-N
+pCuPc,,37,7.57,unmodified,295,1.2,298,12.5,156.4,7.2,h-type cell,0.5,KHCO3,-1,-22.9,4,2,amine,Cu,13.26,Pc,TCB,14.77,CO,0,Cu-N
+TPPDA-CoPor-COFs,10.1039/d2qi00336h,38,77.52,unmodified,1209,1.2,298,26.8,226,7.3,h-type cell,0.5,KHCO3,-0.5,-0.88,4,2,aminophenyl,Co,3.35,MPor,TPPDA,1.2,CO,0,Co-N
+TPPDA-CoPor-COFs,,38,87.08,unmodified,1209,1.2,298,26.8,226,7.3,h-type cell,0.5,KHCO3,-0.6,-3.33,4,2,aminophenyl,Co,3.35,MPor,TPPDA,1.2,CO,0,Co-N
+TPPDA-CoPor-COFs,,38,88.89,unmodified,1209,1.2,298,26.8,226,7.3,h-type cell,0.5,KHCO3,-0.7,-6.02,4,2,aminophenyl,Co,3.35,MPor,TPPDA,1.2,CO,0,Co-N
+TPPDA-CoPor-COFs,,38,88.37,unmodified,1209,1.2,298,26.8,226,7.3,h-type cell,0.5,KHCO3,-0.8,-8.89,4,2,aminophenyl,Co,3.35,MPor,TPPDA,1.2,CO,0,Co-N
+TPPDA-CoPor-COFs,,38,90.18,unmodified,1209,1.2,298,26.8,226,7.3,h-type cell,0.5,KHCO3,-0.9,-15.09,4,2,aminophenyl,Co,3.35,MPor,TPPDA,1.2,CO,0,Co-N
+TPPDA-CoPor-COFs,,38,79.07,unmodified,1209,1.2,298,26.8,226,7.3,h-type cell,0.5,KHCO3,-1,-22.2,4,2,aminophenyl,Co,3.35,MPor,TPPDA,1.2,CO,0,Co-N
+TPPDA-CoPor-COF-NSs,,38,74.41,composited,840.6,1.68,298,20.924,403.06,7.3,h-type cell,0.5,KHCO3,-0.5,-0.88,4,2,aminophenyl,Co,4.134,MPor,TPPDA,3.58,CO,0,Co-N
+TPPDA-CoPor-COF-NSs,,38,87.69,composited,1223,1.34,298,27.68,227,7.3,h-type cell,0.5,KHCO3,-0.6,-3.99,4,2,aminophenyl,Co,3.628,MPor,TPPDA,1.14,CO,0,Co-N
+TPPDA-CoPor-COF-NSs,,38,92,composited,1246.8,1.6,298,31.32,216.254,7.3,h-type cell,0.5,KHCO3,-0.7,-8.35,4,2,aminophenyl,Co,3.444,MPor,TPPDA,1.4,CO,0,Co-N
+TPPDA-CoPor-COF-NSs,,38,90.04,composited,1223,1.6,298,31.36,212.454,7.3,h-type cell,0.5,KHCO3,-0.8,-12.41,4,2,aminophenyl,Co,3.284,MPor,TPPDA,1.4,CO,0,Co-N
+TPPDA-CoPor-COF-NSs,,38,90.04,composited,864.6,2.12,298,38.64,241.568,7.3,h-type cell,0.5,KHCO3,-0.9,-19.08,4,2,aminophenyl,Co,2.916,MPor,TPPDA,1.92,CO,0,Co-N
+TPPDA-CoPor-COF-NSs,,38,87,composited,644.8,2.12,298,24,175.508,7.3,h-type cell,0.5,KHCO3,-1,-29.2,4,2,aminophenyl,Co,4.992,MPor,TPPDA,6,CO,0,Co-N
+TPPDA-NiPor-COFs,,38,60.21,unmodified,1175,1.2,298,28.1,224,7.3,h-type cell,0.5,KHCO3,-0.7,-0.23,4,2,aminophenyl,Ni,3.2,MPor,TPPDA,1.2,CO,0,Ni-N
+TPPDA-NiPor-COFs,,38,69.25,unmodified,1175,1.2,298,28.1,224,7.3,h-type cell,0.5,KHCO3,-0.8,-0.47,4,2,aminophenyl,Ni,3.2,MPor,TPPDA,1.2,CO,0,Ni-N
+TPPDA-NiPor-COFs,,38,75.97,unmodified,1175,1.2,298,28.1,224,7.3,h-type cell,0.5,KHCO3,-0.9,-1.35,4,2,aminophenyl,Ni,3.2,MPor,TPPDA,1.2,CO,0,Ni-N
+TPPDA-NiPor-COFs,,38,68.99,unmodified,1175,1.2,298,28.1,224,7.3,h-type cell,0.5,KHCO3,-1,-3.9,4,2,aminophenyl,Ni,3.2,MPor,TPPDA,1.2,CO,0,Ni-N
+MXene@Por-COF-Co-7,10.1039/d3gc03778a,39,17.04,functionalized&composited,400.6018,1.57,298,28.826,372.43,7.6,h-type cell,0.5,KHCO3,-0.5,-0.4,4,2,porphyrin,Co,3.094,MPor,0,1.27,CO,MXene,Co-N
+MXene@Por-COF-Co-7,,39,97.28,functionalized&composited,400.6018,1.57,298,29.708,372.43,7.6,h-type cell,0.5,KHCO3,-0.6,-3.91,4,2,porphyrin,Co,3.094,MPor,0,1.27,CO,MXene,Co-N
+MXene@Por-COF-Co-7,,39,68.05,functionalized&composited,400.6018,1.57,298,30.4,372.43,7.6,h-type cell,0.5,KHCO3,-0.7,-4.24,4,2,porphyrin,Co,3.094,MPor,0,1.27,CO,MXene,Co-N
+MXene@Por-COF-Co-7,,39,41.29,functionalized&composited,400.6018,1.57,298,25.56,372.43,7.6,h-type cell,0.5,KHCO3,-0.8,-4.56,4,2,porphyrin,Co,3.094,MPor,0,1.27,CO,MXene,Co-N
+MXene@Por-COF-Co-7,,39,57.36,functionalized&composited,400.6018,1.57,298,25.56,372.43,7.6,h-type cell,0.5,KHCO3,-0.9,-8.67,4,2,porphyrin,Co,3.094,MPor,0,1.27,CO,MXene,Co-N
+MXene@Por-COF-Co-7,,39,45.14,functionalized&composited,400.6018,1.57,298,25.56,372.43,7.6,h-type cell,0.5,KHCO3,-1,-9.35,4,2,porphyrin,Co,3.094,MPor,0,1.27,CO,MXene,Co-N
+MXene@Por-COF-2H-7,,39,6.66,functionalized&composited,636.2,2.314,298,12.8,393.8,7.6,h-type cell,0.5,KHCO3,-0.9,-1.848,4,2,porphyrin,0,0,MPor,0,0.698,CO,MXene,C=N
+MXene@Por-COF-Co-3,,39,25.7,functionalized&composited,867,1.78,298,22.82,429.66,7.6,h-type cell,0.5,KHCO3,-0.5,-0.47,4,2,porphyrin,Co,0.296,MPor,0,8,CO,MXene,Co-N
+MXene@Por-COF-Co-3,,39,96.05,functionalized&composited,1670.4,1.852,298,25,429.66,7.6,h-type cell,0.5,KHCO3,-0.6,-2.8,4,2,porphyrin,Co,3.742,MPor,0,2.142,CO,MXene,Co-N
+MXene@Por-COF-Co-3,,39,33.11,functionalized&composited,1033.6,1.92,298,27.2,429.66,7.6,h-type cell,0.5,KHCO3,-0.7,-1.33,4,2,porphyrin,Co,0.222,MPor,0,8.4,CO,MXene,Co-N
+MXene@Por-COF-Co-3,,39,49.76,functionalized&composited,1214.4,1.84,298,25.3,429.66,7.6,h-type cell,0.5,KHCO3,-0.8,-2.95,4,2,porphyrin,Co,1.02,MPor,0,7.84,CO,MXene,Co-N
+MXene@Por-COF-Co-3,,39,51.2,functionalized&composited,1099.004,1.84,298,26.7,429.66,7.6,h-type cell,0.5,KHCO3,-0.9,-4.88,4,2,porphyrin,Co,1.02,MPor,0,6.46,CO,MXene,Co-N
+MXene@Por-COF-Co-3,,39,34.55,functionalized&composited,1033.6,1.68,298,29.1,429.66,7.6,h-type cell,0.5,KHCO3,-1,-5.25,4,2,porphyrin,Co,0.148,MPor,0,8.4,CO,MXene,Co-N
+MXene@Por-COF-Co-5,,39,20.6,functionalized&composited,867,1.64,298,26.606,458.34,7.6,h-type cell,0.5,KHCO3,-0.5,-0.45,4,2,porphyrin,Co,0.296,MPor,0,8,CO,MXene,Co-N
+MXene@Por-COF-Co-5,,39,66.12,functionalized&composited,1324.2,1.62,298,26.92,458.34,7.6,h-type cell,0.5,KHCO3,-0.6,-2.34,4,2,porphyrin,Co,4.668,MPor,0,4.864,CO,MXene,Co-N
+MXene@Por-COF-Co-5,,39,42.83,functionalized&composited,1033.6,1.92,298,23.994,458.34,7.6,h-type cell,0.5,KHCO3,-0.7,-2.4,4,2,porphyrin,Co,0.074,MPor,0,8.4,CO,MXene,Co-N
+MXene@Por-COF-Co-5,,39,52.07,functionalized&composited,1099.004,1.56,298,26.7,458.34,7.6,h-type cell,0.5,KHCO3,-0.8,-4.52,4,2,porphyrin,Co,1.02,MPor,0,6.46,CO,MXene,Co-N
+MXene@Por-COF-Co-5,,39,55.82,functionalized&composited,1155.604,1.42,298,26.7,458.34,7.6,h-type cell,0.5,KHCO3,-0.9,-6.99,4,2,porphyrin,Co,2.902,MPor,0,4.882,CO,MXene,Co-N
+MXene@Por-COF-Co-5,,39,34.84,functionalized&composited,1033.6,1.68,298,29.1,458.34,7.6,h-type cell,0.5,KHCO3,-1,-6.09,4,2,porphyrin,Co,0.148,MPor,0,8.4,CO,MXene,Co-N
+MXene@Por-COF-Co-1,,39,26.49,functionalized&composited,464.92036,1.768,298,20,441.132,7.6,h-type cell,0.5,KHCO3,-0.5,-2.718,4,2,porphyrin,Co,3.3388,MPor,0,0.934,CO,MXene,Co-N
+MXene@Por-COF-Co-1,,39,66.57,functionalized&composited,749.64072,3.128,298,22.76,329.04,7.6,h-type cell,0.5,KHCO3,-0.6,-4.506,4,2,porphyrin,Co,3.6176,MPor,0,1.848,CO,MXene,Co-N
+MXene@Por-COF-Co-1,,39,35.35,functionalized&composited,464.92036,1.768,298,20,429.686,7.6,h-type cell,0.5,KHCO3,-0.7,-3.926,4,2,porphyrin,Co,3.3388,MPor,0,0.934,CO,MXene,Co-N
+MXene@Por-COF-Co-1,,39,50.86,functionalized&composited,432.76108,1.702,298,18.08,429.686,7.6,h-type cell,0.5,KHCO3,-0.8,-5.738,4,2,porphyrin,Co,3.2164,MPor,0,1.102,CO,MXene,Co-N
+MXene@Por-COF-Co-1,,39,57,functionalized&composited,448.84072,2.256,298,16.812,429.686,7.6,h-type cell,0.5,KHCO3,-0.9,-5.602,4,2,porphyrin,Co,3.6176,MPor,0,1.018,CO,MXene,Co-N
+MXene@Por-COF-Co-1,,39,25.78,functionalized&composited,464.92036,1.768,298,20,358.332,7.6,h-type cell,0.5,KHCO3,-1,-0.598,4,2,porphyrin,Co,3.3388,MPor,0,0.934,CO,MXene,Co-N
+MXene@Por-COF-Co-9,,39,14.1,functionalized&composited,542.12036,2.074,298,20.4,346.886,7.6,h-type cell,0.5,KHCO3,-0.5,-0.708,4,2,porphyrin,Co,2.0528,MPor,0,2.364,CO,MXene,Co-N
+MXene@Por-COF-Co-9,,39,64.75,functionalized&composited,391.84072,3.128,298,22.76,373.308,7.6,h-type cell,0.5,KHCO3,-0.6,-4.506,4,2,porphyrin,Co,3.6176,MPor,0,1.848,CO,MXene,Co-N
+MXene@Por-COF-Co-9,,39,55.09,functionalized&composited,448.84072,1.636,298,16.812,429.686,7.6,h-type cell,0.5,KHCO3,-0.7,-5.602,4,2,porphyrin,Co,3.2776,MPor,0,1.018,CO,MXene,Co-N
+MXene@Por-COF-Co-9,,39,63.04,functionalized&composited,391.84072,3.128,298,21.36,373.308,7.6,h-type cell,0.5,KHCO3,-0.8,-4.506,4,2,porphyrin,Co,3.6176,MPor,0,1.848,CO,MXene,Co-N
+MXene@Por-COF-Co-9,,39,60.22,functionalized&composited,391.84072,2.442,298,21.36,373.308,7.6,h-type cell,0.5,KHCO3,-0.9,-4.506,4,2,porphyrin,Co,3.6176,MPor,0,1.848,CO,MXene,Co-N
+MXene@Por-COF-Co-9,,39,29.61,functionalized&composited,481,1.768,298,20,396.864,7.6,h-type cell,0.5,KHCO3,-1,-2.696,4,2,porphyrin,Co,3.4,MPor,0,0.85,CO,MXene,Co-N
+Cu-PyCA-MCOF,10.1002/adfm.202315368,40,41.48,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-0.6,-68.306,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CO,0,Cu-N
+Cu-PyCA-MCOF,,40,38.13,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-0.8,-68.5,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CO,0,Cu-N
+Cu-PyCA-MCOF,,40,25.84,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-1,-39.252,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CO,0,Cu-N
+Cu-PyCA-MCOF,,40,18.72,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-1.2,-39.2,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CO,0,Cu-N
+Cu-PyCA-MCOF,,40,15.5,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-1.4,-17.38,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CO,0,Cu-N
+Cu-PyCA-MCOF,,40,7.96,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-1.6,-17.398,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CO,0,Cu-N
+Cu-PyCA-MCOF,,40,2.23,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-0.6,0.3,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CH4,0,Cu-N
+Cu-PyCA-MCOF,,40,8.66,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-0.8,-6.27,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CH4,0,Cu-N
+Cu-PyCA-MCOF,,40,15.92,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-1,-21.81,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CH4,0,Cu-N
+Cu-PyCA-MCOF,,40,29.33,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-1.2,-59.16,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CH4,0,Cu-N
+Cu-PyCA-MCOF,,40,36.45,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-1.4,-109.06,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CH4,0,Cu-N
+Cu-PyCA-MCOF,,40,46.37,unmodified,785.1,1.9,298,15.2,263,14,flow cell,1,KOH,-1.6,-172.11,2.26,2,copper based,Cu,5.63,PyCA¡¢TAPT,0,1.52,CH4,0,Cu-N
+Cu-PyCAOH-MCOF,,40,32.4,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-0.6,-36.642,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CO,0,Cu-N
+Cu-PyCAOH-MCOF,,40,23.32,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-0.8,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CO,0,Cu-N
+Cu-PyCAOH-MCOF,,40,25,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-1,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CO,0,Cu-N
+Cu-PyCAOH-MCOF,,40,25.14,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-1.2,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CO,0,Cu-N
+Cu-PyCAOH-MCOF,,40,12.85,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-1.4,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CO,0,Cu-N
+Cu-PyCAOH-MCOF,,40,19.97,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-1.6,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CO,0,Cu-N
+Cu-PyCAOH-MCOF,,40,1.26,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-0.6,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CH4,0,Cu-N
+Cu-PyCAOH-MCOF,,40,7.82,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-0.8,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CH4,0,Cu-N
+Cu-PyCAOH-MCOF,,40,9.36,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-1,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CH4,0,Cu-N
+Cu-PyCAOH-MCOF,,40,11.31,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-1.2,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CH4,0,Cu-N
+Cu-PyCAOH-MCOF,,40,16.62,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-1.4,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CH4,0,Cu-N
+Cu-PyCAOH-MCOF,,40,14.94,unmodified,726.4,1.4,298,23.3,819,14,flow cell,1,KOH,-1.6,-36.356,2.08,2,copper based,Cu,2.57,PyCA¡¢TAPT,THF,1.55,CH4,0,Cu-N
+3D-Por(Co/H)-COF,10.1039/d1ta10991j,41,92.4,unmodified,922,0.62,298,34,141.362,7.6,h-type cell,0.5,KHCO3,-0.6,-2.49,3.84,3,aminophenyl,Co,6.566,MTAPP,TFPM,0.62,CO,0,Co-N
+3D-Por(Co/H)-COF,,41,88.99,unmodified,922,0.62,298,34,205.454,7.6,h-type cell,0.5,KHCO3,-0.7,-4.51,3.84,3,aminophenyl,Co,7.6,MTAPP,TFPM,0.62,CO,0,Co-N
+3D-Por(Co/H)-COF,,41,84.87,unmodified,922,0.62,298,34,271.514,7.6,h-type cell,0.5,KHCO3,-0.8,-6.36,3.84,3,aminophenyl,Co,7.6,MTAPP,TFPM,0.62,CO,0,Co-N
+3D-Por(Co/H)-COF,,41,84.02,unmodified,922,0.62,298,34,256.06,7.6,h-type cell,0.5,KHCO3,-0.9,-9.49,3.84,3,aminophenyl,Co,7.6,MTAPP,TFPM,0.62,CO,0,Co-N
+3D-Por(Co/H)-COF,,41,82.86,unmodified,922,0.62,298,34,256.06,7.6,h-type cell,0.5,KHCO3,-1,-11.92,3.84,3,aminophenyl,Co,6.566,MTAPP,TFPM,0.62,CO,0,Co-N
+3D-Por(Co/H)-COF,,41,78.94,unmodified,922,0.62,298,34,351.06,7.6,h-type cell,0.5,KHCO3,-1.1,-15.5,3.84,3,aminophenyl,Co,5.532,MTAPP,TFPM,0.62,CO,0,Co-N
+3D-Por(H)-COF,,41,3.65,unmodified,1232,0.6,298,33,191.9,7.6,h-type cell,0.5,KHCO3,-0.9,-0.718,4,3,aminophenyl,0,0,MTAPP,TFPM,0.63,CO,0,C=N
+3D-Por(H)-COF,,41,1.76,unmodified,1232,0.6,298,33,191.9,7.6,h-type cell,0.5,KHCO3,-1,-0.718,4,3,aminophenyl,0,0,MTAPP,TFPM,0.63,CO,0,C=N
+3D-Por(H)-COF,,41,1.53,unmodified,1232,0.6,298,33,191.9,7.6,h-type cell,0.5,KHCO3,-1.1,-0.718,4,3,aminophenyl,0,0,MTAPP,TFPM,0.63,CO,0,C=N
+3D-Por(H)-COF,,41,1.29,unmodified,1232,0.6,298,33,191.9,7.6,h-type cell,0.5,KHCO3,-1.2,-0.718,4,3,aminophenyl,0,0,MTAPP,TFPM,0.63,CO,0,C=N
+TT-Por(Co)-COF,10.1002/smll.202004933.,42,91.4,unmodified,748,1.5,298,12,162.8,8.4,h-type cell,0.5,KHCO3,-0.6,4.2,4,2,aminophenyl¡¢carbonyl¡¢H,Co,4.16,MTAPP,TT,1.2,CO,0,Co-N
+TT-Por(Co)-COF,,42,85.2,unmodified,748,1.5,298,12,159.4,8.4,h-type cell,0.5,KHCO3,-0.7,7.2,4,2,aminophenyl¡¢carbonyl¡¢H,Co,4.16,MTAPP,TT,1.2,CO,0,Co-N
+TT-Por(Co)-COF,,42,51.5,unmodified,748,1.5,298,12,300.4,8.4,h-type cell,0.5,KHCO3,-0.8,5.9,4,2,aminophenyl¡¢carbonyl¡¢H,Co,4.16,MTAPP,TT,1.2,CO,0,Co-N
+TT-Por(Co)-COF,,42,27.5,unmodified,748,1.5,298,12,209.26,8.4,h-type cell,0.5,KHCO3,-0.9,4,4,2,aminophenyl¡¢carbonyl¡¢H,Co,4.16,MTAPP,TT,1.2,CO,0,Co-N
+COF-366-Co,,43,67.41,unmodified,1700,4.5,295,23.4,178.8,8.4,h-type cell,0.5,KHCO3,-0.6,1.4,4,2,aminophenyl¡¢formyl¡¢carbonyl¡¢H,Co,4.78,MTAPP,BDA,10,CO,0,Co-N
+COF-366-Co,,43,67,unmodified,1700,4.5,295,23.4,182,8.4,h-type cell,0.5,KHCO3,-0.7,2.88,4,2,aminophenyl¡¢formyl¡¢carbonyl¡¢H,Co,4.82,MTAPP,BDA,10,CO,0,Co-N
+COF-366-Co,,43,32.39,unmodified,1700,1.4,295,23.4,402.444,8.4,h-type cell,0.5,KHCO3,-0.8,2.36,4,2,aminophenyl¡¢formyl¡¢carbonyl¡¢H,Co,0,MTAPP,BDA,10,CO,0,Co-N
+COF-366-Co,,43,14.98,unmodified,1700,1.4,295,23.4,415.9,8.4,h-type cell,0.5,KHCO3,-0.9,1.98,4,2,aminophenyl¡¢formyl¡¢carbonyl¡¢H,Co,3.06,MTAPP,BDA,10,CO,0,Co-N
+COF-366-Co,10.1021/jacs.7b11940,43,87,unmodified,1700,5,295,23.4,261,7.2,3-piece glass cell,0.5,KHCO3,-0.67,45,4,2,aminophenyl¡¢H¡¢formyl¡¢carbonyl,Co,0.37,MTAPP,BDA,10,CO,0,Co-N
